@@ -2,7 +2,6 @@ import os
 import time
 
 from markovbot import MarkovBot
-from local_settings import *
 
 # # # # #
 # INITIALISE
