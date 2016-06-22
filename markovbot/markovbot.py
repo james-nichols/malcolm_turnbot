@@ -825,6 +825,7 @@ class MarkovBot():
 					
 					# Detect the language of the tweet, if the
 					# language of the reply depends on it.
+                                        database = self._autoreply_database
 					if self._autoreply_database == u'auto-language':
 						# Get the language of the tweet, or default
 						# to English if it isn't available.
@@ -850,6 +851,8 @@ class MarkovBot():
 							database = u'default'
 							self._message(u'_autoreply', u"There was no database for detected language '%s', nor for 'en', so I defaulted to '%s'." % (lang, database))
 	
+                                        import pdb
+                                        pdb.set_trace()
 					# Separate the words in the tweet
 					tw = tweet[u'text'].split()
 					# Clean up the words in the tweet
