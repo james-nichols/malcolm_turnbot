@@ -1,8 +1,12 @@
-MarkovBot
-=========
+Malcolm Turnbot
+===============
+
+This is Malcolm Turnbot, the Agile Disruptor 1000. Here to make #JobsAndGrowth.
+Made from a fork of markovbot by @esdalmaijer.
 
 ABOUT
 -----
+
 This library allows you to generate random text using a Markov chain. It has a
 single class, MarkovBot, which can read text files of your choice. You can then
 make it generate random text. If you have a Twitter account, you can also make
