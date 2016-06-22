@@ -19,11 +19,11 @@ tweetbot.read(book)
 
 # The MarkovBot uses @sixohsix' Python Twitter Tools, which is a Python wrapper
 # for the Twitter API. Find it on GitHub: https://github.com/sixohsix/twitter
-
-cons_key = MY_CONSUMER_KEY 
-cons_secret = MY_CONSUMER_SECRET
-access_token = MY_ACCESS_TOKEN_KEY
-access_token_secret = MY_ACCESS_TOKEN_SECRET
+os.environ['S3_KEY'],
+cons_key = os.environ['MY_CONSUMER_KEY']
+cons_secret = os.environ['MY_CONSUMER_SECRET']
+access_token = os.environ['MY_ACCESS_TOKEN_KEY']
+access_token_secret = os.environ['MY_ACCESS_TOKEN_SECRET']
 
 # Log in to Twitter
 tweetbot.twitter_login(cons_key, cons_secret, access_token, access_token_secret)
