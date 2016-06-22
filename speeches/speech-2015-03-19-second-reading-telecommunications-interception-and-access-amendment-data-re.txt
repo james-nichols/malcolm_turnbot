@@ -1,0 +1,196 @@
+Mr TURNBULL (Wentworth—Minister for Communications) (10:38): I thank all
+honourable members for their contributions to this debate. Access to metadata
+plays a central role in almost every counter-terrorism, counterespionage,
+cyber security and organised crime investigation. It is used in almost all
+serious criminal investigations, including investigations into murder, serious
+sexual assaults, drug trafficking and kidnapping.  
+  
+The use of this kind of metadata, therefore, is not new. I would like to
+reconfirm, for the benefit of honourable members and anyone watching this at
+home or at work, what we are talking about when we talk about metadata. We are
+talking about the traditional information about telephone calls that we used
+to get on our telephone bills. We are all familiar with it. It shows the
+caller, the A-party; the B-party, the called number; the time of the call; the
+length of the call; and, in a mobile network operator's situation, the
+location of the call—the nearest base station to which it was connected.  
+  
+  
+  
+That information has been available—it has been kept by telcos often for very
+long periods, well in excess of two years—and it has been accessed from time
+immemorial. In terms of the IP world, the internet world, we are talking about
+what we can call the customer IP address. When a device is connected to the
+internet its internet service provider will allocate it an IP address, which
+is a unique number.  
+  
+That IP address is connected, obviously, to the account holder. That IP
+address may become apparent in some other context where it is important for
+law enforcement to know which account holder that IP address was allocated to.
+Again, those records have been kept, in some cases, for a very long time. They
+have been accessed for a long time by law enforcement, but, as I will describe
+a little later in these remarks, there is now the risk that they will not be
+kept at all or will be kept for very brief periods—and there are consequences
+for that.  
+  
+What we are talking about here is not storing what people are doing
+online—what they are saying and what websites that are visiting. This is about
+retaining classes of data for two years that are being retained now, and where
+there is a concern that, because business practices have changed, they will
+not need to be retained in the future. This is very important.  
+  
+This is not a question of the government requiring telcos to retain a record
+of what websites you visit or the content of your emails—let alone your
+telephone calls—and so forth. The deficiency and inconsistency of current data
+records was highlighted in June last year when the AFP received information
+from Interpol about a suspect who had made a statement online that they
+intended to sexually assault a baby. Interpol provided IP address details
+belonging to an Australian carrier. As the Australian carrier only retained
+data—that is to say, customer IP address data—for a maximum of seven days, no
+results were available and the suspect was unable to be identified. That
+example is not isolated. The police advise us they have dozens of examples.  
+  
+The bill, as I said a moment ago, will establish a common industry standard
+for data retention practices that will assist agencies to protect the
+Australian public. Importantly, it will prevent the further degradation of the
+investigative capacities of Australia's law enforcement and national security
+agencies. I note that the measures in the bill have been formulated, and will
+be further refined, with the benefit of two bipartisan inquiries undertaken by
+the Parliamentary Joint Committee on Intelligence and Security.  
+  
+The committee's first inquiry was completed in 2013 under the chairmanship of
+the member for Holt, the Hon. Anthony Byrne MP. It recommended a number of
+reforms to Australia's national security legislation, including how a data
+retention scheme should be shaped, should the government of the day decide to
+introduce such a scheme. This bill represents the government's response to
+chapter 5 of that report.  
+  
+Following my introduction of the bill on 30 October, the Attorney-General
+referred it to the committee, now under the chairmanship of the member for
+Wannon, Mr Dan Tehan. The committee recommended the passage of the bill in its
+advisory report. The committee's support was subject to 38 recommendations.
+Twenty-six of these recommendations relate to amendments to the bill or the
+explanatory memorandum. A further 11 recommendations relate to additional
+administrative measures, including additional resourcing for the committee,
+the Commonwealth Ombudsman and reviews. The committee also recommended the
+proposed two-year retention period be retained. We accepted the
+recommendations of the committee and will move amendments, where required, to
+implement them.  
+  
+The government will be tabling a replacement explanatory memorandum
+elaborating on the justification for various measures in the bill in line with
+the committee's recommendations. I note that many honourable members have
+expressed their support for the implementation of the committee's
+recommendations, and we look forward to working constructively with members of
+this committee on the relevant amendments to the bill when we reach the
+committee stage.  
+  
+Now, in addition, the government has announced that it will move amendments to
+require a warrant to access data for the purpose of identifying a journalist's
+confidential source. It will also establish a public interest advocate, who
+will have a role in making submissions in respect of those warrants. This is a
+very important protection. I see that the honourable member for Isaacs, the
+shadow Attorney-General, is now in the chamber. I want to note the cooperation
+that he and his colleague the member for Blaxland, the shadow communications
+minister, has given me in the course of this week in settling the terms of
+these amendments and reaching agreement on them. I will deal with some aspects
+of the debate.  
+  
+The member for Melbourne, who has an amendment, has suggested that this bill
+is being rushed. My response to the honourable member is simply that the
+committee has conducted not one but two inquiries on this. Data retention has
+been the subject of a public inquiry by the Senate Legal and Constitutional
+Affairs References Committee since December 2013. This is not a new issue by
+any means.  
+  
+As far as the opposition's contribution is concerned I want to thank those
+opposite for their expression of support for both the bill and the
+government's proposed amendments, which will be moved shortly. There have been
+many important issues raised in the debate but in the time available—and given
+the central focus of discussion in recent days on this—I want to focus on the
+question of the treatment of journalists.  
+  
+This raises very important and legitimate questions around the power of law
+enforcement agencies to investigate journalists' sources. All of us understand
+that the work that journalists do is just as important in our democracy as the
+work that we do as legislators—or, indeed, the work that the Public Service
+does in undertaking and executing the policies of government. I think it was
+Jefferson who said that if he was given a choice of a government without
+newspapers or newspapers without government he would choose the latter.
+Fortunately, we do not have to make that choice, but our democracy depends
+absolutely, fundamentally on a free press and journalists being able to do
+their work.  
+  
+But journalists are subject to the law, like everybody else. There was a
+concern that the bill, by introducing an ability, so it was argued, for law
+enforcement and security agencies to obtain journalists' metadata to
+investigate sources suspected of illegally disclosing information—for example,
+checking which telephone numbers had called a journalist's number or vice
+versa—this ability might have a chilling effect on sources cooperating with
+journalists, who would be fearful of investigation or prosecution.  
+  
+Those concerns are misguided, in our submission. The bill does not grant law
+enforcement or security agencies any new powers in the way they access
+metadata of journalists or anyone else. In fact, agencies have been able to
+access this type of data for more than 20 years. What it does, as I said
+earlier, is simply ensure that the types of data that are currently being
+retained will be retained for a consistent period. In a number of cases,
+particularly with telephony metadata, some of the larger carriers now retain
+metadata for very long periods—for seven years in one case.  
+  
+There is nothing in the bill, therefore, that should concern journalists about
+their right to do their jobs—their duty to do their jobs—and to deal
+confidentially with their sources. Obviously, journalists should take care to
+protect their sources. Like the Prime Minister, I am a former journalist. Both
+of us have had a rake's progress. We started off as honest journalists, and
+here we are as politicians—'What's next?' you may think; 'It can only get
+worse!'—so we understand the importance of this work.  
+  
+The bill provides several new and strengthened safeguard and oversight
+measures—all of which are directly relevant to journalists and their sources.
+It reduces the number of agencies which automatically qualify for access to
+metadata from about 80 down to 20. It introduces, for the first time,
+comprehensive oversight by the Commonwealth Ombudsman for any Commonwealth,
+state or territory law enforcement agency accessing metadata.  
+  
+The bill sets up a new oversight mechanism, where any request by an agency to
+access data to identify a journalist's source must be provided to the
+Inspector-General of Intelligences and Security in the case of ASIO, and the
+Ombudsman in the case of the AFP. Further, the Attorney-General will also
+notify a parliamentary committee of each authorisation to identify a
+journalist's source. In addition, and very significantly, we are proposing
+additional amendments to require agencies to obtain independent pre-approval
+in the form of an new journalist information warrant to access a professional
+journalist's metadata, or that of their employer, for the purpose of
+identifying a confidential source.  
+  
+These warrants will be issued by judges and members of the AAT—the
+Administrative Appeals Tribunal—in the case of law enforcement agencies, or by
+the Attorney-General in the case of ASIO. The warrant would relate to a single
+journalist named on the face of the warrant. It would require the issuing
+authority to consider, among other things, the public interest in protecting
+the confidentiality of the particular source in question.  
+  
+To assist in this last point the amendments will also see the establishment of
+a public interest advocate—or persons who will be public interest
+advocates—who will be able to make submissions in response to the application
+for a warrant on the matters of public interest that the warrant-issuing
+authority should consider. These are the amendments that have been negotiated
+with the opposition—and, again, I thank them for their cooperation in that.  
+  
+I also thank the media companies and journalist organisations for their
+contributions to this debate. This has been a very good legislative process,
+with the combination of public discussion, engagement between government and
+opposition and, above all, the work of the committee. I want to thank the
+committee for its work—under the chair, the member for Wannon, and the deputy
+chair, the member for Holt—and for its thorough, constructive and bipartisan
+review of the measures in the bill.  
+  
+The work of the committee and the constructive, thoughtful contributions of
+honourable members to this debate is a reflection on the very high quality of
+parliamentary scrutiny that is applied to Australia's national security
+legislation. We should always be approaching these matters of national
+security in a thoroughly bipartisan way and, where there are differences of
+opinion and differences of approach, we should be able to resolve them in the
+very constructive way we have here. Naturally I want to thank my colleague the
+Attorney-General and his team both in his office and in his department for all
+of their hard work on this bill.

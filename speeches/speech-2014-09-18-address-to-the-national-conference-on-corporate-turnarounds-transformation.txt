@@ -1,0 +1,117 @@
+have drawn down 46 per cent of its total available equity by June 2015 (when
+the rollout is estimated to extend to only 10 to 12 per cent of premises).  
+  
+Several other operational areas continue to be of concern to the Government:  
+  
+● Integration of the various multi-technology access technologies and products
+with NBN Co’s BSS/OSS systems has not yet been achieved. This is an area that
+needs to be watched.  
+  
+● NBN Co’s customer ratings remain poor due to issues such as missed
+appointments, lengthy waits for new service and inability to activate service
+on the day.  
+  
+● There are question marks over BSS/OSS scalability and the scalability of
+customer-facing functions such as service activation. Both need to ramp up to
+four or five times current volumes by 2015-2016, as customer acquisition
+accelerates.  
+  
+● There is no evidence FTTP or fixed wireless costs per premise are declining.  
+  
+● The timetables for finalising amendments to the Telstra DAs and the Optus
+HFC agreement remain a risk, and may be complicated by adverse decisions from
+the ACCC.  
+  
+Beyond execution risks, which could be thought of as tactical in nature, are
+the structural risks I touched upon earlier which are more strategic - that
+is, grounded in the changed industry structure and whole-sale only model of
+NBN Co that accompany the rollout.  
+  
+The fundamental issue is that the NBN as conceived by Labor – a wholesale-only
+open access network, built from scratch by a taxpayer-funded start-up,
+offering a high basic service at uniform national prices, and committed to
+burdensome financial obligations entered under Labor – is not able to earn
+genuine commercial returns.  
+  
+While the financial projections in the Strategic Review assumed a much less
+generous revenue outlook for NBN Co than Labor’s Corporate Plans, they still
+indicated that if the project was built within the estimated budget envelope,
+it would earn a positive return.  
+  
+Given the magnitude of the sums committed to by Labor under the DAs, however,
+the economics are always going to be challenging. This is exacerbated by the
+high cost of Labor’s non-FTTP capex commitments (especially to IT systems,
+fixed wireless, transit and satellite) and the recent ‘discovery’ of more
+users in regional Australia than originally forecast, all of whom have been
+promised a 25 Megabit per second basic service. The more customers in these
+areas, the harder it will become to deliver this service level without costs
+blowing out.  
+  
+There are two final risks I want to briefly note.  
+  
+The first is around technology and competition. While fibre fanatics love to
+scoff at anyone who dares suggest wireless will ever be competitive with fixed
+line access, the work of Clay Christiansen tells us (if we had not worked it
+out already) that often a ‘good-enough’ offering beats a technically more
+advanced offering because of lower cost and greater convenience. Wireless may
+prove a formidable competitor, perhaps sooner than expected – which speaks to
+the value in avoiding laying too many costly FTTP fibre lead-ins to users who
+don’t really need them.  
+  
+Of course wireless will also potentially present opportunities for NBN Co, if
+it becomes a backhaul provider to owners of distributed small cell networks.  
+  
+Last of all, there are risks to the NBN from inflated political and public
+expectations.  
+  
+Fast broadband provides very large benefits for the economy and society, but
+it is a travesty that Labor deliberately conflated access to fast broadband
+with fibre, and was so irresponsible in exaggerating the impact of the NBN on
+people’s lives.  
+  
+Sometimes I fear that every mayor in Australia thinks the project will turn
+their town into Silicon Valley. People with perfectly good broadband
+connections today – for example over HFC - have been brainwashed to believe
+that their world will be changed forever if they get fibre to the premises.  
+  
+Yet the truth is that for the 50 or 60 per cent or so of Australians with good
+broadband today, the NBN will often be indistinguishable from what they
+already have assuming their current line speeds are sufficient to run the
+applications they need and value. They’ll wonder what all the fuss was about –
+and why the NBN is costing so much and taking so long.  
+  
+Let me conclude on that sombre note. Bringing a sense of reality to a
+beautiful dream is never going to invite popularity, and many people remain
+incensed that we’ve killed that dream to save a mere $30 or $40 billion.  
+  
+On the other side of the argument are people who say the project should have
+been shut down. Leaving aside the political dimension, we were satisfied that
+the cost of shutting it down was at least $15 billion and likely quite a bit
+more.  
+  
+But I’m confident that everything we’ve seen so far tells us the Coalition's
+strategy is the right one and that we have the right team in place.  
+  
+Anybody who argues otherwise would do well to consider the elevated level of
+risk that is still inherent in the NBN even after all of our work and the work
+of Bill Morrow and his team.  
+  
+[1] Parliament of Australia, Senate Economics Committee – ‘Performance of the
+Australian Securities & Investments Commission’ – Canberra, June 2014, p.449.  
+  
+[2] Online at: http://www.deloitte.com/assets/Dcom-
+Australia/Local%20Assets/Documents/news-
+research/Building%20the%20lucky%20country/Deloitte_Digital_Disruption_Whitepaper_Sep2012.pdf  
+  
+[3] Online at:  
+  
+http://www.deloitte.com/view/en_AU/au/news-research/luckycountry/digital-
+disruption/index.htm  
+  
+[4] Australia Post – FY2014 Financial Results - Online at:
+http://auspost.com.au/about-us/australia-post-fy14-financial-results.html  
+  
+[5] NBN Co – NBN Co Strategic Review – Dec 2013, pp.38-40. Note the blowout in
+required funding is $34 billion (or 77 per cent) if the original forecast and
+post-election revised outlook use the same 20 per cent capex contingency
+reserve.

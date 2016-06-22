@@ -1,0 +1,350 @@
+The National Broadband Network is the nation's largest and most costly
+infrastructure project.  
+  
+Regrettably, it is also the most misunderstood and misrepresented. That is
+because for the four years of its life under Labor, the NBN has been shrouded
+in a web of spin, obfuscation and exaggeration.  
+  
+Forecasts have been set, missed, set again, missed again, set a third time,
+and missed a third time.  
+  
+Beguiling promises have been offered but not delivered.  
+  
+This is not a question of fibre versus copper. The key issue is only how far
+fibre optics are pushed out into the network and whether they must reach into
+every home and every business or, whether existing copper infrastructure can
+be used for the last few hundred metres and in so doing save much time,
+inconvenience and many billions of dollars.  
+  
+The NBN project needs, more than anything, an end to spin.  
+  
+After I became Minister for Communications, I wrote to the employees of NBN
+Co, telling them this Government expects to receive the unvarnished truth, not
+what they think we want to hear.  
+  
+Forecasts, business plans and practices need to be informed by sober reality.
+NBN Co's people must be free to express their views and perform their work
+without worrying whether they are contradicting a Minister's press release.  
+  
+1\. Background to the Strategic Review  
+  
+On October 3 the Government asked NBN Co to undertake a Strategic Review of
+this vitally important project. In a nutshell we posed three questions:  
+  
+Where is the project now?  
+  
+How much will it cost and how long will it take to complete under Labor's
+specifications?  
+  
+And what are our options for completing it sooner and at less cost?  
+  
+NBN Co delivered a draft report on December 2 and its final report today. We
+are releasing the final document presented by NBN Co in full, subject only to
+certain redactions sought by the Company to protect its interests in current
+and prospective legal and commercial agreements.  
+  
+The Strategic Review confirms what many Australians suspected, but both of my
+predecessors as Communications Minister shamefully concealed from the public.  
+  
+The rollout is two years behind after three years and won't finish until the
+mid-2020s.  
+  
+Costs are so high that they will add $43 per month to a typical household's
+broadband bill.  
+  
+And NBN Co faces a daunting internal transformation under its new leadership.  
+  
+Critically, this report is not reverse engineered to justify or rationalise
+government policy – whether set out in a speech, conjured up by press release
+or sketched on the back of a drink coaster.  
+  
+I emphasise this point because the facts so methodically presented in the
+Review make it plain that the NBN is in a worse state than Australians have
+been told.  
+  
+We were told the case for a fibre-to-the-premises NBN was so potent there was
+no need for cost-benefit analysis.  
+  
+We were assured this costly project could be built without any increase in
+broadband charges.  
+  
+And we were repeatedly told the rollout was on schedule and within budget.  
+  
+Even just prior to the September 7 election, long after it was clear to most
+observers that the rollout was missing every goal, the Member for Grayndler
+continued to assert 5.5 million households and businesses would get the NBN by
+2016.  
+  
+The former Minister knew that was untrue as demonstrated by the draft 2013 NBN
+Co Corporate Plan he had received, and accorded to a leaked minute published
+in The Australian presented to Cabinet in July.  
+  
+Madam Speaker, turning this project around is a formidable challenge, but we
+are determined to complete the project as quickly as we can, at the lowest
+possible cost to taxpayers, and affordably for consumers.  
+  
+And we are equally determined that in the rollout of the NBN, the many
+Australians without adequate fixed line broadband today, particularly in
+regional areas, receive top priority.  
+  
+2\. Progress & Prospects of the Current Rollout  
+  
+I will start by outlining the Strategic Review's findings regarding the
+previous Government's NBN policy. Because the situation at NBN Co is far worse
+than Parliament and the public were led to believe, worse even than the most
+trenchant critics of the NBN imagined.  
+  
+Rollout Schedule  
+  
+Construction of the network has fallen further and further behind schedule. At
+the end of September the Labor NBN's fibre, satellite and wireless networks
+were available at 384,000 homes and businesses.  
+  
+That's barely 3 per cent of the 13 million premises NBN Co must reach to
+finish the job.  
+  
+It's only 45 per cent of the forecast for September in NBN Co's latest
+Corporate Plan.  
+  
+And it's over a million premises behind Julia Gillard's rollout announcement
+in December 2010.  
+  
+Because of construction delays, the Strategic Review estimates Labor's NBN
+will not be completed until 2024. That's three and a half years later than
+stated in the Corporate Plan, six years later than claimed in Labor's original
+FTTP plan in 2009, and eleven years later than promised by Kevin Rudd in 2007.  
+  
+  
+  
+Service Delays  
+  
+The brownfields rollout – which is connecting homes and businesses in
+established areas – is in even worse shape. At the end of September 227,000
+premises were 'passed' with fibre, which normally means the occupant can order
+a service and receive it within a few days.  
+  
+But 74,000 were 'service class zero,' a term unique to NBN Co, which indicates
+they cannot foreseeably obtain service. These are mostly businesses and multi-
+dwelling premises such as apartment blocks.  
+  
+A further 104,000 were 'service class one,' which indicates fibre hasn't yet
+been run from the street into the household or business. This can take six
+months or more. So the bottom line is that the occupants of fewer than one in
+four established premises 'passed' by fibre can order service and expect to
+get it in a reasonable and predictable timespan.  
+  
+Costs & Revenues  
+  
+The cost of constructing the NBN to Labor's plans has also blown out. The
+Strategic Review estimates completing it requires funding of $73 billion –
+another $29 billion or 65 per cent beyond the cost forecast by the current
+Corporate Plan.  
+  
+Unit costs for parts of the network are twice as much as forecast, while NBN
+Co is burdened by what the Review frankly admits are excessive corporate
+overheads ramped up in anticipation of a level of construction and customer
+activity that never materialised.  
+  
+The revenue assumptions made under Labor are also extremely optimistic, and
+entirely at odds with industry experience here or abroad. NBN Co and its
+advisers found revenues between now and 2021 have been overstated by $13
+billion compared to the midpoint of two more realistic revenue scenarios
+presented – one plausibly optimistic, and one plausibly pessimistic.  
+  
+  
+  
+Retail Prices  
+  
+The exact impact of Labor's NBN on the price Australians pay for broadband
+depends on investment returns and retail service provider margins. But if NBN
+Co's goal is to earn the 7.1 per cent return promised by the previous
+Government, and RSP margins remain unchanged in dollar terms, Labor's NBN will
+drive up retail prices by between 50 and 80 per cent.  
+  
+That means a $43 per month increase in the broadband bill paid by a typical
+Australian household.  
+  
+  
+  
+As I've noted previously, the most shocking aspect of the NBN is Labor's
+arrogant disregard for the devastating effect of price rises driven by their
+policy on the take-up of broadband among low income households.  
+  
+Those opposite may not care, but the Strategic Review confirms the gravity of
+this problem.  
+  
+To summarise, Madame Speaker, the cold hard facts about Labor's NBN are
+profoundly at odds with the fanciful tales and wishful thinking of those
+opposite.  
+  
+And it is important to note that achieving even these projections of higher
+costs and slower construction schedules requires a very significant
+improvement in NBN Co's productivity and efficiency from current levels. In
+the absence of such an improvement, outcomes will be materially worse.  
+  
+  
+  
+3\. Alternative Options for the NBN  
+  
+The second broad set of questions the Finance Minister and I assigned the
+Strategic Review involved exploring alternatives to the existing NBN, which as
+we've seen will cost billions more and take years longer to complete than was
+ever admitted to the public.  
+  
+The Strategic Review's baseline scenario is its revised outlook for the NBN
+proposed by Labor. Beyond this it considers five additional scenarios:  
+  
+The second is a radical redesign of the all fibre-to-the-premises NBN. This
+cuts one year and $9 billion off the baseline, but at $64 billion it's no
+bargain.  
+  
+The Review examines three intermediate scenarios, which make increasing use of
+existing network infrastructure to cut costs to more reasonable levels.  
+  
+The sixth and final scenario is an NBN utilising a multi-technology mix, or
+MTM, model. This optimises the rollout by choosing the most economically
+efficient technology in each locality according to its housing stock, existing
+infrastructure and user demand.  
+  
+The scenario recommended by NBN Co's leadership is the last: the MTM model.
+But none of the scenarios can escape the irresponsible and wasteful current
+and future expenses locked in on Labor's watch. The NBN Co Strategic Review
+team estimates the burden of these inescapable costs at $15 billion or more.  
+  
+  
+  
+The MTM Rollout  
+  
+Under an MTM model 26 per cent of premises in the fixed line footprint will
+receive very fast broadband over fibre to the premises. Another 44 per cent
+are served with fibre-to-the-node, building or distribution point, while the
+last 30 per cent are served via upgraded HFC – the cable rolled out for pay TV
+in our capital cities in the late 1990s.  
+  
+HFC networks are capable of delivering hundreds of megabits per second today,
+just like fibre, but under Labor's plan Telstra and Optus were to be paid
+billions to switch them off.  
+  
+The MTM scenario is the least expensive modelled scenario, requiring funding
+of $41 billion.  
+  
+  
+  
+This will still be the biggest and most expensive infrastructure project in
+our history and the largest single national broadband project in the world.
+Regrettably it will be many billions of dollars more expensive than it would
+have been had the MTM approach been taken from the outset. Labor has wasted
+billions which we can never recover.  
+  
+An MTM network can be substantially completed by 2019 – when 91 per cent of
+premises in the fixed line footprint will have access to download rates of 50
+megabits per second or more, and between 65 and 75 per cent will have 100
+megabits per second or more – and entirely finished by 2020.  
+  
+  
+  
+Coalition Election Commitments  
+  
+This means the Coalition's goal of completing the NBN in the next six years –
+set out in our April policy, released long before we knew the truth about the
+damaged project we would inherit from Labor – can be achieved.  
+  
+Disappointingly that's not the case for the objective we also expressed of
+delivering nationwide access to 25 megabits per second by 2016.  
+  
+The rollout is drastically further behind schedule than we expected in April.
+NBN Co's latest estimate of the established premises it will reach with fibre
+by June 2014 is only 357,000 – 772,000 fewer than claimed by Labor at the time
+of the election.  
+  
+And NBN Co is in a far worse condition, its contractor relationships more
+damaged, and its capacity to change course and assimilate new technologies
+more debilitated and diminished than even we allowed for.  
+  
+A policy based on the Strategic Review's MTM scenario can, however, deliver
+very fast broadband to twice as many premises by 2016 as were ever going to
+receive it under Labor.  
+  
+And Madame Speaker, let me make this pledge on behalf of the Government: we
+will work assiduously with NBN Co to do everything we can to surpass the
+forecasts in the Strategic Review. Likewise, we remain determined to ensure
+our NBN connects those Australians with the worst broadband in priority,
+unlike the NBN managed by our predecessors.  
+  
+Broadband Quality  
+  
+Upgrading from download rates of 5 megabits per second to 25 or 50 megabits
+per second would be welcomed by any internet user, but for those with limited
+or no access to adequate fixed broadband at all, it is transformational.  
+  
+Shortly we will publish the first ever analysis of broadband availability in
+Australia. It will confirm areas encompassing about 1.5 million premises have
+little or no broadband. Many are in regional areas. All are victims of the
+lack of investment in fixed line communications by private carriers over the
+past six years, which is yet another damaging by-product of the gap between
+Labor's rhetoric and execution on broadband.  
+  
+Return on Investment  
+  
+The Review's preferred scenario saves $32 billion compared to business as
+usual under Labor. While that's the sort of number the Rudd and Gillard
+Governments tossed around with abandon, it's a saving that makes a difference.
+It allows the network to earn a return roughly equal to the Commonwealth bond
+rate and ensures prices don't rise in real terms.  
+  
+This Strategic Review points the way to a new corporate plan, but it is not
+yet the new corporate plan. More work is required to set the NBN on a
+responsible and affordable course.  
+  
+An important step in the reform of the NBN, announced today, is the
+appointment of a new CEO, Mr Bill Morrow, currently the chief executive of
+Vodafone Australia. Mr Morrow is a very experienced telecom engineer and chief
+executive who has managed and indeed constructed telecom networks in America,
+Asia and Europe.  
+  
+4\. Cost Benefit Analysis and Review of Regulation  
+  
+Part of the work is a cost-benefit analysis of the economic and social returns
+from broadband and a review of the long-term regulation of NBN Co which will
+also inform the new Corporate Plan.  
+  
+The Government is today announcing an experienced and distinguished panel to
+carry out that inquiry, which will report by June: it will be chaired by Dr
+Michael Vertigan AC, who will be joined by Ms Alison Deans, Dr Henry Ergas and
+Mr Tony Shaw.  
+  
+5\. Conclusion  
+  
+Madame Speaker,  
+  
+I congratulate and thank the team at NBN Co and its advisers who prepared the
+Strategic Review, which is the most thorough and objective analysis of the
+National Broadband Network ever provided to Australians - a highly
+professional piece of work prepared in a very tight timeframe.  
+  
+The internal NBN Co team was led by its Head of Strategy and Transformation,
+JB. Rousselot, and ably supported by Tim Ebbeck and many others. The company's
+outside advisers were the Boston Consulting Group, KordaMentha,and Deloitte.
+Valuable insights came from international experts including Mike Galvin from
+Openreach and Mark Ratcliffe from Chorus.  
+  
+Finally, I want to thank the NBN Board and most of all its Executive Chairman,
+Dr Ziggy Switkowski.  
+  
+Despite the delays and disappointments, the concept of a National Broadband
+Network remains popular. Australians want universal access to high quality
+broadband and so does the Government because of the misguided way the previous
+Government embarked on this project, as much as $15 billion has been
+unnecessarily spent to achieve this goal. And those dollars cannot be
+recovered.  
+  
+To date the NBN has been the most wasteful infrastructure project in our
+history.  
+  
+But we are where we are. And let me assure the House that under this
+Government, we can complete this project as we promised – sooner, at less cost
+to taxpayers and more affordably for consumers. Our first step in that mission
+is to end the spin and the wishful thinking, and embrace reality.  
+  
+I table the Strategic Review of the National Broadband Network and commend it
+to the House. It will be available from today on the website of the NBN Co.

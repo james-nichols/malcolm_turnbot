@@ -1,0 +1,259 @@
+Good morning.  
+  
+Thank you to Suzanne Campbell and to the AIIA board for the invitation to
+participate in today's conference.  
+  
+Identifying meaningful patterns through the analysis of data is nothing new.
+In the 1850s, physician John Snow famously identified the source of London's
+cholera epidemic through the analysis of data and pattern identification.
+Importantly, Snow's work was an early example of the power of data—the power
+of analysis and the ability to identify meaningful trends. This not only
+disproved the common theories of the day, it confirmed that the cause of the
+epidemic was the contaminated Broad Street Pump.  
+  
+Now, I would not want to discourage any contemporary health researchers from
+emulating Snow and closely investigating the filthiest parts of their city,
+but the good news is that we do have alternatives. Modern technology, not
+least of which the internet, is doing that for us— generating unprecedented
+volumes of information, of data, to shape products and services and drive the
+quality and effectiveness of what governments and business can do.  
+  
+The opportunities presented by 'big data', data so large and complex that it
+would have been impossible for John Snow to identify meaningful patterns using
+traditional techniques, is possible because of two key factors:  
+  
+The cost of storing transmitting and processing or analysing data is cheaper
+today than it has ever been. In the last 50 years the cost of digital storage
+has halved roughly every two years, storage density has increased 50-million
+fold and our ability to process that data has increased exponentially doubling
+every eighteen months.  
+  
+This has, in part, led to an explosion in the volume of data available to
+consumers, to business and, of course, to government. In 2013, the amount of
+stored information in the world was estimated to be around 1200 exabytes. This
+is the equivalent of giving every person living on Earth today 320 times as
+much information as is estimated to have been stored in the Library of
+Alexandria. 1  
+  
+And it's important to remember, this data is mostly stored in a machine
+readable form—a profound difference between todays easy to access data and
+previous techniques used to collect and store.  
+  
+Secondly, the explosion in the sheer volume of information coupled with the
+similarly explosive growth in processing power has meant that the need to find
+a scrupulously accurate sample (the world of small data) has been overtaken by
+the availability of all of the data—much of it messy but in such volumes that
+new correlations can be found. In other words quantity trumps quality.  
+  
+Until fairly recently, although data was considered valuable, it was either
+seen as ancillary to the core operations of running a business, or limited to
+relatively narrow categories such as intellectual property or personal
+information. Today, all data is valuable, in and of itself and to unlikely
+sources. What is the best predictor of a flu outbreak? Searches on Google for
+flu remedies!  
+  
+We like to think of sites like Google and Amazon as the pioneers of big data,
+but of course governments were the original gatherers of information on a mass
+scale, and they still rival any private enterprise for the sheer volume of
+data they control.  
+  
+All those digital bits that we have gathered can now be harnessed in novel
+ways, to serve new purposes and unlock new forms of value—new opportunities.
+But this requires new ways of thinking and will challenge our institutions and
+even our sense of identity. The one certainty is that the amount of data will
+continue to grow, as will the power to process it all.  
+  
+I think there are two key questions that Government's must ask when collecting
+and analysing data.  
+  
+Firstly, we must question how we can best use all this data to improve the way
+we run government—both in making government more efficient and in improving
+the way we make evidence based policy decisions.  
+  
+Secondly, we must ask, 'who is best placed to exploit the data that government
+collects'? Is this a role for government or are industry and citizens, the
+public, more innovative and resourceful in extracting value from data?  
+  
+One obvious example where government can deliver genuine value to the public
+is in the area of online customer services– an area where information, where
+complex data, can drive deep customer insights. If these insights are
+harnessed in an intelligent way– and there's no reason they shouldn't be—we
+have a real opportunity for government to deliver more accessible and better
+quality services.  
+  
+We are, unfortunately, behind our peers in the private sector when it comes to
+utilising technology—harnessing the power of digital innovation—to deliver
+better and more accessible services online.  
+  
+This is particularly apparent when you look to the banking sector, with most
+of our banks conducting the majority of their transactions with customers
+online. In fact, Michael Harte, the CIO of the Commonwealth Bank recently told
+me that the CBA conducts 95 per cent of its transactions virtually, that is to
+say over the Internet.  
+  
+The key here is not that banks, or even government, are delivering more
+content, more and more services, online—although this is a good start. The key
+is, and this is an important point, services are constantly evolving to meet
+the expectations of users. Gone are the days of three or even one year refresh
+cycles—instead, user patterns are driving deep insights into the preferences
+of consumers and this is allowing business, and will allow government, to
+deliver more targeted, better quality services than before.  
+  
+That is why we are committed to making available all major government services
+and interactions with individuals online—to make government more accessible,
+more efficient. This is the cornerstone of our Convenient Services Anytime
+Anywhere policy.  
+  
+Enhancing whole-of-government data connectivity and better use of data and
+analytics will provide even greater efficiencies and effectiveness. To date,
+there have been isolated activities to improve data sharing and connectivity
+between agencies, but we need a targeted and coordinated approach to transform
+the business model of how government agencies currently operate.  
+  
+So what does this use of big data analytics within a government context look
+like?  
+  
+A great example is the Australian Tax Office, recently nominated as the lead
+agency by AGIMO for a data analytics centre of excellence—to better understand
+their client base and manage their engagement strategy.  
+  
+A data initiative that I am particularly proud of is the Department of
+Communications' MyBroadband website, which allows Australians to find out the
+ratings of broadband availability and quality in their local area based on
+analysis conducted at the end of last year.  
+  
+The website is a result of the Broadband Availability and Quality Report,
+which contained findings based on a spatial analysis and analytics of the
+coverage of broadband customer access networks, along with an estimate of
+their likely performance based on known constraints.  
+  
+This analysis used available information and measured broadband availability
+as a description of the infrastructure currently in place and used the
+possible speeds achievable over that infrastructure as the measure of quality.
+As the NBN is rolled out, this data will be updated to reflect the rollout's
+progress and most importantly the data in that Report will guide the rollout
+as we prioritise the least well served areas.  
+  
+It is remarkable that after so many years of politicians talking about
+broadband and the digital divide that until now there had been no effort to
+systematically map where broadband availability was good, bad or indifferent.  
+  
+I should note here, as I have before, how much I appreciate the remarkable job
+my Department did to produce that report in such a short time.  
+  
+There are real issues facing government in exploiting data analytics within
+the public service.  
+  
+Access and retention of staff is one of them. Data analytics requires a new
+type of employee, one who has the right mix of technical experience, business
+knowledge, motivation and, importantly, technological imagination.  
+  
+Data infrastructure is another. Government purchasing and tendering processes
+don't lend themselves to rapid change and adjustment of IT infrastructure as
+technology evolves. This issue has really only been addressed sporadically by
+departments. We are moving to a more flexible approach that leverages the
+private sector to coordinate enabling infrastructure as government departments
+move into larger data sets and more complex analytics.  
+  
+Of course, one of the key issues for government, and that which is of greatest
+concern to citizens, is privacy. Big data raises new challenges in respect to
+the privacy and security of data.  
+  
+Maintaining the public's trust in the Government's ability to ensure the
+privacy and security of the data it stores and has control over is paramount.  
+  
+The use of anonymised data, clear government policies on privacy and adequate
+IT security are all key methods currently being used within Government to
+ensure we use data analytics appropriately to maximise service delivery and
+efficiency.  
+  
+There are a number of specific issues around privacy that need to be managed
+if agencies are to realise the benefits of big data, including:  
+  
+The second, and arguably more important question of how the government should
+use its data is how it can best be exploited for public benefit. It is
+important to remember that government's data value is latent and requires
+innovative analysis to unleash.  
+  
+But despite their special position in capturing information—governments are
+the only institution or organisation that can compel people to provide them
+with information—they are often ineffective at using it. Part of this may be
+because of the personal or confidential nature of the information government
+collects—whether it be health records or tax returns—but, more often than not,
+it is government's lack of imagination and absence of incentives to exploit
+the great value from data.  
+  
+The Open Data movement contends that the best way to extract the value of
+government data is to give it to the private sector and citizens—to make it
+truly open. There is a principle behind this as well. When the state gathers
+data, it does so on behalf of its citizens, and thus it ought to provide
+access to society (except in a limited number of circumstances, such as when
+doing so might harm national security or the privacy rights of others). 2  
+  
+We have already seen disruptive use of government data give rise to real time
+apps—for example, one of my favourites the NSW transport app TripView, which
+allows individuals to track the exact time of arrival of a bus or train from
+their nearest stop based on real time data. These real time apps are a game
+changer in mass transit. Hitherto received wisdom was that mass transit should
+be so frequent that patrons did not need to use a timetable—they could show up
+at the station or bus stop knowing that within five or ten minutes the train
+or bus would arrive. That is feasible in big densely settled cities but in
+most parts of Australia, it is hard to deliver. However a real time app like
+Tripview means that you know exactly where your bus is, whether it is on time
+or late and you can therefore manage your own time to be there when it
+arrives—if its running ten minutes late, have another coffee, linger on your
+walk to the station to chat to a neighbor. In short it materially reduces the
+inconvenience of less frequent services by giving the would be traveler
+certainty about when to turn up.  
+  
+By making available its extensive data sets, government—through open data—has
+a critical enabling role to play. Would the real time app, and countless
+others, be available without free and easy to access government data? In many
+cases the answer, quite simply, would be no. Or, at least in the absence of
+open data, accessing government data sets would be a costly and time consuming
+exercise.  
+  
+Unfortunately, in Australia, the private sectors interest in leveraging public
+data has been limited simply because of the lack of data that has been made
+publicly available.  
+  
+We are committed to working with agencies to ensure the publication of data
+becomes a routine government function.  
+  
+And importantly, if we are to catch up with the United States, which has
+published more than 200,000 data sets, we must ensure that data is not only
+published regularly but in a machine readable form.  
+  
+We are committed to turning around our slow start to empower the private
+sector to capitalise on the disruptive potential of information, of data.  
+  
+The establishment of data.gov.au and the publication of the Principles on Open
+Public Sector Information (PSI) have been important steps in opening up the
+data held by Commonwealth agencies for re-use.  
+  
+The current Australian Government's Principles on open public sector
+information state that open access should be our default position. And this
+approach is reflected in the United States too where President Barack Obama,
+on his first full day in office, who issued a presidential memorandum that,"in
+the face of doubt, openness prevails [when it comes to the release of agency
+data]." 3  
+  
+And, as recommended by the Government 2.0 Taskforce, the information must be
+truly open. So unless there are good reasons, to the contrary, government
+information should be:  
+  
+Making big datasets available to the public will allow start-ups to leverage
+this information to drive new and exciting innovations, many of which will
+lead to productivity improvements, like the real time transport app I
+mentioned earlier.  
+  
+We have an extraordinary national asset at our fingertips, one that should,
+and will, be used to drive new insights, improve access to information and
+underpin the types of services that are delivered.  
+  
+I look forward to the communique AIIA will be releasing at the end of this
+summit.  
+  
+Thank you  
+  
+[ENDS]

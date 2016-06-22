@@ -1,0 +1,346 @@
+'NBN Rebooted'  
+  
+CommsDay Conference Sydney, 18 November 2013  
+  
+I’m pleased to be here this morning to help kick off the NBN Rebooted
+Conference, and I congratulate Michael Lee and John Stanton at the
+Communications Alliance and Grahame Lynch at Commsday for making this event
+happen. Likewise, I thank Alcatel Lucent, the major sponsor, and the rest of
+the sponsors for their support.  
+  
+It’s tremendously encouraging that people from every corner of the
+telecommunications industry have chosen to attend this event in such numbers.  
+  
+From the outset, the National Broadband Network has been a colossal
+undertaking, well beyond the capabilities of any single firm or any government
+to execute on their own.  
+  
+I’ve previously expressed the view that the Government should not be nearly as
+involved in this project as we are.  
+  
+Elsewhere in the world the standard model of building new generation networks
+has been for governments to provide subsidies to support deployment in less
+economic, typically rural and remote, areas and for the project and business
+execution risk to be carried by those best able to manage it – the private
+sector.  
+  
+However the previous Labor Government turned all that on its head. Instead of
+Government having a certain financial commitment, it was the private telcos
+who received financial certainty in the form of a cheque. And all of the
+execution risk of the largest, most complex, broadband deployment in the world
+was assumed by the Australian Government in the form of a start up. The folly
+remains breathtaking to this day and more obvious every day.  
+  
+We would never, ever have undertaken this project in this manner. And you only
+have to look to New Zealand or indeed the UK to see much wiser and more cost
+effective approaches.  
+  
+However we are where we are.  
+  
+But make no mistake; to get this project back on track and completed in a
+reasonable timeframe at a reasonable cost is a daunting challenge.  
+  
+And it is abundantly clear to me that to achieve that goal, we are going to
+need commitment and flexibility, patience and hard work from the entire
+industry – not just from Telstra and Optus, not just from iiNet and Vodafone,
+but from across the whole sector: service providers, carriers, vendors,
+contractors, policymakers and regulators.  
+  
+Over the next two days you’ll have the opportunity to hear voices representing
+many of these points of view.  
+  
+So will my colleagues and I – and let me assure you that we’ll be listening
+carefully.  
+  
+The profoundly disappointing progress on the NBN so far holds many lessons.
+But one of the most important is that Government simply doesn’t possess all
+the answers, especially when it comes to executing a complex plan in a fast-
+changing industry such as ours.  
+  
+On the contrary, the woeful performance of the NBN rollout against its
+financial and operational targets so far indicates that there is a vast amount
+that the Government and NBN Co have to learn. It’s my hope that this event can
+make a constructive contribution to that exercise. I’ll speak in greater
+detail about the current state of play at NBN Co shortly, to the extent that
+I’m able to do so without pre-judging or pre-empting the findings of the
+Strategic Review presently underway and due to be presented by the board of
+NBN Co to the Government in early December.  
+  
+But first let me make a few points about the broadband policy the Coalition
+took to the election on 7 September, and some of its implications for the way
+the Government is going to approach the NBN.  
+  
+Optionality  
+  
+You’ve heard me say many times that our main objections to the previous
+Government’s NBN were its excessive cost, the significant length of time it
+would take to complete, and its shifting of a very large amount of risk from
+private investors to taxpayers and the public purse. Those all remain valid
+concerns.  
+  
+But today I want to elaborate on another of our core issues with the current
+plan – the more subtle but hardly less important objection that it
+unnecessarily forecloses on optionality, by setting in concrete choices that
+can valuably be deferred.  
+  
+History tells us that policy-makers and politicians are not very good at
+predicting what’s going to happen next and there is not shortage of evidence
+for that in the telecommunications and technology industries.  
+  
+In hindsight, of course, ministers and senior public servants claim to have
+seen the signs of an unexpected development even as they scramble to put
+together a retrospective rationale. But the truth is that governments are all
+too often blindsided, particularly when a shift is distinct from previous
+experience.  
+  
+Nicholas Taleb describes the framework that we should ideally bring to
+forecasting:  
+  
+“Probability is not a mere computation of odds on the dice or more complicated
+variants; it is the acceptance of the lack of certainty in our knowledge and
+the development of methods for dealing with our ignorance.”  
+  
+But that is easier said than done. And in the case of the ICT industries
+generally, and the NBN specifically, the dangers are magnified. We can see
+this in the rapidly changing external context for the NBN that have occurred
+since April 2009, when the NBN Mark 1 was ditched and the current one-
+technology-fits-93% FTTP plan proposed.  
+  
+At the time NBN Mark 2 was unveiled, Cisco’s first VNI index, which had been
+released in the middle of 2008 predicted consumer use of Internet traffic (in
+terms of volume) would grow at an annual rate of 49 per cent over the half-
+decade from 2007 to 2012 [1].  
+  
+As it happens, that prediction turned out to be extraordinarily accurate –
+consumer Internet volumes grew at a rate very close to Cisco’s estimate over
+those five years.  
+  
+Today, in contrast, we see that the most recent VNI, which was released in
+June 2013, forecasts a growth rate for total consumer use of data over the
+five years from 2012 to 2017 of just 23 per cent. Rather than data volumes
+doubling every two years, now they are doubling every four years.  
+  
+That is still very rapid growth, but not nearly as intimidating to carriers as
+it was.  
+  
+And even more importantly, large growths in the volume of data being carried
+across the Internet and indeed being consumed by households are driven
+overwhelmingly by video consumption and it is self evident that data
+consumption can continue to grow without a correlated growth in line speeds.  
+  
+Granular analyses of current and projected broadband consumption falls short
+of the very high predicted line speed requirements which all too often assume
+there is a linear correlation between volume growth and the demand for greater
+line speed [2].  
+  
+Plainly, if costly and irreversible investment decisions can be deferred until
+demand either materializes or can reasonably be foreseen, savings arising from
+the time value of money are not the only economic value generated. There is
+also very real value in keeping the option open of doing something different
+than what might seem at a certain point in time to be the obvious answer – of
+responding to changing technology and changing market conditions.  
+  
+Changing Market Conditions  
+  
+Likewise, in the past five years we have seen an explosion in new techniques
+for wringing higher data rate broadband out of copper telephone wires. In fact
+between the widespread deployment of fibre to the cabinet plus VDSL2, the
+emergence of vectoring and bonding, the initial commercial trialing of fibre
+to the distribution point, and emerging protocols such as g.fast, it is fair
+to describe the past five years as having encompassed a revolution in the way
+copper is used.  
+  
+Equally important changes are continuing to come at us at a rapid pace.  
+  
+Wireless networks are increasingly being rolled out using small cell
+technologies that dramatically lower the cost of extending the reach and
+throughput of this channel – but also creating the need for deep fibre
+backhaul networks in urban areas.  
+  
+Radiofrequency spectrum is used more efficiently, greatly increasing the data
+that can be sent over wireless networks. And mobility has proven to be a key
+source of productivity and convenience gains from more advanced
+communications, even as larger-screen higher-definition TVs (the key driver of
+consumer use of bandwidth) give way for many of us to personal TV viewing on
+tablets.  
+  
+A more nimble approach to designing (and imagining) the NBN can preserve a
+great deal of this optionality.  
+  
+So next time you read or hear someone claim that FTTN is a ‘waste’ because the
+network will just have to be upgraded to FTTP some time later pause for a
+moment and consider optionality. Consider its value, and consider the vast
+changes we’ve seen in so many areas since 2009.  
+  
+And consider what a difference they have made to the economic and
+technological parameters within which the NBN will be rolled out.  
+  
+The previous Government didn’t get this point. It was naively willing to
+forego any optionality whatsoever in its reckless pursuit of what was seen to
+be a ‘pure’ technological solution that cut through three knotty problems at a
+stroke – very fast broadband, improvements to regional services, and the
+unwinding of Telstra’s vertical integration.  
+  
+The resulting plan for the NBN was portrayed to taxpayers and consumers as
+commercially viable and free of risk. Heroic revenue assumptions with
+unprecedented growths in ARPU marched out into the future all the way to an
+equally heroic assumed sale in 2040 based on an eye-popping EBIT margin and
+multiple to produce a huge terminal value. And as if this was not enough, it
+was then discounted back to today’s money at a discount rate appropriate to a
+mature, low risk venture [3].  
+  
+I see The Australian has reported one investment bank told the previous
+Government that in its view the project had a negative NPV of $31 billion –
+based it would seem on a more conservative view of both the amount and
+riskiness of the future cashflows. Senator Penny Wong has complained that this
+advice is a “selective” account of the total received by Labor in Government.
+Well there is a simple solution to that. Mr Shorten, as Opposition Leader, can
+authorize the release of cabinet papers of the previous Government, otherwise
+inaccessible to the Coalition.  
+  
+He should do so.  
+  
+Where is the NBN up to?  
+  
+One result of the glacial rollout of the existing monolithic approach to the
+NBN is that Australia has continued to fall in rank on most indices of
+broadband quality – we are a troubling 29th in fixed broadband penetration,
+according to the 2013 United Nations ‘State of Broadband Report’ [4]. Last
+year we ranked 26th [5].  
+  
+Just as the NBN volume rollout was planned to be ramping up, we are sliding
+down the league tables of international competitiveness in terms of broadband.  
+  
+The NBN rollout is simply not reaching enough Australian households and
+businesses in a timeframe or at a cost that is sustainable. If you want to see
+that, check the weekly data we now publish on the NBN Co website.  
+  
+Australians consumers are paying a high price for the rigidity of the previous
+plan, which Minister Conroy was unwilling to admit until after the voters had
+had their say.  
+  
+As the Strategic Review delves further into the current state of the rollout,
+we are slowly getting a better handle on what NBN Co really was capable of
+achieving under the outgoing management, and how we need to bolster its
+capabilities.  
+  
+Shortly before the election, the NBN Co revised its June 30 2014 premises
+passed target down to 600,000 brownfield premises, about half what had been
+estimated in August the previous year.  
+  
+However it appears that even that estimate was unduly optimistic and it is
+likely that when new, realistic and genuinely achievable targets are set they
+will be materially lower – around 450,000. Compare that to Labor’s December
+2010 target of 2.2 million brownfield premises passed with fibre by June 2014,
+and we see NBN Co is on a path to achieve only 21 per cent of the original
+forecast.  
+  
+NBN Reform  
+  
+We can’t change the past, but we’ve moved quickly since the election to make
+changes at NBN Co that equip it to transition to a more predictable,
+affordable and achievable rollout.  
+  
+Critically, we’ve advised NBN Co that the network should be rolled out cost-
+effectively using the technology best matched to the circumstances of each
+locality. This is fundamentally different to the Conroy model of decreeing
+GPON for 93 per cent of the country.  
+  
+To this end, on September 24 the Government provided NBN Co with an interim
+Statement of Expectations to guide construction and operational activities
+while a series of reviews of the NBN project are carried out.  
+  
+In the transition period, NBN Co aims to avoid service disruption for
+consumers; minimise the impact on the construction industry of the switch to a
+mixed technology rollout by continuing FTTP deployment where building
+contracts are in place and also in areas where fibre is the appropriate
+technology such as business precincts and greenfield developments; and achieve
+a less costly and quicker rollout plan as seamlessly as possible.  
+  
+On October 3 we announced the terms of reference of the strategic review and
+changes to the Board and senior management, including the appointment of Dr
+Ziggy Switkowski as Executive Chair of NBN Co.  
+  
+On November 12 we appointed three further directors – Justin Milne, Patrick
+Flannigan and Simon Hackett – with many decades of combined industry
+experience to the NBN Co Board. Several key changes in the executive ranks
+have also been made, notably the appointments of Greg Adcock and JB Rousselot,
+both experienced former Telstra executives. The search for a CEO is well
+advanced as well.  
+  
+The above reforms are a good platform to start sorting out the mess. The next
+step is the Strategic Review, which will provide a frank assessment of the
+trade-offs between time to market, service levels and costs involved in
+delivering high-speed broadband to all Australians. This Review must be an
+exercise in truth telling. We want hand on heart true, realistic and
+achievable options prudently costed and scoped on which we can make weighty
+decisions. There is no longer any room at NBN Co for spin or for telling the
+Minister what people imagine he wants to hear.  
+  
+In short I want the team, the management, the board at NBN Co to regard every
+forecast, every decision as something they would be prepared to defend in a
+prospectus for a public listed company. It is critical for the health of that
+company that it has forecasts and goals which it can meet. I can only imagine
+how debilitating it must have been over the last three years to be constantly
+setting and missing and setting and missing one forecast after another.  
+  
+There is no pre-determined outcome. I have always said that everything is on
+the table. The Government will be guided by evidence-based recommendations,
+whatever they might be. That is surely the only logical position a responsible
+Government could take. The Strategic Review will give NBN Co and the
+Government options, and a clearer fact base upon which to base our decisions.
+Of course the process of examining, investigating and revising the business
+case for the NBN will not end with the Review – it should also be seen as a
+stepping stone to a new Corporate plan in mid-2014.  
+  
+Conclusion  
+  
+In closing, let me remind you that up to two million households and businesses
+across Australia cannot get basic fixed-line broadband at present. Addressing
+these underserviced areas first is a key objective of our NBN policy.  
+  
+As a priority my Department, with the assistance of NBN Co and private
+carriers, will provide the Government and Parliament with a ranking of
+broadband quality and availability in all areas of Australia. This ranking
+will be published for comment and review and guide future prioritisation of
+the rollout.  
+  
+At long last, the NBN rollout will be directed towards the areas that need it
+the most.  
+  
+Some renegotiation of the Telstra Definitive Agreements is required and we
+look forward to concluding that before too long and in a spirit of
+collaboration and partnership. Telstra after all is NBN Co’s biggest customer
+and has a considerable vested interest in the project’s successful completion.  
+  
+None of this will be easy, however, and I expect we will suffer occasional
+setbacks along the way – you can’t expect a turnaround of this magnitude to
+unfold without a hitch. But I am cautiously optimistic about the NBN, for the
+first time in its four and a half years of existence. We are assembling the
+right team and the Strategic Review will help us frame the right plan. But
+please remember what I said at the outset – building an NBN that works isn’t a
+matter for Government alone. I need your help, your expertise and wisdom, your
+advice, and your patience.  
+  
+Thank you for your time this morning.  
+  
+ENDS  
+  
+  
+  
+References  
+  
+[1] Cisco VNI – Projected Five Year Growth Rate, Bandwidth Usage:  
+  
+[2] See for example Robert Kenny & Tom Broughton “Domestic Demand for
+Bandwidth” 5 November 2013 produced for the UK Broadband Stakeholder Group.  
+  
+[3] The terminal value in 2040 for NBN Co required to generate a 7.1 per cent
+return on equity will be a matter examined by the Strategic Review. Most
+publicly available independent estimates have suggested the required disposal
+value of NBN Co to achieve the benchmark is in the order of $90 billion, or
+10-12 times EBITDA – a very aggressive assumption.  
+  
+[4] Available online here, p.92  
+  
+[5] Available online here, p.84

@@ -1,0 +1,290 @@
+Well good morning and welcome to the CommsDay 'NBN Rebooted' conference.  
+  
+And congratulations to Grahame Lynch and CommsDay for providing the leading
+forum for a lively but informed debate about the future of this industry in
+general and, especially today, the NBN in particular.  
+  
+I wonder, however, whether "NBN Rebooted" is the right term. After all we
+generally reboot a computer because there has been a crash (well that's apt)
+but we do so by turning it off and then after a respectful pause, turning it
+on again.  
+  
+The theme, I suppose, is one of renewal and starting again. If only it had
+been or could have been so easy.  
+  
+The NBN project was certainly, demonstrably, on the wrong track by the time of
+the election, but we did not stop the project and start again. The process has
+been more like changing the course of an aircraft carrier. We continued with
+the construction of the fibre to the premises network, but on a more
+consistent, professional basis and at the same time proceeded to change the
+deployment strategy in line with conclusions of the strategic review.  
+  
+The NBN project over the last year has been a story of continuity and change,
+the foot firmly on the accelerator but wiser and more experienced hands on the
+steering wheel.  
+  
+There have been many changes in the last year and I will discuss some of them
+in a moment, but the biggest change has been the most basic and in some ways
+the most obvious.  
+  
+The Australian Government, as sole shareholder, has enabled the company to do
+what any successful business must do - focus relentlessly on the needs of the
+customers.  
+  
+What do they want? What will they pay for? What, in short, are the service
+levels customers will value?  
+  
+The technology platform that delivers those service levels is an important
+consideration for the NBN Co, but is not of much interest to their customers.
+As I asked a journalist in Tasmania recently "Do you imagine your readers have
+any interest in the brand of printing press you operate, whether the paper is
+delivered on a bike or in a van, let alone what publishing program you use?
+All they care about is the quality of the product - how you get there is your
+concern."  
+  
+And so the NBN Co under Ziggy Switkowski and Bill Morrow's leadership is now
+refocussed on its customers and their requirements.  
+  
+This is summed up in the company's mission statement, which is "to enable the
+digital economy and close the digital divide" .  
+  
+This morning, the NBN Co released its 2014-17 Corporate Plan.  
+  
+This is very much an interim document. It does not provide new operational
+forecasts beyond 30 June 2015. They will be set out in a full three year plan
+expected to be completed by the company early next year.  
+  
+We recruited Bill Morrow as the CEO because of his track record in turning
+around telecom businesses and his experience in building from scratch a large
+telecom network.  
+  
+Bill's calm and deliberate leadership, supported by a very well qualified
+Chairman and board and an experienced and determined executive team, is
+already showing great progress.  
+  
+In the last year, the company has finalised key milestones, including:  
+  
+I saw this first hand in Tasmania last week with VisionStream, where the
+relationship has evolved from one with a narrow focus on liquidated damages to
+one where both companies are working tightly to improve productivity.  
+  
+Many of the lessons learnt from the rollout so far need to be implemented
+around the country and I am proud to see evidence of this occurring:  
+  
+David Thodey once described the commercial deal with the NBN Co as the most
+complex ever signed in Australia's corporate history2.  
+  
+The amendments to those Definitive Agreements with Telstra (and their
+counterparts with Optus) are equally complex.  
+  
+I want to record here my appreciation for the dedication of all those
+involved, on both sides, and especially the team from NBN Co and the
+Department of Communications.  
+  
+It is a long time since I negotiated and documented big commercial deals for a
+living, and it may be that I cut my legal teeth in simpler times, but I agree
+with David Thodey - these agreements are certainly the most complex I have
+ever seen.  
+  
+While there have been many honest differences of perspective and frank
+discussions to resolve them, I want to make two really important points about
+the negotiations.  
+  
+Firstly, as Telstra has acknowledged in its Annual Report, it has not used
+this negotiation to try to increase the amount of money it gets out of the
+commercial framework and does not contemplate any incremental value to Telstra
+for the transfer of its copper and HFC networks to the NBN Co.  
+  
+And secondly, while Telstra has sought to ensure that it is not worse off for
+very materially amending the DAs, this has not in any way slowed the rollout.  
+  
+The statistics don't lie: In the previous financial year the NBN Co increased
+the tempo of the rollout from passing 1,600 serviceable premises a week with
+fibre in brownfield areas to passing 3,300 serviceable premises a week3. In
+the current financial year, we will increase the run rate so that the NBN Co
+is passing 5,900 serviceable premises a week.  
+  
+In terms of activations, the company is forecasting it will almost treble the
+number of paying customers in the fixed line footprint, with 385,000 customers
+expected to be on the fibre networks by June 30.  
+  
+And this goes right to the heart of the NBN Co operating in a more
+businesslike manner. As we all know, activations has been perhaps the single
+biggest challenge with the FTTP rollout to date, with every drop (connection
+to the customer's premises) representing its own unique characteristics and
+challenges.  
+  
+In the past 10 weeks, the company has been averaging more than 3,000
+activations on its brownfields fibre network alone, which is almost double the
+average rate of activations last financial year.  
+  
+And the transition towards the multi-technology mix could only be made with
+the joint pilot with Telstra to deploy 1,000 nodes in NSW and Queensland.  
+  
+This will help the NBN Co 'industrialise' the process of rolling out nodes,
+and understand the construction challenges. The next step, of which you will
+be well aware, is in the NBN Co connecting customers and developing its back-
+end business and operating support systems to support the widespread
+deployment of FTTN from the middle of next year.  
+  
+While the shadow communications minister, Mr Clare, has very rarely asked me a
+question in the House and has never sought a debate on the NBN, he does
+regularly complain that the Government has had too many reviews into the NBN.  
+  
+Now if I had been part of a Government that had made such a hash of broadband
+policy and had wasted tens of billions in doing so, I suppose I would not want
+my folly to be revisited.  
+  
+The truth is that we have conducted precisely the reviews that we promised
+before the election.  
+  
+It was important to have the history of this project set out, as Bill Scales
+did, showing how in just eleven weeks without any proper analysis let alone a
+mandate from the electorate, the Labor Government resolved to build an
+entirely new Government owned customer access network for what they claimed
+then was $43 billion.  
+  
+It was important that the NBN Co itself carefully and soberly examine the
+state of the rollout strategy to date and weigh up the options for mitigating
+the mistakes made. The Strategic Review was the company's document - it was as
+much owned by the NBN Co as the corporate plan released today.  
+  
+And of course the Vertigan Panel's cost benefit analysis and regulatory review
+were simply doing the hard analytical work, late in the day that should have
+been done at the outset.  
+  
+And despite all of this work, all of this evidence both from Australia and
+overseas that the flexible, multi technology approach the NBN Co is now taking
+is the most cost effective one, the Labor Party, with all the imagination of a
+dalek, keeps on repeating that anything less than fibre to the premises is
+"second rate" and inadequate to connect Australians to the cybersphere.  
+  
+When we were in opposition we challenged Labor's policy with detailed analysis
+and argument. We set out extensive evidence of best practice internationally
+and compared it to what was happening here. But the Labor opposition today
+does not engage on any matter of substance. The Conrovian agenda is unchanged,
+the Senate NBN Committee is used as a platform for abusing NBN Co executives
+and disrupting their work, and any analysis that disagrees with Labor's
+previous policy is dismissed as biased or "written by mates".  
+  
+Like the Bourbons, Labor has learned nothing and forgotten nothing.  
+  
+The NBN Corporate Plan released today contains a number of targets for
+2014-15.  
+  
+The first is the target for the number of premises passed in fixed line areas.
+I must say at the outset that these figures do not include the FTTN pilot,
+which will pass more than 240,000 premises – if these were to be included, it
+would increase the size of the fixed-line footprint by more than a quarter.  
+  
+The reason for not releasing these sites as being ready for service in the
+current financial year is that we want to work closely with the industry to
+ensure that RSPs have ample time to develop VDSL products and that the NBN
+Co's own back end systems are ready. Again, the point is to ensure certainty
+and a smooth transition rather than prop up some short term figures for the
+sake of a press release.  
+  
+The company's expectation is that the FTTN premises passed this financial year
+will be able to be activated by June or July. So for prudence they are not
+included in the numbers for the financial year ended 30 June 2015. If they can
+be activated earlier, of course they will be. We know, and the company knows,
+that the object of this exercise is not numbers in a press release but paying
+customers on the network.  
+  
+The company has advised that there will be 815,000 premises ready for service
+in the fixed line footprint by June 30, an increase of 66 per cent from the
+project to date. That is to say, they will be passed by fibre to the premises
+or fibre to the basement connections.  
+  
+This is a conservative measure. We are only releasing FSAMs as 'ready for
+service' at the point when 90 per cent of the premises within the site are
+passed.  
+  
+Previously, an FSAM was described as 'ready for service' when testing on the
+local and distribution networks were complete. This was a wonderfully
+Conrovian metric – the customer might not have a means of connecting to the
+network and the NBN Co thus had no means of earning revenue on its asset, but
+the network running down the street was in great shape!  
+  
+And in its own way it underlined what was wrong - only an enterprise whose
+goals were essentially political would call anything "ready for service" when
+the customers couldn't get a service!! The days of "fibre the press release"
+are over - I want to see lots of customers connected to the network.  
+  
+As I have said to Bill Morrow and the NBN Co management, a key measure of
+success will be lifting the level of serviceability.  
+  
+I repeat: the consumer must be at the centre of the NBN Co's focus and that is
+why we have spent so much time this year cleaning up old FSAMs to reduce the
+number of service class zeros and thus increase the number of premises that
+can actually order a service.  
+  
+By far the most frustrating experiences of end-users with the NBN Co to date
+has been in ordering a service. In end-user surveys, installations and
+activations have shown up as the area where the NBN Co is doing the worst4.  
+  
+As the TIO found this year5, the NBN accounted for only 3 per cent of industry
+complaints but accounted for 25 per cent of industry complaints about problems
+in getting an Internet connection, and 40 per cent of complaints about missed
+appointments for connections.  
+  
+This is why the NBN Co is forecasting it will increase the number of
+serviceable premises in brownfield areas from 67 per cent of the total
+premises passed to 81 per cent of premises passed.  
+  
+As a consequence of this businesslike approach, the company is also
+forecasting a sharp increase in operating revenues from $61 million in
+FY2013-14 to $160 million in 2014-15.  
+  
+We are also looking to more than double the reach of premises in the fixed
+wireless footprint, bringing the total to 230,000 premises.  
+  
+Of course, the financial year will also see the continuation of the critical
+design and construction phase of the satellites in the Long Term Satellite
+Service, which are scheduled for launch in late 2015.  
+  
+As I have said many times, if there is an argument for government intervention
+in broadband, it is in rural and remote areas which are not otherwise economic
+for the private sector to service.  
+  
+It is pretty obvious that the NBN has its biggest impact with customers whose
+broadband was previously either non-existent or very inadequate and that
+includes most people covered by the fixed wireless footprint.  
+  
+It is a great measure of the pace of the rollout and the potential of the NBN
+that in the six months to June, according to CommBank analysts, the industry
+added 220,000 broadband subscribers, of which around 80,000 were from the NBN
+in areas with no broadband or very poor broadband[6]. This was the best
+industry performance in terms of new subscribers since 2008.  
+  
+The NBN Co faces very substantial challenges and risks. While the multi
+technology model is less risky and less expensive, it is nonetheless still the
+largest infrastructure project in our history. Furthermore unlike a giant dam
+or tunnel or bridge, as a piece of widely distributed, linear infrastructure
+connecting directly to customers it is, in many respects, over ten million
+small projects each with their own individual characteristics - not least of
+which is the occupier of the premises involved!  
+  
+The NBN Co is also the largest corporate turnaround in our history with big
+changes to personnel, to culture (most important) and of course to strategy
+and operations. The changes already effected are beginning to bear fruit, as
+is evidenced by the document being released today.  
+  
+The next six months is a critical time for NBN Co and the industry. But if
+there is one commitment I can give you it is that we will always ensure that
+the NBN Co, and the policies that surround it, are keenly focussed on the
+needs of the customer.  
+  
+Ensuring that Australians are as soon as possible and as affordably as
+possible connected to high speed broadband is our objective. The means of
+achieving that are all secondary to that end.  
+  
+[ends]  
+  
+The 2014-17 Corporate Plan is available on NBN Co's website.  
+  
+[1] NBN Co 2014-17 Corporate Plan, p.6, www.nbnco.com.au [2]
+www.telstra.com.au/abouttelstra/download/document/tls781-nbn-analyst-briefing-
+transcript.pdf [3] 1568 premises/week versus 3,336 premises/week [4] NBN Co
+2014-17 Corporate Plan, p.37 [5] TIO, 2014, Annual Report [6] CommBank, 2014,
+"Broadband Industry Update: Broadband growth remains solid", November 7

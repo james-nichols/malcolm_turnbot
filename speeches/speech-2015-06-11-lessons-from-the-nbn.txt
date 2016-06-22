@@ -1,0 +1,539 @@
+When the Suez Canal was opened in 1859, the total cost of the project was
+around three times that forecast the year before the project started[1].  
+  
+The Panama Canal was a substantially more complex project and the technologies
+needed more sophisticated. The first attempt by the French was abandoned in
+the 1880s after almost a decade of work, more than 25,000 lives lost and only
+a third of the canal completed[2]. It’s estimated that more earth was
+deposited in the canal by landslides and storm than the French were able to
+dig out. It is now thought that by the time the canal was completed by the
+Americans in 1914, its cost overruns were between 70 and 200 per cent.  
+  
+An expansion of the Panama Canal initiated in 2009 will see vessels carrying
+up to 13,000 containers pass through the canal, more than double its previous
+capacity. The cost of the project was forecast in 2009 at $5.25 billion and
+has so far blown out by $1.6 billion[3].  
+  
+The history of megaprojects is such that no matter how sophisticated the
+technology, or how great our advances in accounting practices, we have
+essentially not gotten any better at avoiding serious cost overruns.  
+  
+One of the leading experts in the field, Bent Flyvbjerg looked at 111
+megaprojects conducted between 1910 and 2000 and found that cost overruns have
+continued in fairly consistent magnitudes throughout the period. He concluded:
+“No learning seems to take place in this important and highly costly sector of
+private and public spending”[4].  
+  
+  
+  
+Projects dealing with public spending typically tend to perform worse.
+Different publicly funded projects typically compete with each other for a set
+pool of discretionary funds, meaning there is an incentive to overcook the
+benefits and undercook the costs; politicians and project managers feel the
+need to become ‘advocates’ to win public support for the project; and there is
+a natural tendency for ‘empire building’[5] without adequate cost controls.  
+  
+Sometimes politicians lapse into fits of irrational exuberance and commit
+billions of dollars without even committing to any cost benefit analysis at
+all.  
+  
+Which is perhaps a good segue into discussing the National Broadband Network.  
+  
+You have all heard me speak before about the foundational mistakes with the
+NBN.  
+  
+First, the Government should never have undertaken the project. In every other
+comparable jurisdiction the private sector rolls out telecom upgrades and the
+Government provides subsidies to ensure regional and remote areas get a
+service. The telcos have the construction and business risk which they are
+best able to mitigate. The Government makes a political call and writes a
+cheque.  
+  
+In Australia we have the complete reverse. The Government has the construction
+and business risk and as for the cheque - well that went to the telcos.  
+  
+Second, a project of this size and complexity would tax the resources and
+capability of a large telco - but a Government owned start up?  
+  
+Third the business plan was focussed on technology as ideology - fibre to the
+premises as a cult. A rational business would have focussed on the customers
+(remember them) and used whatever technologies to deliver very fast broadband
+as quickly and cheaply as possible.  
+  
+Fourth the previous Government hired the wrong people. In this case under
+Labor there was a board with not one person who had either built or run a
+telecom network and a CEO whose experience was working for an equipment vendor
+not building linear infrastructure or running a telco.  
+  
+I’m sure many of you have heard me speak before about the application of
+Moore’s Law and why it doesn’t apply to digging holes; or perhaps you’ve seen
+my whiteboard exposition of the economics of last mile telecommunications..  
+  
+But today I want to talk to you about four important aspects of the NBN, which
+are relevant to many other Government,and indeed private sector, projects.  
+  
+They are:  
+  
+Overcoming the NBN’s optimism bias  
+  
+Key questions are: Why was there such an optimism in the project? And why did
+it persist for such a long time?  
+  
+From the very first corporate plan, there were warnings from objective
+outsiders that the company was highly unlikely to meet its forecasts. Writing
+in the Telecommunications Journal of Australia, in 2011 just after the release
+of the plan, experienced analyst Ian Martin summarised the outlook:  
+  
+“The risks are asymmetric and point the wrong way for NBN Co: ARPU may well be
+lower, but there is little prospect it will be higher than planned, take up
+may be lower but is unlikely to be higher or sooner, and at best costs may
+come out in line with forecasts but there is a good chance they will be
+higher.”[6]  
+  
+The NBN did not have long to wait before it was mugged by reality. By the time
+of the election, the company had met only 17 per cent of its 2010 fixed line
+rollout target.  
+  
+  
+  
+In the meantime, the first construction tender failed; one of the four
+delivery partners pulled out of the project; two of the four delivery partners
+were demanding higher rates; and another delivery partner was not delivering
+at a meaningful scale[7].  
+  
+And yet the management of the company still boasted that it would earn an
+internal rate of return above seven per cent, even declaring: “What is
+remarkable is how little the financials changed over the 3 years”[8].  
+  
+Creating a business plan for a large scale infrastructure project is hard at
+the best of times. Creating a business plan involving a wholly owned
+Government start-up over a 30 year time horizon was a virtual impossibility. I
+am reminded of the words of famous Silicon Valley investor Guy Kawasaki about
+the trick to assessing a start-up’s business plan: “As a rule of thumb, when I
+see a projection, I add one year to delivery time and multiply revenues by
+0.1.”[9]  
+  
+I say this not to open old wounds or fight yesterday’s battles, but just to
+make a larger point about our approach to this project.  
+  
+As Flyvbjerg and numerous other authors show, cost overruns are frequent and
+widespread. This is less an indicator of the competency of those involved with
+the project or of the intent to deceive, but more of the inadequate systems of
+checks-and-balances in place to ensure that you are looking at the project
+with an analytical eye, that you are getting the best information that can be
+debated in a rational way – in short, that you are walking into this project
+with your eyes wide open.  
+  
+One of the most noticeable improvements in the NBN project has been in the
+quality of advice coming both from the company and the Department. One of the
+complaints of the former management was that commitments about the NBN’s
+deployment and costs were announced publicly before the project was even
+started, and they had little scope to challenge these assumptions[10].  
+  
+We have of course introduced many transparency measures and increased
+oversight[11], with one of the chief consequences being a much more open and
+frank relationship between the various stakeholders[12]. As I have said many
+times to the management and my Department, don’t tell me what you think I want
+to hear; the glee club culture – where any one with bad news is ignored – has
+come to an end.  
+  
+The Anatomy of the NBN’s Risk  
+  
+The NBN may well be the single biggest infrastructure project the Commonwealth
+has ever undertaken. There is a strong case to be made that it is the most
+complex. Unfortunately for taxpayers, knowing what we know now, it may also be
+the riskiest project that the Commonwealth has ever embarked upon.  
+  
+The NBN, as I have said many times before, is not like building a bridge or a
+mine. These engineering feats are difficult enough, but projects like the NBN
+might be considered more difficult because it is not really a single project,
+which can be planned for, or designed, in a single exercise.  
+  
+It is rather, the culmination of 12 million distributed and distinct projects
+all rolled into one. Each house the NBN hooks up will carry distinctive
+features and challenges – different workforce mobilisation requirements,
+different rock types for drilling into the ground and varying quality of
+existing infrastructure.  
+  
+Sometimes when you overcome all of these things, you turn up only to find out
+the homeowner has left for the day.  
+  
+The NBN is a company replete with horror stories about getting customers
+connected to the network. Consider some of the recent examples:  
+  
+But the NBN is not just a construction project. It is also one of the most
+complex transformations of regulatory oversight and industry settings ever
+undertaken by the Commonwealth; it involves one of the most complex legal and
+commercial agreements ever completed by the Commonwealth[14]; and it is the
+single largest IT project on which the Government has ever embarked..  
+  
+On this last point, I want to reiterate how big the NBN’s IT project is.  
+  
+By the company’s forecast, it will have spent more than $2.5 billion on IT by
+the 2021-22 financial year[14a]. At the moment, a quarter of the NBN’s
+employees – almost 1,000 workers – are employed in the company’s IT
+departments.  
+  
+It is larger than any comparable Australian Government IT projects.  
+  
+  
+  
+VicRoad[15]  
+  
+It is so hard to manage public IT projects, the subject forms its own
+subculture of the megaprojects literature which shows that though the bulk of
+public sector projects are completed on budget, there is a ‘fat tail’ of cost
+overruns: almost one in five projects end up running off the tracks, with an
+average cost blowout of 130 per cent and overruns in time of 41 per cent[16].  
+  
+  
+  
+So the NBN is really a project unlike any other. It involves a number of
+highly complex work-streams, which in ordinary times the Commonwealth
+Government – or any government, for that matter – would be reluctant to
+undertake on its own. And they are all interdependent. A delay to one
+necessarily increases the delivery risk of another, and so on.  
+  
+By way of illustration: If four interdependent work streams have an 80 per
+cent likelihood they will be delivered on time, then put together the
+likelihood of delivery is only 40 per cent.  
+  
+But apart from the complexity, the other utterly unique feature of the NBN is
+its sheer scale. That is why even small changes in the execution of the
+business model can add up to very large consequences for the project’s bottom
+line.  
+  
+The company has modelled a range of scenarios – each of them very credible –
+that would add $1 billion to its overall peak funding requirement. They
+include:  
+  
+Again, this is a risk I have warned about repeatedly, given that the
+experience in Australia and virtually everywhere else in the world has been
+that telco users have been trained to expect more bits and bytes for
+essentially the same amount of money[17].  
+  
+  
+  
+Internal Rate of Return is often how the quality of investments are measured,
+so it is a useful metric to measure the commercial viability of the NBN from
+the taxpayers’ perspective. As a general rule of thumb – and I would stress
+the word ‘general’ – each additional $1 billion in peak funding results in a
+deterioration of the Internal Rate of Return in the order of about 10 basis
+points. So getting these small assumptions right is absolutely critical.  
+  
+Difficulties in Mitigating the Risk  
+  
+There are a limited number of levers any management of the NBN could pull to
+improve the economics of the NBN.  
+  
+But first I want to make a general point about the economics of the project.
+Normally, a project like the NBN is a trade-off between time, scope and money.  
+  
+For example, if you wanted to reduce costs or increase the scope of the
+project, you would extend the time needed to deliver it. This was certainly
+true early on in the project. Public policy expert Bill Scales noted that the
+previous Government completely reconstituted its NBN policy, after the initial
+FTTN Request for Tender failed, in just 11 ‘rushed and chaotic’ weeks[18]; had
+better planning been undertaken, I suspect we would have ended up with a much
+more sophisticated project.  
+  
+Nevertheless, the point is that the ability to trade-off time for money or
+scope has lessened as the project has continued. In fact, in some ways there
+are now no trade-offs, only increased risks. So for instance, increasing the
+time taken to deploy FTTN or HFC is more likely to add to the peak funding
+requirement, because of the risk that customers will substitute to alternative
+technologies such as wireless[19].  
+  
+Indeed, as a study released by the ACMA today will show, in the past year
+alone an additional 2 per cent of households have gone wireless only in the
+past 12 months alone, and almost one in four Australians aged 25-34 are now
+have no landline for Internet or telephony services[20]. So the competitive
+threats are very real.  
+  
+Strategies to mitigate the risks of the project are necessarily limited for a
+number of reasons.  
+  
+First is the underlying policy reasons for embarking on the project, and the
+mandate for universal coverage. We have sought to reduce the scope of the
+project in terms of the technology we will use, reducing the overall peak
+funding requirement by around $32 billion[21], so that we are able to deliver
+consumers they services they need – and are willing to pay for – rather than
+‘gold plating’ the infrastructure.  
+  
+But any further reductions in the cost of the project would require revisiting
+NBN’s universal coverage mandate.  
+  
+The cost-benefit analysis into the NBN showed that we could deliver around $6
+billion of additional economic benefits with an unsubsidised rollout – that
+is, a rollout that delivered broadband upgrades only where it was commercial
+to do so compared to our ‘multi-technology mix’ approach[22].  
+  
+But the Government has explicitly rejected this option. Indeed if there is any
+reason for Government intervention in providing broadband at all it is to
+ensure coverage where the market by itself would not provide.  
+  
+Department of Communications research has estimated that over 30 years to
+2040, the fixed wireless and satellite networks will result in a net loss of
+around $16.8 billion[23].  
+  
+While we will look at delivering those subsidies most efficiently, we are
+absolutely committed to every Australian having access to a world-class
+broadband service at an affordable price.  
+  
+We believe in the potential of the Satellite Service to revolutionise life in
+the bush, and the delivery of services such as School of the Air and remote
+telehealth.  
+  
+In the past fortnight, I have written to the NBN Board to ensure we are
+maximizing the benefits of the Long Term Satellite and that we will avoid the
+mistakes made in managing demand of the Interim Service Satellite Service
+where $350 million was spent to deliver a service which delivered little
+better than dial-up speeds.  
+  
+The second difficulty in managing the NBN risk is ensuring we get the balance
+right between improving the economics of the project and ensuring we are
+acting in the long-term interests of end-users. That is, while it is
+conceivable that we could constrain competition and possibly even raise
+prices, does not seem to be in the best interests of consumers or the wider
+economy.  
+  
+The mantra against infrastructure-based competition to the NBN was that the
+network is a natural monopoly - which doesn’t explain why some very unnatural
+anti-competitive measures were legislated to prevent competition.  
+  
+The truth is that much of what Labor was doing was protecting the monopoly of
+the NBN. As the Expert Panel in the cost-benefit analysis found, if
+competition produced even small productivity gains that would outweigh the
+duplicative costs of competition - and that in the long term would drive
+cheaper prices and better service for customers – that would be a good thing.  
+  
+On the contrary, this Government is committed to fostering competition in
+telecommunications in all its forms – network, wholesale, retail. However, we
+have to move from what we’ve inherited to where we want to be and that will
+take some time and effort. We set out a roadmap for doing this in our
+Telecommunications Regulatory and Structural Reform package released last
+December. That is an environment in which NBN Co is a player, because that is
+the unavoidable reality, but one in which it and other players can compete
+fairly and effectively.  
+  
+What does this mean in practice?  
+  
+Noting these constraints – and they are fairly fundamental - we are taking
+important steps to manage the risk of the rollout.  
+  
+We have made substantial progress on mitigating the risk in the project over
+the past 12 months. I am substantially more confident on its prospects than I
+was this time last year.  
+  
+In particular, the NBN has managed to:  
+  
+But most importantly, the company is acting like a business. NBN Co’s
+management has been able to complete a full top down, bottom up overview of
+the company. For the first time since its creation, the company has a
+sophisticated view of its customers, its costs and its operations. The
+company’s forecasts are increasingly believable, and I have confidence that it
+is actively seeking out and mitigating risk.  
+  
+There are still many unknowns of course. If only NBN Co’s management could
+invent a time machine! But I am pleased that the management have recognised
+that there are many things that they don’t know, and are remaining flexible.
+What do you do in the face of so much uncertainty? You maximise for
+flexibility so you can adopt the best strategy for each situation. This is, of
+course, the heart of the Multi-Technology Mix approach.  
+  
+Implications for Future Projects  
+  
+So while we have learnt many lessons specific to the NBN project, I thought I
+would outline some of the more general points and their application to future
+infrastructure projects.  
+  
+The first is that the architects and managers of projects need to be
+accountable for the things that they can deliver on and less focussed on the
+things they can’t. The main reason the original NBN financial model seemed so
+impermeable to the constant stream of real-world data that suggested the plan
+could not be delivered was that its IRR relied on very large revenue increases
+and thus operating margins in the future coupled with a hefty multiple on the
+project’s terminal value thirty years hence.  
+  
+NBN Co has been criticised for producing a corporate plan in 2014 that only
+had a financial and operational outlook of 12 months. In fact this was a
+necessary compromise given the uncertainties the new management had to deal
+with. The upside of this approach was the focus on delivering in the near term
+and I am confident to say that by the end of the financial year the NBN should
+be able to meet most, if not all, of the targets in that plan - a rarity
+throughout this project. The upcoming corporate plan will include a financial
+and operational forecast for at least the next three years.  
+  
+Secondly, risks should be assigned to those parties best equipped to deal with
+them. In the telco world, this is typically those parties that have the
+workforces and long histories in deploying networks. As the NBN found, even
+construction companies who have been in the industry for a long time found it
+incredibly difficult to quote for work and deliver on budget.  
+  
+There can be no substitute for the industry having ‘skin in the game’.
+Everywhere in the world, the basic public policy strategy was for the
+Government to offer subsidies for areas which were uneconomic and then passing
+on the delivery risk to the private sector. In Australia, the Government has
+taken on all the delivery risk, while those in the industry have for the most
+part asked for better infrastructure, better customer service, quicker
+delivery - and all for lower prices.  
+  
+And finally, it is important to reiterate - as indeed I have been doing ever
+since I started as Shadow Minister five years ago - about the need for
+transparency and independent oversight.  
+  
+One of the distinctive features of the NBN project was the lack of
+benchmarking against other similar projects around the world.  
+  
+So clearly, you have to do the work up-front to assess a project’s costs and
+benefits. But crucially you need systems in place to update data from the
+field to get a better understanding of how the project is progressing, and
+when it is time for intervention. One of the unique aspects of the project was
+that it took almost five years to get a handle on what it was really costing
+to connect a premises to the all-fibre network, with the actual cost being
+40-50 per cent higher than what the company had publicly been projecting.  
+  
+In my experience of the NBN - keeping in mind I have spent a lot of time on
+the outside looking in, and now on the inside looking out - our learnings
+about the project have had an inverse relationship to the excitement it has
+elicited in the Financial Review’s editorial pages. The further up the
+learning curve we have scaled, the further back in the paper the stories have
+ended.  
+  
+And that’s not a bad thing. The national conversation has to move on from the
+pits and pipes to the cool things that people are doing with high speed
+broadband - to the innovations, the disruptions, the transformations and above
+all the imagination of people taking advantage of the opportunities afforded
+to them by the new digital infrastructure.  
+  
+  
+  
+[1] Flyvbjerg, B., Bruzelius N., & Rothngatter, W., (2003), “Megaprojects and
+Risk”, p.18  
+  
+[2] The Economist, (2007), “A Path Between the Seas”, available online here:
+http://www.economist.com/node/8733772  
+  
+[3] The Economist, (2014), “Keeping Things Afloat”, available online here:
+http://www.economist.com/blogs/americasview/2014/01/row-over-panama-canal  
+  
+[4] Flyvbjerg, B., Bruzelius N., & Rothngatter, W., (2003), “Megaprojects and
+Risk”, p.16  
+  
+[5] See for instance: Flyvbjerg, B., Garbuio M., & Lovallo, D., (2013),
+"Delusion and Deception in Large Infrastructure Projects: Two Models for
+Explaining and Preventing Executive Disaster," California Management Review,
+vol. 51, no. 2, Winter 2009, p.10 onwards. The authors note specifically:
+“politicians, planners or project champions deliberately and strategically
+overestimate benefits and underestimate costs in order to increase the
+likelihood that their projects, and not their competition's, gain approval and
+funding … However, this misrepresentation and failure can be moderated by
+measures that enhance transparency, provide accountability, and align
+incentives.”  
+  
+[6] Martin, I, (2011). ‘A significant gap in the NBN corporate plan’ in the
+Telecommunications Journal of Australia, pp.51.1-51.11  
+  
+[7] For example, see http://www.afr.com/business/telecommunications/nbn-at-
+war-with-contractors-20130401-j0yo8,
+http://www.afr.com/business/telecommunications/nbn-contractors-fail-to-
+deliver-20130402-j0yr1 and http://delimiter.com.au/2013/10/15/nbn-
+construction-model-failed-says-conroy/  
+  
+[8] Quigley, M., (2013), “Reflections on the NBN”, A presentation to TelSoc,
+available online here:
+http://telsoc.org/event/national/2013-12-02/mike_quigley_reflects  
+  
+[9] Quoted in Anthony, S., (2012), “The Planning Fallacy and the Innovator’s
+Dilemma” in the Harvard Business Review, available online here:
+https://hbr.org/2012/08/the-planning-fallacy-and-the-i  
+  
+[10] For instance, former CEO Mike Quigley stated: “There were already public
+commitments made before NBN Co got going. The management teams of publicly
+funded infrastructure projects are not in control of the delivery timetable
+they are held to – something, it seems, NBN Co will continue to grapple with.”
+Source: Quigley, M., (2013), “Reflections on the NBN”, A presentation to
+TelSoc, available online here:
+http://telsoc.org/event/national/2013-12-02/mike_quigley_reflects  
+  
+[11] Statement of Expectations, dated 18 April 2014,
+http://www.communications.gov.au/__data/assets/pdf_file/0014/221162/SOE_Shareholder_Minister_letter.pdf  
+  
+[12] For example, the information provided to Shareholder Ministers as part of
+the 2015 Corporate Planning process has been of much higher quality than in
+previous years.  
+  
+[13] Information provided by the NBN Co  
+  
+[14] David Thodey famously described the Definitive Agreements between Telstra
+and the NBN as “some of the most complex, perhaps, agreements ever signed in
+corporate Australia's history” (Telstra, 2011, “NBN Analysts Briefing
+Transcript” available online here:
+http://www.telstra.com.au/abouttelstra/download/document/tls781-nbn-analyst-
+briefing-transcript.pdf). In fact, the complexity of the agreements were so
+severe they presented a large ongoing burden on both companies and added to
+the execution risk of the project. As Andy Penn noted after the new agreements
+were signed: “We’ve also improved and simplified the agreements based on what
+we have learned working with the original agreements over the last three
+years. This includes removing some of the complexity in reporting processes
+and the payments are now much more simply linked to the rollout of NBN.”
+(Telstra, 2014, “Telstra signs revised NBN Definitive Agreements – analyst
+briefing transcript”, available online here:
+http://member.afraccess.com/media?id=CMN://3A416771&amp;filename;=20141216/TLS_01585078.pdf)  
+  
+[14a]Figures are approximate and include capital and operational expenditure.
+An earlier transcript of this speech referred to ‘IT capex’. This has been
+corrected.  
+  
+[15] Victorian Auditor General, (2014), “Impact of increased scrutiny of HVHR
+projects”, available online here:
+http://www.audit.vic.gov.au/publications/20140626-HVHR-Projects/20140626-HVHR-
+Projects.pdf  
+  
+[16] Budzier, A., & Flyvbjerg, B., (2012), “Overspend? Late? Failure? What the
+Data Says About IT Project Risk in the Public Sector”, in Commonwealth
+Governance Handbook 2012/13: Democracy, development and public administration,
+pp.145-147  
+  
+[17] See for example the Government’s response to the Senate Select Committee
+on the NBN, 30 April 2014, http://www.malcolmturnbull.com.au/media/response-
+to-the-senate-select-committee-on-the-nbn  
+  
+[18] Scales, B., (2014), “Independent Audit: NBN Public Policy Processes”,
+available online here:
+http://www.aph.gov.au/~/media/02%20Parliamentary%20Business/22%20Chamber%20Documents/223%20Tabled%20Papers/Documents%20Presented/Out%20of%20session/040814_audit_report  
+  
+[19] The NBN Co estimates that a nine month delay in the rollout of HFC will
+reduce overall take-up by one per cent, due to substitution to alternative
+products.  
+  
+[20] As reported in CommsDay: “12% Segment of Mobile-Only Australian Adults
+Set to Expand: ACMA”, 11 June 2015.  
+  
+[21] NBN Co, (2013), Strategic Review  
+  
+[22] Expert Panel, (2014), “Independent cost‐benefit analysis of broadband and
+review of regulation” available online here:  
+  
+http://www.communications.gov.au/__data/assets/pdf_file/0003/243039/Cost-
+Benefit_Analysis_-_FINAL_-_For_Publication.pdf, page 11, chart 2.  
+  
+[23] See http://www.malcolmturnbull.com.au/media/why-labor-got-it-wrong-on-
+broadband-in-the-bush.  
+  
+[24] For instance, former Minister Stephen Conroy said: “The NBN Co board and
+myself as shareholders have to take the responsibility for believing that
+these companies could deliver on their contractual obligations. And when they
+didn't in the Northern Territory case, we got money back off them and we
+sacked them and we put in place in a different operation. So ultimately - and
+I think I said this on Friday - I think the construction model that NBN Co put
+in place hasn't delivered. But it hasn't delivered based on contractual
+obligations not being met by these construction companies”. Source: ABC
+Lateline, (2013), “Stephen Conroy Discusses NBN and Working With the
+Construction Industry”, available online here:
+http://www.abc.net.au/lateline/content/2013/s3868978.htm  
+  
+[25] NBN Co, (2015), “New NBN Construction Contracts to Spur Multi-Technology
+Rollout”, available online here: http://www.nbnco.com.au/corporate-
+information/media-centre/media-releases/new-nbn-construction-contracts-to-
+spur-multi-technology-rollout.html

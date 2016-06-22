@@ -1,0 +1,372 @@
+Thank you very much David and thank you for inviting me to participate in the
+‘currency of digital economy’ conference.  
+  
+Introduction  
+  
+It is fitting to be discussing the digital economy at a conference convened by
+the National Archives – one of Australia’s most important historical and
+cultural institutions. The archives have been described as the ‘memory of our
+nation’ not only collecting and preserving Australian Government records that
+reflect our history and identity but, more importantly, putting them into
+context – the archives’ collection traces the events and decisions that have
+shaped the nation and the lives of all Australians.  
+  
+For all of human history, we have tried to remember - to preserve human
+knowledge, to hold on to our memories, and we have devised numerous means to
+do so. We had to go to great efforts to remember in times past, whether it was
+painting on a cave wall, memorising ballads, writing things down, painting
+pictures, taking photographs... or more formalised institutions, such as
+archives and libraries, where memories were carefully stored, catalogued and
+analysed.[1] Of course these institutionalized practices of selecting,
+classifying, preserving and mediating knowledge has had a profound impact on
+the way society remembers and indeed the way it forgets.[2]  
+  
+The digital revolution - the Internet - means that this default of forgetting
+is no longer the case. Now as more and more of our lives are lived or at least
+recorded online, in large part at our own initiative, is anything able to be
+forgotten? Things can be overlooked certainly, but can they ever be deleted?  
+  
+These questions are not merely for academics, curators or philosophers. Two
+weeks ago the European Court of Justice, the European Union’s highest court,
+issued a ruling on the “right to be forgotten,” which grants users of Google
+the right to have links about themselves removed from Google’s search results.
+The decision applies to nearly anything found on the Internet— legal records,
+photos, even lawfully published news stories—and, in the words of the European
+Justice Commissioner, Viviane Reding, represents “a clear victory for the
+protection of the personal data of Europeans.”[3]  
+  
+This debate around called ‘right to be forgotten’, has become increasingly
+relevant in the post-Snowden world.  
+  
+It raises a number of important questions:  
+  
+For all of human history when the default was to forget a lot of important
+things we forgotten, many important records were lost. But to the extent
+things were remembered one of the criteria that ensured remembering was the
+significance of the event or the impact of memory. But are we better off now?
+Now that everything is remembered do we run the risk of losing the needle in
+the haystack?  
+  
+For this reason, I am very pleased to see that the National Archives has been
+so active in in tackling the challenges of digital preservation, enabling
+access to digital, records, memories and information in the future. There are
+now almost 25 million digitised pages loaded on the Archives’ database. The
+coupling of digital records and search technology can help find the needle in
+the haystack.  
+  
+The idea of overcoming the fallibility of human memory was forecast by HG
+Wells when, in the 1930s, he wrote an essay on the "world brain" through which
+"the whole human memory can be . . . made accessible to every individual".[4]
+I suppose Google would say that they have realised that vision in their own
+search engine.  
+  
+Today, every one of us has access, in our pockets, to a staggering amount of
+information that even just 10 years ago, much less 100 years ago, was
+unimaginable. The important issue now is how best to unlock, democratise and
+share this data.  
+  
+The data explosion and implications for government  
+  
+In 2013, the amount of stored information in the world was estimated to be
+around 1200 exabytes. This is the equivalent of giving every person living on
+Earth today 320 times as much information as is estimated to have been stored
+in the Library of Alexandria.[5]  
+  
+Much of this data is so large and complex – so called big data --that it would
+have been impossible to identify meaningful trends within it only a decade or
+so ago.  
+  
+We can now draw new and meaningful insights from this messy, unstructured data
+due to the tremendous growth in processing power, and the relative
+affordability of storing and transmitting data.  
+  
+In the last 50 years the cost of digital storage has halved roughly every two
+years, storage density has increased 50-million fold and our ability to
+process that data has increased exponentially, doubling every eighteen months.  
+  
+This has led to an explosion in the volume of data available to consumers, to
+business and, of course, to government. And this easy-to-access data is mostly
+stored in a machine readable form -- a profound difference from techniques
+previously used to collect and store information in years past.  
+  
+For governments, all this data has the capacity profoundly to change the way
+policy is formed.  
+  
+Until recently, governments tended to see the data they collected as a by-
+product of what they do instead of as an initiator of what they can do.
+Although governments considered data valuable and had a special position in
+capturing information they were not particularly effective at using it. Now,
+rather than simply record of what we have done, data can and should drive what
+we will do. Today, all data is recognised as valuable, in and of itself.  
+  
+But data is a latent resource. It does not reveal its benefits easily; they
+are only discovered through analysis.  
+  
+The reality is that government is probably not always the best placed to do
+the necessary analysis, to understand what it has. This means to extract the
+most value from data held by government we need to make it readily available
+to the private sector and citizens - to make it truly open. There is no value
+to government or to society, to hold onto this information, to store it unused
+in a dusty, locked digital cupboard somewhere. It’s the private sector, the
+innovators, the questioning citizens who are best placed to unleash and
+harness the value locked in the data.  
+  
+Economic potential of open and accessible data  
+  
+Apart from the social benefits, what is the economic rationale in making this
+data open and accessible? The argument of direct costs versus indirect
+benefits is a difficult proposition for governments with shrinking budgets. It
+calls for mature cost-benefit analysis that includes factors that relate to
+the broader digital economy.  
+  
+A 2013 report by McKinsey researchers estimates $3 to 5 trillion in economic
+value annually from open data across seven sectors in the United States. More
+locally, John Houghton from the Centre for Strategic and Economic Studies
+found that the net cost to the Australia Bureau of Statistics of making
+publications and statistics freely available and adopting creative commons
+licensing was about $3.5 million a year – but the benefits to the public, to
+government, were even greater. The immediate costs savings to users was around
+$5 million per annum and the measurable annualised benefits were around $25
+million.  
+  
+We like to think of sites like Google, Amazon and Facebook as the pioneers of
+big data, but of course governments were the original gatherers of information
+on a mass scale, and they still rival any private enterprise for the sheer
+volume of data they control.  
+  
+Ironically, despite their special position in capturing information --
+governments are the only institution or organisation that can compel people to
+provide it – governments are often ineffective at using it. Yes, much of this
+information might be personal or confidential (tax returns, health records and
+so forth) but, more often than not, it is government's lack of imagination and
+absence of incentives to exploit the great value from data that is to blame.  
+  
+I am pleased to say we are improving rapidly in our openness to data. We have
+already seen some fantastic uses of government data to create real time apps.
+One of my favourites as a keen catcher of public transport is the NSW
+transport app, TripView, which allows the public to track the exact time of
+arrival in real time of a bus or train from their nearest stop. This is only
+possible thanks to the innovative use of real time government data. And it has
+a profound impact. Because, as any transit economist will tell you, the real
+challenge for mass transit in terms of broad mass acceptance is being
+sufficiently regular that citizen or a passenger can turn up to a bus stop or
+a train station an know that a train will turn up or a bus will turn up in a
+reasonable time. All the experts, such as Peter Newmann, will tell you that.
+This type of application changes that paradigm because it means that you know
+precisely when the train or bus is going to be there. It makes mass transit,
+at no cost to government, much more attractive.  
+  
+At the Commonwealth Government level the establishment of data.gov.au and the
+publication of the Principles on Open Public Sector Information (PSI) have
+been important steps in opening up the data held by government agencies for
+re-use.  
+  
+The current Australian Government's Principles on open public sector
+information state that open access should be our default position.  
+  
+A recent Commonwealth dataset that’s worth mentioning is the 2014 Budget. The
+complete Budget information was made available in machine readable form
+through data.gov.au for the first time. Another is the Australian Disaster
+Events datasets – a CSV file that maps disaster events in Australia by
+category, impact and geographic location. The benefits to business, to
+government, to innovate using this information, this data, is significant – it
+allows a level of analysis that has not previously possible.  
+  
+I’m absolutely committed to ensuring that the data that we are releasing has
+the potential to add value – genuine value that enables companies to deliver
+real innovations. For this reason my department is leading a senior working
+group to identify datasets of high-value to the economy. We have identified
+more than 20 such datasets, covering areas such as geocoded addressing,
+finance, energy and infrastructure – and the data will be anonymised, where
+necessary to protect privacy.  
+  
+But we also need to be upfront and recognise that we can do more and, to this
+end, we are making good progress. So far, 85 per cent of the data that is
+available through data.gov.au has been added since the Coalition was elected
+in September. This is the direct result of my department, the Department of
+Communications, working with Geoscience Australia and the Finance portfolio to
+deliver on our election commitments in our e-Government the Digital Economy.  
+  
+Longer term, governments' involvement in collecting, storing and maintaining
+data will depend on a number of factors, including cost, market capability,
+and legal and security issues.  
+  
+One early example of open datasets that once opened will have both significant
+economic and efficiency dividends is the Geocoded National Address File or
+G-NAF.  
+  
+As well as having significant utility within the private sector the file is
+also fundamental to government business. It currently incurs significant
+licencing and administration costs in addition to the restrictive licencing
+hampering government business. It is our goal to foster more collaboration
+between the private and public sectors to ensure that datasets such as G-NAF
+are available to foster more value added services and efficiencies.  
+  
+The open data network is one of the key ways that the Departments of
+Communications and Finance are delivering on the Commonwealth Open Data
+agenda.  
+  
+An example of how the open data network will provide assistance to the
+research and not-for-profit sector is the NationalMap functionality that my
+Department, in collaboration with NICTA and Geoscience Australia, will release
+at GovHack this year.  
+  
+Using open source technology within the open data network, like the Cesium
+viewer that underpins the NationalMap, allows both the not-for-profit and for-
+profit sectors to use and build on open Government data.  
+  
+The first iterations of this will be the network created by the linkages of
+data.gov.au with the FIND geospatial online catalogue, the NationalMap
+exploitation tool and two major data infrastructures, the Foundation Spatial
+Data Framework and the National Environmental Infrastructure Initiative.  
+  
+It was this policy of promoting M2M networked infrastructures that delivered
+an additional 2300 datasets to data.gov.au in January this year from only one
+additional Government agency. My Department is currently taking this test case
+to other Departments to replicate that success.  
+  
+Big Data Opportunities  
+  
+Of course it is not simply the Government’s job to release the data it
+controls – in many instances the Government is well placed to analyse ‘big
+data’ and draw value from the data it collects. There are already many big
+data projects underway in areas such as the Australian Tax Office; and in
+Departments including Immigration, Industry and Defence.  
+  
+For example, the Department of Immigration and Border control performs big
+data analytics on visas and border risks that previously would have been
+impossible. In the last three years the Department has processed more than 100
+million visa applications and passenger cards, 500 million border crossings,
+500 million alert lists and records over one million over-stayers and non-
+compliant visa holders.  
+  
+The Big Data Centre of Excellence within the ATO and the Department of
+Finance’s private/public partnership project will also assist in the
+prioritisation of big data projects that have the greatest impact for service
+delivery agencies.  
+  
+Government and the cloud  
+  
+Along with the dramatic improvements in the way data can be collected and
+analysed there have been fundamental changes is the way data is stored and
+accessed.  
+  
+No doubt, the benefits of cloud computing are well realised in the room. Cloud
+computing is fundamentally changing the way we think about computing. Although
+I should note the metaphor of the cloud is not a fortunate one, because it
+does create in a lot of people minds the idea of somewhere that is evanescent,
+and insecure and vague as opposed to the box in your office or department. And
+the reality is the cloud is just a bigger box that is generally better managed
+and more secure. But nonetheless it is too late – the cloud is the metaphor.  
+  
+The Coalition government is doing its bit to get small businesses excited
+about the cloud. Last week my department – the department of Communications -
+released series of guides designed to help them embrace the trend with
+confidence. The guides have been developed on the back of the detailed Cloud
+Computing Regulatory Stock Take, which provides an overview of regulation
+affecting the Australian cloud market and its impact on take up.  
+  
+The guides are designed to provide advice on the choice of cloud vendor, legal
+issues involved and how Australian Privacy Laws apply to the use of cloud
+services.  
+  
+KPMG has estimated that increased adoption of cloud services in Australian
+firms could boost the Australian economy by $3.32 billion a year.  
+  
+Transforming service delivery  
+  
+Government is also using data to run agencies more efficiently and improve
+citizens’ online experience of government services. Based the on data
+collected from all government agencies about how citizens interact with
+government departments online the Coalition is transforming the way we use ICT
+to deliver services to the public – and we are making good progress.  
+  
+By the end of 2017 all major services and interactions will be available to
+the public online, making government more accessible, more efficient – that is
+the cornerstone of our convenient services policy, which closely follows the
+work of the UK Government’s Digital Services division - GDS. I have recently
+returned from a trip to the UK where I spent a lot of time working with our
+counterparts, the Minister for the Cabinet Office, Francis Maude, and heads of
+GDS Liam Maxwell and Mike Bracken, who are producing inspiring changes and
+massive savings in the delivery of government digital services. Literally
+saving billions of pounds and making every aspect of government much more
+engaging more compelling and providing much more interaction with citizens. A
+real win-win. Mr Maxwell will be travelling to Australia soon to advise me and
+my government colleagues on how we can enact similar changes in service
+delivery across all government agencies.  
+  
+In the UK the GDS has calculated that online transactions are 20 times cheaper
+than transactions over the phone, 30 times cheaper than postal transactions,
+and a staggering 50 times cheaper than face-to-face transactions.[6] This is
+significant when you consider the situation in Australia – Last year there
+were about 156 million face-to-face interactions, 63 million phone
+interactions and nearly 220 million paper interactions, many of which were
+sent through the post.  
+  
+But it’s important to recognise that designating the internet as the default
+customer service channel is much more than a cost-saving exercise. That is
+what our e-Government Policy is all about – it recognises that more than 80
+per cent of Australians expect to be able to interact with government, to
+complete transactions, online.[7] It is important that a digital interaction
+with government is digital end-to-end.  
+  
+And like the recent National Commission of Audit, it recognises that the
+internet is the best way for both government to deliver services to the public
+and for the public to engage with government.  
+  
+I am absolutely committed to this agenda and will making more announcements in
+the future.  
+  
+Conclusion  
+  
+As data transforms our lives – optimising, creating efficiencies, informing
+policy making and creating value – we are presented with just as many
+questions as the powerful number-crunching of data solves.  
+  
+What is the value of traditional institutions, such as this one – the National
+Archives - whose role was to collect and analyse both physical and digital
+data?  
+  
+What data should governments and corporations be permitted to collect and,
+once they have it, what should they be allowed to use it for?  
+  
+Even if the data suggests a certain policy outcome is the most efficient and
+cost-effective - will it necessarily be the right one?  
+  
+How are attitudes to privacy changing? In my own view – and I have to say this
+is ‘anec-data’ – the digital natives, generation Y and below, have a very
+different attitude to privacy than we do. A generation that is habituated with
+putting so much of their lives on Facebook and other platforms does have a
+very different attitude.  
+  
+In reality data is not an ice-cold world of algorithms and automatons. There
+is an essential role for people, with all the limitations, inaccuracies,
+subjectivity and humanity that come with being human.[8] With the help of
+institutions such as the National archives and Australia’s great museums and
+libraries and some of the world’s best data scientists we have a great
+opportunity. It is now the responsibly of us all, government, industry and the
+community more broadly to unleash the latent power of today’s modern
+information for a common social and economic good.  
+  
+  
+  
+[1] Viktor Mayer-Schönberger, Delete: The Virtue of Forgetting in the Digital
+Age (Princeton University Press 2011).  
+  
+[2] Attila Marton ‘Forgotten as Data – Remembering through the Information –
+Social Memory Institutions in the Digital Age’, 2011, 13.  
+  
+[3] Jonathan Blitzer, ‘Google Search Results: Dictator Not Found’, New Yorker,
+21 May 2014.  
+  
+[4] H.G. Wells, ‘World Brain: The Idea of a Permanent World Encyclopedia’,
+World Brain (1937).  
+  
+[5] Viktor Mayer-Schönberger, Big Data (John Murray 2013), 9.  
+  
+[6] UK Government’s Digital Efficiency Report (Government Digital Services).  
+  
+[7] ACMA’s Communications Report (2012-13).  
+  
+[8] Viktor Mayer-Schönberger, Delete: The Virtue of Forgetting in the Digital
+Age (Princeton University Press 2011).

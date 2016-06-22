@@ -1,0 +1,273 @@
+I am very honoured to speak here tonight at Chatham House, the home of the
+Royal Institute of International Affairs.  
+  
+Chatham House has been at the forefront of policy debate on international
+affairs ever since it was established in the wake of the 1919 Paris Peace
+Conference and in the decades that followed every major international issue
+has found a thoughtful and constructive chamber of debate and ideas here in St
+James.  
+  
+There is always no shortage of challenges and crises claiming our attention.
+But there are few as important as the debate about the governance of the
+Internet, a debate which Richard Haas from your Manhattan counterpart, the
+Council on Foreign Relations, has described as the most significant strategic
+issue in 2014.  
+  
+The Internet has transformed the world.  
+  
+It has transformed us.  
+  
+Before the Internet and for all of human history, the default was always to
+forget. We had to go to great efforts to remember whether it was painting on a
+cave wall, memorising ballads, writing, photographing.  
+  
+But now as more and more of our lives are lived or at least recorded on line,
+in large part at our own initiative, is anything able to be forgotten? Things
+can be overlooked, but can they ever be deleted?  
+  
+Our ideas of space and place are utterly transformed. In 1978 I went up to
+Oxford as a Rhodes Scholar from Australia. Once there I had no news of
+Australia beyond the occasional cricket score and whatever newspaper clippings
+Lucy would include in our frequent correspondence. Telephone calls were far
+too expensive except for emergencies.  
+  
+In 2001 our son Alex went to Harvard, only 23 years apart. Telephony was so
+cheap it was almost free, email was free and he could read every Australian
+newspaper, listen to Australian radio whenever he wished. In a generation that
+whole experience of travelling abroad to study had been irrevocably
+transformed.  
+  
+One industry after another, one job after another that felt it was immune from
+foreign competition has become trade exposed. Greater competition has come
+with greater opportunities.  
+  
+Rupert Murdoch predicted ruefully in the late 90s that the Internet would
+destroy more profitable businesses than it would create, and that may be true
+for his own empire, but overall the Internet has created so much opportunity –
+economic, social, intellectual, political than could ever have been imagined.  
+  
+We are on the verge of a world in most people, and not just in the developed
+world, are connected to the Internet and hence at least potentially to each
+other 24/7 with a smart phone just like the one we all have in our pockets
+tonight.  
+  
+There is no institution or infrastructure more important to the future
+prosperity and freedom of our global community than the Internet.  
+  
+And in what should be a humbling lesson for politicians and governments, this
+Internet has grown almost entirely without the direction or control of any
+government.  
+  
+This is not to say that it was developed, like the British Empire was
+acquired, in an absence of mind, but rather that while it had its origins with
+the research programmes of the US Department of Defence which led to the
+ARPANET, the role of the US Government since then has been admirably hands
+off.  
+  
+Before I delve a little into the detail of the IANA function and the future of
+ICANN, let me say, at least on behalf of our own Government, how indebted we
+are to the United States not simply for its role in establishing the Internet
+but above all in its restraint culminating as we know in the recent decision
+of the US Government to finally withdraw entirely from any role in the
+technical governance of the Internet so long as the independence and freedom
+of that administration of the domain name system from other governmental
+control can be established.  
+  
+Our Government, like Britain’s, is committed to freedom on and of the
+Internet. That means the governance of the Internet should not be in the hands
+of any government or group or organisation of governments.  
+  
+And I should note that in my discussions today with the Secretary of State for
+Culture, Media and Sport, Mr Sajid Javid, and the Minister for Culture,
+Communications and Creative Industries, Mr Ed Vaizey we found ourselves
+absolutely of the same mind on this question.  
+  
+We believe that ensuring that the architecture and administration of global
+cyberspace remains free of government domination or control is one of the key
+global strategic issues of our time.  
+  
+Rather like the House of Lords in Iolanthe, the role of the US Government in
+the governance of the Internet has been to have “done nothing in particular
+but do it very well.”  
+  
+The central contractual role of the National Telecommunications and
+Information Administration (NTIA) in the management of key internet domain
+name functions has in practice amounted to the retention of no more than
+reserve powers, providing an umbrella of security and confidence as the
+internet community, or to use the current inelegant jargon, the global multi-
+stakeholder community, continued to demonstrate its ability to manage the
+domain name system equitably and efficiently in the interests of the world,
+not just one nation or one interest group..  
+  
+In purely technical terms, it’s a role that has basically been nothing more
+than a rubber stamp between the policy and implementation mechanisms encoded
+elsewhere within the system; a checks and balance trigger, a relatively small
+function in the scheme of things but a big symbol, and a big area of
+international focus.  
+  
+So the question becomes: if we remove an important power, albeit one never
+exercised, that acted as an external check on ICANN’s power and processes do
+we replace it with another? Or do we focus on ICANN’s internal governance
+mechanisms and ensure they are sufficient and robust, so that some form of
+external mechanism is no longer needed at all?  
+  
+Should, for example, the community be looking for ways to structurally
+separate the policy, implementation and oversight functions within ICANN, or
+are other internal governance mechanisms needed?  
+  
+There seem to me to be two separate but related issues here. The first is one
+of confidence, capability, accountability – in other words can ICANN be
+trusted to continue to do the job of administering the DNS or will the removal
+of the reserve power of the NTIA contract cause it to run of the rails and if
+so who will pull it back?  
+  
+The second question is that of legitimacy. Why does ICANN have the right to
+undertake this function? And who is ICANN? It is fine to say in a breezy sort
+of way that it represents the global community of the Internet – the multi-
+stakeholder system – but how can we be sure that the board of ICANN is fairly
+representative of that community and if the Internet belongs to the world
+shouldn’t there be a more formal accountability.  
+  
+The great virtue of the NTIA contract was that the United States Government
+being both the founder of the Internet (in many respects) conferred
+legitimacy. The weakness has been of course that some other countries
+suspected the US Government’s role was a controlling one and of course this
+anxiety has been greatly exacerbated by the Snowden revelations.  
+  
+Of course, internet governance is not government; but there are important
+lessons to be learned from the way in which the parliamentary system of
+government practiced in Britain and Australia has, without a highly
+prescriptive constitution, provided a culture where fundamental principles of
+accountability, democracy, freedom of speech, rule of law among others are
+developed and maintained. The organic, as opposed to prescriptive, nature of
+our political culture is its greatest strength..  
+  
+Any new governance arrangements within ICANN must not only be similarly robust
+and sustainable, they must encourage, promote and allow development and
+evolution. This is one of the strengths of ICANN’s current Affirmation of
+Commitment with the US, which provides for the periodic and ongoing review of
+key governance mechanisms within ICANN, including review of its accountability
+and transparency arrangements, with a view to continuous improvement.  
+  
+Whether this needs to be replaced by something new, either at the same time as
+the IANA transition or separately, is an open question. However, as with the
+IANA transition, we should be focusing on the underlying goals rather than
+being constrained by the current model.  
+  
+The NTIA announcement is one small step in the inevitable and necessary
+evolution. Does it create a power vacuum? No. On the contrary, the US
+Government’s announcement can be seen as a significant vote of confidence in
+ICANN’s maturity, and acknowledgement of a successful evolutionary process.  
+  
+It seems to me that as to the first question, that of capacity and
+accountability, the answer is simply that ICANN has demonstrated that the
+multi-stakeholder system has worked and that if there are refinements they
+probably lie in greater transparency and accountability. As far as legitimacy
+is concerned, it seems to me that the legitimacy of the multi-stakeholder
+system is derived from the fact of its successful operation. It is not a
+system or structure that would be designed by constitutional theorists, but it
+works.  
+  
+We should think about this task not as though we were designing a political
+system but rather contributing to the development of an ecosystem, one that
+will sustain itself and evolve for decades to come.  
+  
+Global Commission of Internet Governance  
+  
+It’s not an easy task, and I applaud Chatham House for fully involving the
+international community in the Global Commission of Internet Governance. In
+taking leadership, the Global Commission is addressing four key themes.  
+  
+I would like to reflect for a moment on the preservation of innovation which
+in this case includes critical internet resources, infrastructure and
+competition policy.  
+  
+Innovation by its very nature is disruptive, it destroys and replaces as it
+reinvigorates and reinvents. That’s a good thing; it’s the natural order of
+change and renewal. But it’s not enough to simply preserve innovation; we need
+to stimulate innovation... change... even if that means the multi-stakeholder
+model of internet governance ends up being expressed in a completely new form.  
+  
+At the end of the day, this is a basically a contest between those who believe
+the Internet should be based on an open, free market participatory principle
+and those who believe it is a decentralised artefact that should be reined in
+and made subject to centralised control.  
+  
+We should be aiming to ensure that any changes continue to stimulate
+innovation that strengthens the multi-stakeholder model with new devices, new
+methodologies. A key challenge will be how to evolve key internet governance
+organisations without their losing their multi-stakeholder and private-sector
+led character.  
+  
+Trust and Privacy  
+  
+For those who see the internet as benign agent of social and economic good, it
+is that. For others, whose motives are suspect at best, evil at worst, it is a
+strategic domain to be seized and controlled with all of us marked as
+potential victims in one form or another.  
+  
+The internet, as with the physical world, is whatever someone, some nation,
+wants it to be ... it’s both a global village and a Wild West.  
+  
+The focus on the governance of the internet parallels a rise in suspicion,
+supercharged by the Snowden revelations. Their shadow has cast a long pall.
+Many citizens have lost faith in the activities of their governments.
+Governments have lost faith in each other and corporations are losing faith in
+governments.  
+  
+But any mistrust of the multi-stakeholder model of internet governance is
+absolutely misplaced in this context, given espionage and surveillance is not
+connected to the governance of the Internet; its open architecture
+agnostically enables all those seeking access, legitimately or not.  
+  
+Put another way the governance issues we are discussing today relate to the
+all important plumbing of the Internet and should not be confused with the
+content or practices that use that plumbing.  
+  
+This year is a watershed moment for the Internet with world attention focussed
+as the debate ramps up at forums around the globe.  
+  
+Brazil’s global multi stakeholder meeting on the future of governance held
+last week resulted in a series of internet governance principles that cover
+issues such as observing human rights online, cultural and linguistic
+diversity and a roadmap for the future evolution of the internet governance
+ecosystem.  
+  
+Two representatives from my Department have just returned from the NetMundial
+meeting in Brazil. I am pleased to report that the statement that came out of
+NetMundial – officially titled ‘The Multistakeholder Statement of San Paulo”
+provides a fresh statement of policy that places a far more equal emphasis on
+the role of all stakeholders in the Internet governance landscape: national
+governments, civil society, academia, technical groups and users. The
+statement represents a clear and useful line in the sand for advocating the
+continued evolution of the multi-stakeholder model: it may see the world’s
+conversation about internet governance leave behind the old Manichaean
+dualities of government versus non-government stakeholders, or of ICANN versus
+ITU. The starting point for a dialogue on internet governance may now be
+constellations of different stakeholders, contributing their diverse expertise
+and strengths to a greater whole, without needing to usurp, co-opt or diminish
+each others’ roles. In this respect, NetMundial represents an important
+recognition of the success of a multistakeholder model of Internet governance.  
+  
+Conclusion  
+  
+The Australian Government certainly does not have all the answers, and no one
+nation possibly could. It will take a genuinely global response to a genuinely
+global issue. In among the conflicting visions and agendas I am confident we
+will find a way through. Or the way through will find us.  
+  
+Not one of us could have ever imagined what the internet would become, just as
+none of us can envisage where it will go. Its growth has been organic and any
+future governance structure needs to honour and build on that.  
+  
+The Internet has a spirit that must not, and it is to be hoped cannot, be
+broken. It must never be controlled, with the power and ownership that is
+inherent in that, but it must be governed well. By all and for all.  
+  
+Forums such as this one today are part of the global dialogue that is
+invaluable in supporting ICANN’s transition to a new model of governance under
+which the Internet remains free, stable and resilient.  
+  
+I congratulate and thank Chatham House for the lead it is taking to that end.  
+  
+[ends].

@@ -1,0 +1,326 @@
+Thank you Gary Nairn, it is a pleasure to be here for Locate15 and I thank the
+Spatial Industries Business Association (SIBA), the Survey and Spatial
+Sciences Institute (SSSI) and the Geospatial Information and Technology
+Association (GITA) for organising this important event.  
+  
+It is fantastic to see the industry working together to deliver this annual
+conference.  
+  
+Opening remarks  
+  
+Today I want to talk to you about the importance of making data openly
+available to enable innovation.  
+  
+It is fitting that Locate15 is being held in Queensland’s capital, Brisbane,
+as Queensland has shown great leadership in the areas of open data and
+innovation  
+  
+The development of the Queensland Globe, a world-first application enabling
+the public to access the State’s datasets and satellite imagery is one
+example.  
+  
+Building on the success of the Queensland Globe, the State Government and the
+Queensland University of Technology have formed a dynamic and powerful
+partnership that has led to the creation of the Cube Globe.  
+  
+At nearly two storeys tall, the Cube Globe is the world’s largest digital
+interactive installation and was used during the G20 Summit late last year –
+allowing delegates and visitors to interact with and explore statistics, case
+studies and other spatial information about Queensland[1].  
+  
+Queensland is also home to Australia’s first Open Data Institute, which has
+been established to link all sectors of the economy and nurture an open data
+culture and capability.  
+  
+Research institutions, industry and academia have partnered with the Institute
+to realise the opportunities presented by open data - to drive economic,
+social and environmental prosperity[2].  
+  
+Last August, I spoke at the GovHack red carpet awards night, which was hosted
+here in Brisbane.  
+  
+One of the local Brisbane teams - AussieMon - built an online game based on
+Pokemon, but which uses Australian animals and in the process educates young
+people about them. Another team built an app for Google glass so that when you
+put on the glasses, you see your surrounds as they were 100 years ago, using
+historic photos and materials sourced from various government agencies[3].  
+  
+As I said on that night, there are few things I find more inspiring than
+watching a group of young coders - some of them barely old enough to be in
+high school - working on the next app or program that will improve peoples’
+lives.  
+  
+The most scarce resource in the digital age is not access to capital or
+technology itself. The scarcest resource is imagination - disruptive,
+insurgent, radical imagination.  
+  
+And that is why events like this are so important. It does take cultural
+change - particularly from governments - to harness the ideas and the
+creativity that you see in those young hackers I met at GovHack.  
+  
+The future is not something we should seek to 'proof' ourselves against -
+change and uncertainty are things that we should embrace. We must be open to
+new challenges and, most importantly, we must be flexible and agile, treating
+volatility as an opportunity not a threat.  
+  
+Role of government  
+  
+Governments have an important role to play in driving innovation across the
+economy.  
+  
+Of course we must get the fundamentals right to ensure that all levers, be
+they taxation or investment in research, education and infrastructure, are
+pulling in the same direction.  
+  
+To capitalise on the opportunities of innovation and productivity, we must
+continue to build our knowledge and proficiency in science, technology,
+engineering and maths to compete in an increasingly competitive, globalised
+and trade-exposed world.  
+  
+But we must also lead by example – to get in there and innovate ourselves by
+delivering our services online in a compelling and engaging way.  
+  
+If we are serious about promoting the benefits of digital innovation, as a
+government we need to improve the quality and availability of our own
+services.  
+  
+This includes opening up and releasing government data that would otherwise
+only be collecting dust in digital cupboards.  
+  
+Digital Transformation Office  
+  
+That is why the Prime Minister and I recently announced that we will be
+establishing a Digital Transformation Office (DTO) - to improve the quality
+and availability of government services and to ensure that all major services
+can be completed digitally from start to finish by 2017.  
+  
+There really is no reason why the quality of government services like applying
+for a tax file number or renewing a passport should be any different to
+Internet banking on your phone or tablet, for example.  
+  
+So the DTO really is all about not only improving the availability of digital
+services but also designing services that are of such high quality that users
+actually seek them out. And of course data will play an important role in the
+service delivery transformation, particularly spatial data and analysis which
+will be used to deliver better targeted services to users.  
+  
+Open data agenda  
+  
+We have very ambitious targets when it comes to our open data agenda.  
+  
+We need to begin with the assumption that spatially referenced data collected
+by or for the public sector is a public good[4].  
+  
+I am sure many of you are aware of the 2014 report by Lateral Economics which
+suggests that “more vigorous open data policies could add around $16 billion
+per annum to the Australian economy”[5].  
+  
+Governments hold an extraordinary amount of unique data, collected directly
+and indirectly in the course of doing our job. It is there. We have it.  
+  
+But there is no point in keeping all that data stored away. It needs to be
+accessed, analysed, understood, used and reused.  
+  
+Since the Government was elected, the number of datasets available on
+data.gov.au has increased from 514 to more than 5200: a tenfold increase.  
+  
+Approximately 70 per cent of these open datasets are spatial[6]  
+  
+But the Government’s open data focus is not just about opening more and more
+datasets.  
+  
+It is also about opening high-value datasets - those that are sought after by
+the developer community.  
+  
+Efforts to realise the open data agenda  
+  
+As outlined in our election commitment, we need a deeper consultation with the
+private sector and community organisations to identify public datasets that
+are not currently published on data.gov.au  
+  
+We have made some progress with the addition of a ‘Request Data’ function on
+the data.gov.au website.  
+  
+But there’s more we can do. I am very pleased to announce today the launch of
+the Open Data 500 Australia initiative.  
+  
+This collaboration between the Australian Government and GovLab, a team of
+researchers at New York University, will produce a landmark study of the
+Australian open government data.  
+  
+Open Data 500 will be a comprehensive survey that will look at Australian
+companies that use public datasets to generate new business, develop new
+products and services or create social value.  
+  
+The study will provide a basis for assessing the social and economic value of
+open government datasets and identify the types of data most valuable to
+businesses.  
+  
+Similar studies have been undertaken in the US and Mexico.  
+  
+Open Data 500 advances the government’s policy of increasing the number of
+high value public datasets in Australia in an effort to drive productivity and
+innovation, as well as its commitment to greater consultation with private
+sector stakeholders on open data.  
+  
+This study will help ensure the focus of government is on the publication of
+high-value datasets, with an emphasis on quality rather than quantity.  
+  
+It will:  
+  
+● provide a basis for assessing the economic value of using open government
+data; and  
+  
+● identify ways businesses can reduce costs associated with the licencing,
+versioning, control, storage and maintenance of data.  
+  
+I strongly encourage Australian companies using open data as a business or
+operation resource to take part in the Open Data 500 study. Information on how
+to participate can be found at www.opendata500.com/au  
+  
+The Australian Government’s Open Data Network and the NationalMap  
+  
+This builds on our existing initiatives including the Open Data Network which
+is an initiative that the government has used to deliver the substantial
+increase of open data and functionality currently available through
+data.gov.au.  
+  
+The Open Data Network, put simply, is a range of measures that make the
+data.gov.au site easier to use, both for agencies and end-users.  
+  
+It provides centralised search and display layers that enable agencies to
+focus on data release and quality, rather than focussing on building new
+presentation platforms.  
+  
+The inclusion of open government data from all levels of Australian government
+provides for the first time a demonstration of how seamless open data
+exploitation can be achieved.  
+  
+The platform is now entirely open-source, meaning it is easy for anyone in the
+private sector to take that information and exploit it.  
+  
+Geocoded address data  
+  
+At last years’ Locate Conference I talked about our efforts to make quality
+geocoded address data openly available for use under open data terms.  
+  
+Access to national geocoded address data is still limited and in my view this
+is curtailing Australia’s private and public sectors in their business
+processes and decision-making  
+  
+My department is continuing to work collaboratively with our industry and
+state and territory colleagues in an effort to bring this complex public
+policy initiative to a resolution. And I hope to have good news on this front
+soon.  
+  
+Open GPS infrastructure  
+  
+Not only are we reliant on GPS more and more in our daily lives from banking
+to mobile applications, but there is a growing economic dependence on precise
+positioning systems to underpin efficient transportation, geospatial data
+management, and industrial automation.  
+  
+Open access to GPS has been estimated to contribute at least US$90 billion in
+value to the US economy each year.  
+  
+Australia has access to many more international space programs, including
+satellite navigation system projects, due to our unique position on the earth.  
+  
+The Australian Government is working, through the Department of Industry, to
+leverage these open big data opportunities by ensuring the country’s national
+coordinate framework and national positioning infrastructure is fit-for-
+purpose and globally compatible for all positioning applications.  
+  
+And Australia continues to lead the contemporary research in global and
+regional navigation satellite systems with the work being undertaken in
+Program 1 (Positioning) of the Cooperative Research Centre for Spatial
+Information.  
+  
+This work demonstrates how to integrate signals from GPS, Beidou (China),
+GLONASS (Russia), Galileo (Europe) and QZSS (Japan) and providing centimetre
+accurate positioning in doing so.  
+  
+Last month, this Program also demonstrated the role that QZSS can play in
+communicating directly with a driverless tractor at Jerilderie in New South
+Wales to conduct tillage and spraying operations while controlling the course
+of the tractor to within five centimetres of true.  
+  
+Currently no other positioning satellite constellation has a communication AND
+positioning capability like this Japanese satellite.  
+  
+The Japanese funded this research under a program established by my colleague
+the Hon Ian Macfarlane, Minister for Industry and Science, and Mr Yoshitaka
+Shindo, the then Minister for Internal Affairs and Communications of Japan.  
+  
+A promising development with this research is the possibility that Australia
+will need less communications infrastructure to support precise positioning
+applications in regional Australia potentially realising savings for
+government and users alike.  
+  
+Australian studies have estimated that if we can harness all the signals from
+these various positioning satellites we could add up to $32 billion over 20
+years to the Australian economy, a contribution of up to $7 billion to GDP.  
+  
+Collaboration with states and territories, industry and academia  
+  
+In the spatial context, success in delivering on the open data agenda depends
+on collaboration between governments, industry and academia.  
+  
+I would like to acknowledge the efforts of the spatial sector in leading the
+open data charge.  
+  
+These efforts are all the more impressive in light of the sheer complexity of
+a sector in which both governments and industry can be both suppliers and
+customers.  
+  
+All jurisdictions, including the Commonwealth, collaborate through ANZLIC to
+provide crucial spatially referenced data, and the Foundation Spatial Data
+Framework continues to mature both in concept and delivery.  
+  
+Industry plays a crucial role in developing innovative ways to meet the needs
+of the mobile digital market, and delivering products to benefit the
+Australian economy.  
+  
+The role of academia is equally important, using the available data to conduct
+meaningful and insightful research, and help make Australia an internationally
+competitive research hub.  
+  
+Our policy position on the open data agenda is to make more location data open
+by default, unless access is restricted to protect privacy, public safety,
+security and commercial confidentiality.  
+  
+We want location data openly available at no charge to the end user, except
+where cost recovery is warranted for specialised services.  
+  
+And we want location data published in formats that promote its use and reuse,
+and under open licensing arrangements.  
+  
+Several high value datasets either have been or will be opened shortly
+including the LANDSAT Archive; Broadband coverage and speed; the Australian
+Business Register; the Mobile Black Spots Dataset; the Budget and the complete
+Administrative Boundaries of Australia.  
+  
+The spatial sector has made great strides towards realising this open data
+agenda.  
+  
+I call on the sector to continue to provide leadership, because more remains
+to be done to ensure the positive impact of spatially-referenced data is
+realised.  
+  
+Closing remarks  
+  
+In data, and particularly spatially-referenced data, we have a valuable
+resource at our fingertips - a resource that’s akin to the coming of the first
+ancient maps in the new insights and direction it can offer in a globalised
+world.  
+  
+It is there for the exploiting, to be mined and harnessed, although it’s
+probably fair to say we don’t yet comprehend the full extent of the benefits
+it can deliver.  
+  
+That’s what this event is about; exploring the opportunities in this rapidly
+expanding industry.  
+  
+I wish you all a useful and informative few days.  
+  
+Thank you.

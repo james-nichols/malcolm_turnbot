@@ -1,0 +1,255 @@
+Malcolm Turnbull delivered the following address to the CeBIT Australia
+e-government conference in Sydney on Tuesday, May 6.  
+  
+Good morning.  
+  
+Thank you Harvey for your introduction, and to everyone including the NSW
+Minister for Innovation, Victor Dominello, and the acting CEO of the Digital
+Transformation Office, David Hazelhurst, for being here this morning.  
+  
+Introduction  
+  
+So here's the big picture.  
+  
+Australians overall enjoy a relatively high standard of living. Our wages are
+among the highest in the world and consequently so are our costs.  
+  
+But how do we maintain that high standard of living in a world being
+transformed by convergence and globalisation amplified by information
+technology?  
+  
+By convergence I mean the way in which developing economies which had hitherto
+competed for low cost, low skill jobs are now competing for the most skilled,
+producing the most sophisticated and advanced products. Globalisation powered
+by the Internet means many businesses and jobs which used not to be trade
+exposed - think of retail, media, professional services - now are. The
+globalisation of supply chains means that at every stage of production there
+is more contestability than ever.  
+  
+Convergence and globalisation offers much more competition, but it also offers
+much more opportunity. As more and more of our market becomes accessible to
+global competitors so does a larger and far wealthier global market become
+accessible to us.  
+  
+At the same time in common with other developed economies, and some developing
+ones, we face the challenges of:  
+  
+It is widely recognised, not least by the IMF, that Australia has a structural
+Budget deficit so clearly we need to get spending under control.  
+  
+But this in itself will not secure our future prosperity. Sustained economic
+growth is needed to grow wages and lift our standard of living. So how do we
+realise this?  
+  
+The key to our future prosperity is to be faster, leaner, more productive,
+more innovative and more collaborative. Above all to be more agile, to
+recognise that we are living in the most exciting, dynamic, disruptive time in
+human history, and that the volatility and unpredictability driven by
+technology and rapid change must be embraced not ignored.  
+  
+We cannot proof ourselves against the future in the sense of building a wall
+or a dyke of some kind to hold back the future. We embrace the future, we make
+volatility our friend, not our enemy. We change our business culture so that
+it is more receptive to innovation, more receptive to different ways of doing
+things; no longer saying ‘not invented here’, no longer being so deferential,
+and above all, never saying ‘we’ve always done it this way’.  
+  
+Innovation is critical to our economic prosperity; the latest Australian
+Innovation System report showed that the 42 per cent of domestic businesses
+that innovate account for around 70 per cent of the economy’s employment,
+capital expenditure and business income, and more than 80 per cent of total
+Internet income.  
+  
+But our performance on innovation is slipping behind other developed nations.
+We rank second last of 17 OECD countries on new-to-the-world innovation. The
+proportion of researchers working for Australian businesses is lower than in
+comparable countries so they need to collaborate more with universities, where
+the bulk of researchers are employed.  
+  
+Digital disruption and the role of government  
+  
+While the Internet has been disrupting legacy business models for some time,
+the most significant change is the way mass connectivity has combined with
+mobility and modern processing power to disrupt non-traded sectors.  
+  
+Take Airbnb. In less than three years it has added more than 10,000 rooms to
+Sydney’s holiday rental market without a single brick being laid or planning
+permit being approved. In seven years Airbnb has added more than one million
+rooms globally, compared to the century old Hilton chain’s 700,000 hotel
+rooms.  
+  
+With more than 1.75bn smartphones in use globally, most people expect to be
+able to access services and information from almost any location, at any time
+of the day.  
+  
+If you can order a pizza, taxi or pair of shoes through an app and monitor the
+status of these items through to delivery, or complete all of your banking
+through a smartphone, it’s not unreasonable to expect government to make its
+services as widely available.  
+  
+Government needs to embrace change and adapt in-line with the expectations of
+its customers.  
+  
+While government isn’t exposed to competition in the traditional sense - it
+has a monopoly on many of the services it delivers - if it seeks to remain
+relevant to people’s everyday lives then it must be flexible and nimble,
+capable of embracing new technologies to disrupt the way it delivers public
+services. And of course governments, or at least their political masters, face
+the ultimate disruption every three to four years at the ballot box so it’s in
+our interests to adapt and embrace change.  
+  
+Remember the government sector is at least a third of the economy, so by
+delivering digital services that are easier to access and simpler to use,
+people will not only save time when dealing with government, the whole economy
+will be more efficient.  
+  
+Digital Transformation Office  
+  
+We should aim to become the world's leading digital economy.  
+  
+This won’t happen if the government continues writing strategies on the
+importance of the digital economy, but it can happen if we lead by example.
+Government needs to embrace new technologies, leverage data and innovate the
+way public services are delivered.  
+  
+So we’ve established a Digital Transformation Office to deliver services that
+focus squarely on the customer. The DTO has not been established to chase
+savings - they will inevitably follow if services are so efficient and easy to
+use that customers seek them out ahead of less efficient delivery channels
+such as over the counter. The DTO will design services that are simpler and
+more straightforward. And they will be delivered digitally by default, meaning
+that anyone will be able to access services from start to finish online using
+their mobile device.  
+  
+And all new and redesigned services will need to comply with the recently
+developed Digital Service Standard.  
+  
+The DTO will incorporate a large number of projects. Immediate priorities
+include:  
+  
+Check out the DTO blog at www.dto.gov.au for more detail but let me touch on a
+few of these projects briefly.  
+  
+Establishing a robust, economy wide digital identity is central to the
+government’s digital agenda. The trusted digital identity framework will
+establish a set of principles and standards for the use of accredited
+government and third-party digital identities across government. It will also
+involve the use of a voiceprint to access services through telephony and
+mobile channels.  
+  
+The ‘tell us once’ functionality will enable individuals and businesses to
+update their contact details with the government once and choose to share this
+information with other relevant agencies seamlessly through myGov.  
+  
+And grants administration will be streamlined by developing a simpler grants
+administration system across government. The top 12 granting agencies in our
+government, which deliver over 90 per cent of grants funding by value, will
+transition to two IT systems - down from 15.  
+  
+The siloed approach to IT investment and service delivery across the public
+service is letting taxpayers down. Many agencies are delivering good services,
+but they’re delivering them in isolation or as though they’re a standalone
+business.  
+  
+The DTO will overcome these limitations by taking an across agency - or whole-
+of-government - approach to investing in common IT platforms that can be used
+by every agency.  
+  
+I’ve already touched on the example of grants administration, but there are
+many others, including significant duplication in Enterprise Resource Planning
+systems - more than 200 systems, all performing similar functions, have been
+identified across the public service.  
+  
+We will work with agencies to identify opportunities to rationalise
+duplicative and wasteful IT spending. We need to learn from past mistakes.  
+  
+Next steps  
+  
+Governments across the world are at varying stages of their digital
+transformations so the DTO has an opportunity to collaborate with the world’s
+leading digital economies. These include, but are by no means limited to the
+D5 - Estonia, Israel, New Zealand, South Korea and the UK, as well as state
+and local governments in Australia. I have spoken to Victor Dominello, the NSW
+Minister for Innovation, and we’re on a unity ticket on the need to
+collaborate.  
+  
+We will also make myGov available to all other state and local governments at
+no cost, other than those associated with the initial onboarding.  
+  
+The DTO, and all other parts of government for that matter, should never be
+arrogant enough to believe that Canberra has all the answers.  
+  
+The DTO will also collaborate with business and the research sector, and I
+will have more to announce on this topic as the year progresses.  
+  
+Now let me touch on a couple of the next steps.  
+  
+The DTO is working with the public and government agencies to identify a small
+number of exemplar services to disrupt, redesign and put in the hands of users
+to critique. We’ll start with a handful of them - perhaps three or four. The
+idea is to start small but think big.  
+  
+The emphasis will be on agile design and nimble development. Projects will be
+delivered over short, 90-day cycles. This means that the alpha and beta
+services won’t be perfect, but it’s a fundamental shift to the way government
+has done things in the past. This change should be seen as an opportunity, not
+a risk, and will require a fundamental shift in culture. The DTO needs to be
+more like a startup in its attitude, tossing aside the rules based,
+regrettably blame based, often, culture of the public service to one that
+embraces and rewards principles and values.  
+  
+By releasing new services to the public sooner, we can test them in the real
+world and customers can provide feedback directly. Using advanced analytics,
+we can spot trends and glean insights that simply wouldn’t be possible under
+the traditional approach.  
+  
+We will soon release a consultation platform on the DTO website so I encourage
+everyone to be involved. We’ll also develop a public facing dashboard, which
+will report on the progress of projects and investments. A prototype will be
+developed over the coming months.  
+  
+Conclusion  
+  
+The DTO may well be one of the most exciting projects the public service ever
+undertakes.  
+  
+Its ambition is lofty and its scope is wide. But at its core is a commitment
+to delivering better outcomes for the people who access government services -
+which is all of us, at least once a year.  
+  
+The DTO’s mission is to improve the customer experience for citizens and
+businesses when dealing with government. We will achieve this by designing
+services that are simpler and easier to use.  
+  
+The key is to focus with a laser like attention on the customer. That is the
+key – make that customer experience more engaging, more valuable, more
+interesting, easier to undertake. The savings will follow inevitably. Digital
+transactions are so much cheaper than over the phone transactions, postal
+transactions or over the counter transactions, if you make your digital
+platform as engaging as possible for the citizen, and you just think about the
+citizen, think about your customer, then you’ll have a lot more happy
+customers and your savings will follow.  
+  
+This is a very important change because very often as you know changes to IT
+in government have been focused on cost cutting, how can we save money, and it
+has been very inward looking, how can we make it easier for us, the
+government? How can we simplify what we do? The critical thing is to focus on
+the customer.  
+  
+I believe we can achieve all of this through a stronger commitment to
+innovation and collaboration and I hope and I expect that you will join us on
+this exciting journey.  
+  
+We are determined, and I know there is the same level of commitment at every
+level of government around the country, to transform government so that it
+serves the citizen in the most compelling and engaging manner possible.  
+  
+Thank you.  
+  
+[1] From the Iconic  
+  
+[2] From the ABS (Feb 2014):  
+  
+[3] ACMA Communications Report  
+  
+[4] Australian Connected Consumer Report, (pp 49-50)

@@ -1,0 +1,355 @@
+Good morning. It is a pleasure to be here.  
+  
+Thank you to both Jason Yetton and Phil Coffey for your introduction and for
+inviting me here to speak this morning.  
+  
+Introduction  
+  
+At the risk of sounding cynical, it is easy when reflecting on the changes to
+Australia’s education policy over the last decade to be reminded of Prince
+Tancredi's observation in The Leopard, Giuseppe Tomasi di Lampedusa’s great
+novel on 19th Century Sicilian life: ‘if we want things to stay the same,
+everything must change’.  
+  
+Too frequently education policy makers have sought to reinvent curricula by
+adding more and more courses and giving existing courses increasingly exotic
+names. But what has this actually achieved? A level of confusion, certainly.
+For instance, what does ‘digital technologies’ actually mean and what is the
+difference between design and digital technologies when it comes to the
+Australian curriculum?  
+  
+As Phil Callil recently pointed out in his review of the technologies
+curriculum, the term digital technologies is not well known in the education
+systems of Canada, Finland, Singapore or the UK - not to mention the IT
+industry itself.  
+  
+A second, and perhaps more important question to ask is, have educational
+outcomes actually improved? If we turn to international performance tables
+such as PISA (Programme for International Student Assessment) and TIMMS
+(Trends in International Mathematics and Science) it is clear that we need to
+improve educational outcomes across both the ICT and broader STEM disciplines.  
+  
+To remain competitive in an increasingly interconnected world we need to
+ensure that the curriculum equips students for the jobs of tomorrow. We need
+to consider where future employment demand will come from and the skills
+school leavers will need to compete in a world that has been transformed by
+the Internet - where nearly every industry is now trade exposed.  
+  
+This increased competition presents both greater challenges and greater
+opportunities. Many new jobs will be created, many will be destroyed. The key
+for us as a nation, and for each of us as individuals and especially as
+parents, is to ensure that here in Australia we are, in net terms, creating
+new jobs and new businesses and new opportunities.  
+  
+If we do not, if we do not become more competitive, then we cannot remain the
+high wage economy we are with a generous social welfare safety net.  
+  
+The key to all of this, of course, is that our education curriculum must equip
+students with the skills to take advantage of these opportunities. This means
+that we need to move beyond teaching students how to consume technology and
+instead focus on the creation of technology.  
+  
+With the current rate of technology adoption in Australia, very few primary
+school aged children, even at five or six, have not learnt the basics of how
+to use their parents’ tablet or smartphone. So instead of teaching students
+how to be passive consumers of technology or how to use Microsoft Word or
+other proprietary software, our educators should be teaching students how to
+create, how to code.  
+  
+As Barack Obama recently observed to young students in America: ‘Don’t just
+download the latest app, help design it. Don’t just play on your phone,
+program it’.  
+  
+The Australian curriculum review  
+  
+To this end, the first year of the Abbott Government has been a significant
+one for Australia’s education policy. Christopher Pyne is working to make the
+curriculum, particularly in the primary years, simpler and less crowded. Last
+week he released the Government’s review of the Australian curriculum that in
+many ways is all about getting back to basics - a curriculum that is less
+cluttered and more balanced with a greater emphasis on literacy and numeracy.  
+  
+While the review has been met with broad support, specialists in the
+technology sector have raised very real concerns that ICT has been overlooked.
+The Australian Computer Society, for example, has warned that any delay to the
+teaching of coding would put students at a significant disadvantage from their
+peers in the UK, while others have compared the importance of coding to that
+of literacy and numeracy.  
+  
+Now let me clarify a very important point: while I am certainly not suggesting
+that the authors of the curriculum review, Dr Kevin Donnelly and Professor Ken
+Wiltshire would agree with many that machine language and logic should be, for
+primary school students, an essential enabling skill like literacy and
+numeracy, neither have those authors suggested that important IT skills such
+as coding could not be incorporated into other areas of the ‘back to basics’
+primary school curriculum.  
+  
+Teaching students how to code - to use computers to create rather than just
+consume - from Foundation through to Year 8 could be appropriately
+incorporated into the mathematics syllabus, for example. A leader in this area
+is the Australian Mathematics Trust based in Canberra. I commend you to the
+work they are doing in informatics, a mathematics discipline, where students
+learn the basic algorithms, data structures and computational techniques that
+underlie information and communication, and demonstrate their learning through
+computer programming tasks.  
+  
+It is also important to distinguish the recommendations of Phil Callil - the
+subject matter specialist engaged to review the technologies curriculum - from
+the review’s broader recommendations. Callil determined that key ICT skills
+taught as part of the digital technologies syllabus, such as coding and
+computational thinking, should be taught from Foundation to Year 10. I agree
+with him and agree that machine languages and logic are and certainly will be
+in the future almost as important as basic literacy and numeracy.  
+  
+Regardless as to whether the ICT or digital technologies syllabus - as it is
+currently known - remains as a standalone subject or is incorporated into
+another syllabus such as maths, we need to ensure that:  
+  
+The current situation - declining participation in ICT  
+  
+Australia’s Chief Scientist, Professor Ian Chubb made the point in his recent
+paper, Science, Technology, Engineering and Mathematics: Australia’s Future,
+that about half of all US economic growth in the last 50 years came from
+scientific and technological advances.[9]  
+  
+But alarmingly in Australia, when it comes to ICT and STEM - the disciplines
+that will equip Australians with the skills to replicate the American
+experience - participation in the latter school years and at university
+continues to decline.  
+  
+This is despite significant growth in employer demand, particularly from
+outside the traditional ICT sector, for graduates with training in computer
+science and related disciplines such as data and information management.  
+  
+Consider for a moment the example of the marketing industry, which is becoming
+increasingly reliant on the use of data to better target products and
+campaigns and to deliver genuine insights to customers. The leading marketing
+firms are utilising the skills of data specialists to set themselves apart -
+to extract and interpret meaningful trends from vast and complex volumes of
+data.  
+  
+Of course, all of this is being underpinned by the increasing ubiquity of the
+Internet - by the growth in mobile devices and other Internet-enabled
+technologies such as sensor networks, but it nonetheless highlights the
+growing demand for computer science graduates and data specialists,
+particularly in industries outside the ICT sector.  
+  
+Of Australia’s 600,000 ICT workers, more than half now work outside the
+traditional ICT sector, while both the McKinsey Global Institute and Gartner
+predict that demand for data specialists will continue to grow strongly.
+Gartner estimates that the demand for data specialists will reach more than 4
+million jobs globally by 2015, with only a third of these positions likely to
+be filled.  
+  
+This has created a troubling paradox. We now have a significant gap between
+the technology-driven economy we have created and the skills that are not only
+required to meet the current demand but also to drive future growth.  
+  
+The OECD has observed that the number of students enrolled in a mathematics
+major in Australian universities fell by 15 per cent between 2001 and 2007,[3]
+while the Trends in Mathematics and Science Study (TIMSS) found that
+Australia’s performance in mathematics and science has stagnated over nearly
+two decades.[4]  
+  
+Commencements in tertiary ICT courses have also fallen sharply, with a 53 per
+cent decline between 2001 and 2011, while completions declined by 58 per cent
+over the same period.[5]  
+  
+Compare this with China where 41 per cent of all degrees awarded by Chinese
+institutions in 2011 were in a STEM subject.This is between two and three
+times the proportion of STEM degrees awarded each year in countries such as
+Australia, the UK and the US.[6]  
+  
+These low numbers of STEM and ICT skilled students and graduates are
+frustrating industry who are concerned about the lack of sufficiently skilled
+and qualified graduates able to start work in ICT-related jobs.  
+  
+Recently I spoke with Matt Barrie, Freelancer.com’s charismatic CEO, who
+lamented the quantity and quality of Australia’s ICT graduates. He told me
+that Freelancer was one of many Australian companies that are desperate for
+Australian coders, engineers and computer scientists but regrettably often
+have to employ workers from overseas as Australia’s tertiary sector is not
+producing nearly enough graduates with the skills that enable them to start
+work.  
+  
+What needs to be done to improve participation?  
+  
+To turn this trend around, we need to improve the pathways for students to
+study IT from Foundation through to Year 12 and onto university. IT,
+particularly coding and computational thinking, must be given a more prominent
+position in the curriculum. As I have commented, this could be achieved
+through the maths syllabus or as a stand alone subject, but regardless it is
+important that we move beyond outdated discussions that focus on tech literacy
+and instead expose primary school-aged children to tech creation through
+coding.  
+  
+As a nation, we could probably do with fewer lawyers. But we absolutely need
+more system engineers. We need more software developers. And we need more
+people that not only have advanced skills in the use of proprietary software
+such as Microsoft Excel, but also understand how computers work.  
+  
+Greater engagement with industry, such as through public-private partnerships
+is another way that we can increase the number and quality of IT graduates.  
+  
+The Government’s recent announcement of trials based on the US P-TECH model is
+a good step in this direction. P-TECH is an education pathways partnership
+between IBM and the New York Education Department where students graduate with
+an associate degree, along with the skills and knowledge they need to continue
+their studies or transition directly into jobs in the IT industry.
+Participating schools also pair students with corporate mentors who help guide
+curricula and provide real-world insight into industry trends. Last week the
+Prime Minister committed $500,000 to a P-TECH-style program in Geelong.
+Public-private educational partnerships like this are providing students with
+a recognised qualification, while helping to prepare them for a career in IT.  
+  
+We also need to monitor closely outcomes in the UK where last month the ICT
+curriculum was replaced with a new computing curriculum. Unsurprisingly,
+students as young as five and six are now receiving coding lessons.  
+  
+Back in January, Michael Gove, former UK Secretary of State for Education,
+explained the changes by observing that:  
+  
+"ICT used to focus purely on computer literacy – teaching pupils, over and
+over again, how to word-process, how to work a spreadsheet, how to use
+programs already creaking into obsolescence; about as much use as teaching
+children to send a telex or travel in a zeppelin.Our new curriculum teaches
+children computer science, information technology and digital literacy:
+teaching them how to code, and how to create their own programs; not just how
+to work a computer, but how a computer works and how to make it work for
+you".[19]  
+  
+I am pleased that as part of the Government’s Competitiveness Agenda, the
+Coalition will invest $3.5 million through a ‘coding across the curriculum
+programme’ to provide greater exposure to computer coding across different
+year levels in Australian schools.  
+  
+Rethinking our approach to IT learning is key to addressing the skills
+shortfall. Measures such as merging scientific and creative thinking at
+primary school, or coding at primary school, lays important ground for
+producing technology literate high school graduates - graduates trained to not
+simply use technology, but to create, build and develop new technologies.  
+  
+Women in ICT  
+  
+The second change we have to make is to dramatically alter the composition of
+those participating in STEM subjects and industries. In particular, we have to
+increase the number of girls and women participating in ICT and STEM.  
+  
+Although women fill close to half of all jobs in Australia, they hold less
+than 25% of STEM and ICT-related jobs.  
+  
+When I met with Sheryl Sandberg, Facebook's Chief Operating Officer, in
+February she offered me a telling anecdote about the participation of girls in
+STEM related subjects. Of 35 primary school kids at a weekend coding camp,
+only five were girls. Of those five girls, Sandberg herself had enrolled two
+of them (her niece and her niece's friend). According to Sandberg the
+percentage of women and girls studying ICT subjects was declining and was now
+lower than it was twenty years ago - whereas in most other disciplines and
+professions the share of female graduates has continued to rise.  
+  
+The bottom line is that we need to encourage and expose women to the fantastic
+opportunities created by studying and working in ICT. We need deliberate and
+directed action focused on motivating women to pursue ICT subjects and careers
+and promoting female role models in Computer Science who can tell their
+stories about the positive social impact careers in computing can have.  
+  
+Conclusion  
+  
+Just as most students of mathematics will not become engineers or actuaries
+and most students of English will never write a novel, so most children who
+learn how to code at school will not become software developers.  
+  
+But the training in logic and the understanding of how machines think will
+enable them better to engage in any and every course of life and career they
+pursue.  
+  
+Our future, our prosperity depends on our being more innovative, more
+competitive and we simply cannot do that unless we are as technically literate
+as the other nations with which we compete.  
+  
+In a nutshell we need knowledge and imagination. The former on its own is a
+dull resource, the latter on its own is a hallucination. Combined they will
+ensure an Australian future which is more exciting, more prosperous than ever
+before.  
+  
+[ends]  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+[1] Originally published in The Age, 8 Sept 2014. Available online at:
+www.smh.com.au/it-pro/expertise/it-crowd-shrinking-as-vce-enrolments-
+plummet-20140907-10dizx.html  
+  
+[2] As published in SMH Oct 7 2014 “20-year-slide in students taking maths in
+final year”.  
+  
+[3] Australian Industry Group report Lifting Our Science, Technology,
+Engineering and Maths (STEM) Skills report  
+  
+  
+  
+[4] Sue Thompson et al. Highlights from TIMSS and PIRLS 2011 from Australia’s
+perspective, Australian Council for Educational Research, 2012 (quoted in AiG
+report)  
+  
+[5] Australian Workforce and Productivity Agency, ICT Skills Forum
+presentation, November 2012 (quoted in AiG Report)  
+  
+[6]
+http://www.obhe.ac.uk/newsletters/borderless_report_january_2013/global_race_for_stem_skills  
+  
+[7] Beanland,D.; How Engineers Australia can support the transformation of
+engineering education in Australian universities, 30,10,2012 (quoted in AiG
+report)  
+  
+[8] Australia’s skills and workforce development needs, Discussion Paper,
+Australian Workforce and Productivity Agency, July 2012 (as quoted in AiG
+report)  
+  
+[9] Science, Technology, Engineering And Mathematics: Australia’s Future,
+released by Australia’s Chief Scientist, Professor Ian Chubb on 2 September
+2014: www.chiefscientist.gov.au/2014/09/professor-chubb-releases-science-
+technology-engineering-and-mathematics-australias-future/ p.7  
+  
+[10] Ibid, p.7  
+  
+[11] Ibid, p.7  
+  
+[12] Ibid, p.7  
+  
+[13] The Role of Science, Research and Technology in Llifting Australia’s
+Productivity, released by the Australian Council of Learned Academies, 3 June
+2014. Available online at: www.acola.org.au/index.php/projects/securing-
+australia-s-future/project-4 p.14  
+  
+[14] Australian Council of Learned Academies Media Release 3 June 2014:
+www.acola.org.au/index.php/news/59-research-and-innovation-critical-to-future-
+australian-industries-finds-new-acola-report  
+  
+[15] STEM: Country Comparisons, released by the Australian Council of Learned
+Academies, 4 June 2014. Available online at:
+http://www.acola.org.au/index.php/projects/securing-australia-s-
+future/project-2 p.9  
+  
+[16] Australian Council of Learned Academies Media Release 4 June 2014:
+www.acola.org.au/index.php/news/32-new-acola-report-international-comparison-
+study-of-stem-education  
+  
+[17] Consultant Report - Securing Australia’s Future - STEM: Country
+Comparisons [STEM Report – Republic of Korea], Australian Council of Learned
+Academies, May 2013. Available online at: www.acola.org.au/index.php/stem-
+consultants-reports  
+  
+[18] The Guardian, 4 Sept 2014. Available online at:
+www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-
+programming  
+  
+[19] The Guardian, 4 Sept 2014. Available online at:
+www.theguardian.com/technology/2014/sep/04/coding-school-computing-children-
+programming

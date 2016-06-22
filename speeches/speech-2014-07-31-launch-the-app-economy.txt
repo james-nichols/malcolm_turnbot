@@ -1,0 +1,127 @@
+Good afternoon. It is a pleasure to be here today to launch the Jobs In
+Australia’s App Economy paper. I’d like to welcome Will Marshall, President of
+the US Progressive Policy Institute and Michael Mandel. My thanks also to
+Global Access Partners for organising this event.  
+  
+In the 1880s natural ice harvesting was big business - at its peak the US ice
+market was worth about $660 million in today’s dollars. It was a clever and
+labour intensive business. Workers would measure the thickness of lake ice
+with a hand turned drill and, if thick enough, a horse drawn plough-like
+device would crisscross the lake into a chess board of squares, which was then
+cut into cubes.  
+  
+Demand was strong and firms were innovative. In Norway, a network of
+artificial lakes provided a ready supply, and increasingly sophisticated
+transport networks allowed ice to be shipped around the world. Businesses knew
+they needed to innovate to stay competitive. American Fredric Tudor became the
+‘Ice King’, pioneering techniques such as packing the ice with sawdust instead
+of straw to better insulate ice being transported across the tropics.  
+  
+But despite the ingenuity, the fall of the ice trade was abrupt. In 1882, the
+first commercially viable refrigerated ship, the Dunedin, sailed from Auckland
+to London and in 1911 General Electric released its first household fridge. By
+1910 the US was only exporting 15,000 tons of ice, a far cry from the boom
+days in the 1880s where more than four million tons was stored on the Hudson
+River.  
+  
+Shortly after, the ice harvesting industry came to an abrupt end. I’m sure
+some of you are thinking, “what’s this go to do with apps?” It’s all about
+disruption and innovation. For businesses to survive today, they need to be
+more than just technically efficient. They also need to experiment outside
+their traditional markets. They need to be aware that with the internet almost
+all sectors, all industries, are trade exposed, driving global competition.
+The app economy epitomises that demand. Check your smartphone - how many
+alerts do you receive to update you about a new feature, a new product? The
+app economy is adaptive and innovative, and all businesses have a lot of learn
+from its agility.  
+  
+The Australian App Economy  
+  
+For the first time in history, a business has access to every consumer with a
+mobile phone - that’s about 1.5 billion people. If your business operates an
+app, consumers across the globe can access your services. But more than that,
+consumers can also access the services of your competitors.  
+  
+The days of the local competition being just down the road are long gone.
+Australia’s economy is strong and growing, but within that is the threat and
+opportunity of digital disruption. Two-thirds of Australian businesses face
+imminent disruption. According to the ABS, 460,800 workers were employed in
+the 18 primary ICT occupations in August 2012,[1] with ICT workers accounting
+for 4.1 per cent of our total workforce. In the next five years employment in
+the ICT sector is projected to grow by 33,200 workers, or 7.1 per cent.[2] The
+importance of the ICT sector to Australia’s economy is clear.  
+  
+Research by the Centre for Innovative Industries Economic Research estimates
+that ICT contributed 6.9% to GDP. The same research found that the annual
+contribution of the digital economy to the broader Australian economy was $100
+billion in 2011.[3] Dr Mandel’s paper makes a useful contribution -
+identifying apps as a major and growing part of the ICT sector and of the
+economy more generally. It tells a very positive story - that many Australians
+understand the importance of apps for their business, whether they are small
+businesses connecting directly with consumers or providing services to
+multinationals.  
+  
+App development is becoming one of Australia’s strengths and one where we can
+compete with the best in the world. Dr Mandel’s report finds that there are
+139,000 jobs in the Australian app economy. In Sydney, 10.7% of ICT jobs
+relate directly to app development, more than in New York, Chicago or London -
+albeit a long way from Silicon Valley’s 17.6%.  
+  
+Demand for apps continues to grow, suggesting there’s a limited role for
+government here and the best thing we can do is to get out of the way to let
+private sector innovation continue to flourish.  
+  
+Cloud Computing and Open Data  
+  
+I would like to finish by touching on a few of the important things government
+is doing to improve the way it uses ICT and to encourage innovation. The first
+is cloud computing. The Government will soon release a revised cloud computing
+policy - to significantly increase the take up of cloud services by federal
+government agencies, consistent with our policy for e-Government and the
+Digital Economy. And as important as vision statements are, of most importance
+are the actions we’re taking to remove barriers that currently restrict, and
+in many cases actually prevent, agencies from procuring cloud services.  
+  
+We cannot shy away from the fact that we need to improve the way ICT has
+traditionally been delivered by government. Consider the fact that the federal
+government alone spends about $6 billion a year on ICT and yet has spent less
+than $5 million on cloud services since July 2010. Changes, which I look
+forward to announcing in the coming weeks, will present a range of
+opportunities for cloud service providers as government agencies increasingly
+move to deliver ICT as a service. The second is open data - an area where we
+are making good progress. Open data is a key government lever which, if used
+correctly, can help to spur innovation.  
+  
+The Government recognises the immense enabling role that open dta can play -
+particularly when it comes to app creation. The Coalition has a clear agenda
+to release government data in anonymised and machine readable form as standard
+practice. As a result, 86% of the data available through data.gov.au has been
+added since the Abbott Government came to power, with a number of new valuable
+datasets to be added over the coming months.  
+  
+Let me return to where I started. Fredric ‘the Ice King’ Tudor ended up in a
+debtor’s prison twice before he was able to crack the ice market. Failure is
+the hallmark of many successful innovators. As this paper shows, Australia is
+well placed to rise to the challenge of digital disruption and embrace the app
+economy. Cloud computing, open data and apps are completely changing the way
+business, and increasingly government, engage with their customers.  
+  
+Governments and businesses that fail to embrace these technologies risk being
+left behind by new ideas and new innovations, or even melting away like those
+early ice traders. I thank the authors for this report. [ends]  
+  
+[1] Australian Workforce and Productivity Agency, ICT Workforce Study, July
+2013, p30 http://www.awpa.gov.au/publications/Documents/ICT-STUDY-
+FINAL-28-JUNE-2013.pdf  
+  
+[2] Department of Education, Employment and Workplace Relations, Meeting
+Australia’s future ICT skills needs July 2013.  
+  
+[3] Australian Computer Society, Australian ICT Statistical Compendium 2013
+http://www.acs.org.au/__data/assets/pdf_file/0004/28570/Australian-ICT-
+Statistical-Compendium-2013.pdf  
+  
+[4] http://www.idc.com/getdoc.jsp?containerId=prAU24222413  
+  
+[5] http://www.pm.gov.au/media/2013-12-18/securing-australias-manufacturing-
+future

@@ -1,0 +1,273 @@
+Ovum 2020 Summit  
+  
+Refining Our Telecommunications Framework  
+  
+31 October 2014  
+  
+Sydney  
+  
+  
+  
+  
+  
+Good morning and congratulations to Ovum on this, the inaugural Ovum 2020
+Summit.  
+  
+Ovum have put together a great program today which is focussed on the world of
+next generation networks, and the new generation of applications that service
+providers will deliver over them.  
+  
+Since I have been Minister - and indeed Shadow Minister - Ovum has been one of
+the most influential and informed voices on the key issues in my portfolio,
+from the NBN to improving the delivery of eGovernment, to maximising the
+efficiency of mobile networks. Analysts such as Steve Hodgkinson and David
+Kennedy are clear thought leaders in their respective areas.  
+  
+I also want to acknowledge other key speakers and panelists here today
+including:  
+  
+The innovations and the disruptive trends that are being spoken about today
+are of enormous interest to me, and not just in an academic sense. As you know
+I am a former chairman of one of Australia’s first ISPs and now am a
+shareholder minister of the NBN. So while the debate has centred on the pits
+and pipes, and the speed and manner in which new infrastructure can be
+delivered, the crucial thing is to ensure we are maximising its use and
+utility.  
+  
+Metadata  
+  
+Before I start today, I wanted to talk about the data retention measures I
+introduced in the House of Representatives Government yesterday.  
+  
+I welcome the constructive comments from John Stanton and the Communications
+Alliance, recognising the importance of a data retention scheme to the work of
+our law enforcement agencies. The Comms Alliance has offered to work
+cooperatively with Government to ensure we are able to implement a scheme that
+is cost effective and practical.  
+  
+For our part, the Government is committed to engaging constructively with the
+industry to ensure we can move to a new data retention regime with the minimum
+amount of cost and disruption to service providers.  
+  
+Firstly, while this is important legislation that needs to be dealt with in a
+timely fashion, we are not seeking to rush and we will wait for the report of
+the Parliamentary Joint Committee on Intelligence and Security to make
+recommendations on the details and structure of the new regime.  
+  
+In addition, we will allow carriers and ISPs covered by the proposed law to
+develop an implementation plan that provides a pathway to compliance with the
+new scheme over a period of up to 18 months.  
+  
+These plans will allow the industry and Government to work together and begin
+to identify and prioritise the data that is most critical to investigations,
+while allowing service providers significantly to reduce their costs by
+aligning any system changes with their internal business cycles.  
+  
+Apart from the Joint Committee I have mentioned, the Government will establish
+a parallel working group that will include the Secretaries of the Departments
+of Attorney General and Communications, the Federal Police Commissioner and
+the Director General of ASIO, along with industry representatives, to help
+settle the technical aspects of the data set that is to be retained and to
+help refine the reasonable costs.  
+  
+And finally, the Government has said we expect to make a substantial
+contribution both to the implementation and operational costs of any new
+scheme.  
+  
+As I said at a joint press conference with Attorney General George Brandis
+yesterday, we understand that we’re asking many retail providers to store data
+in a way that is either not required for their business purposes today or is
+likely not to be required in the future.  
+  
+While we haven’t settled on a quantum as yet, it is important to recognise
+that there is a long standing and well understood arrangement for sharing
+costs when law enforcement agencies make metadata requests of companies at the
+moment.  
+  
+We acknowledge that there is a fine line on the balance between maintaining
+national security and privacy which is why, in additional to the safeguards
+already in place under the Privacy Act, we have introduced a range of measures
+to protect personal privacy including:  
+  
+The Right Framework for the NBN  
+  
+Now turning to the NBN, everyone here in the room will have heard my old joke
+about the lost tourist in Ireland seeking directions to Dublin -- if you
+haven’t, you’re obviously very new to the industry!  
+  
+Suffice to say, we wouldn’t be starting from here.  
+  
+Everywhere else in the world, the norm has been for Governments and regulators
+to promote infrastructure based competition.  
+  
+The experience has been that the best way to ensure incumbents face enough
+pressure to invest and upgrade their networks is from very intense competition
+from cable companies in particular, but also from smaller altnets.  
+  
+Almost invariably, where cable companies have upgraded users to superfast
+broadband, for instance with Docsis 3.0, they have tended to do so without
+charging users any premium at all. When Virgin in the U.K. for instance
+upgraded its customers to 50mbps speeds in 2009, they actually reduced
+prices[1]. And other examples are legion.  
+  
+Many studies have shown that competition leads to more innovation and choice
+for consumers[2]. A recent European study showed markets with widespread cable
+deployments are more dynamic and have much greater penetration of
+superfast[3].  
+  
+Indeed the Vertigan panel recognised the value of competition. In recognising
+that competition will lead to some duplicative costs, increasing them by 20
+per cent, it modelled that a one-year acceleration in broadband deployment and
+a 2.5 per cent increase in the rate of productivity growth would ensure that
+those costs were offset.  
+  
+But as the Vertigan panel acknowledged – and indeed as I noted in a recent
+speech[4] – there are still very large risks to the delivery of this project.
+In the words of the panel’s report: “Any decision to deviate from the current
+development path for NBN Co will inevitably involve cost and delays,
+potentially exacerbating community dissatisfaction with the current progress
+of the rollout.”[5]  
+  
+While the Government is yet to deliver its full response to the Vertigan
+Panel, it is important to note that we acknowledge the importance of the
+panel’s work and indeed we recognise why they made these recommendations in
+the first place.  
+  
+Firstly, while any attempt to force a disaggregation of the NBN Co in the
+short term would lead to large costs and would be an unacceptable distraction
+as the network is rolled out, we are very alert to the need to to give future
+Governments optionality.  
+  
+While the NBN Co continues its transition towards the Multi Technology Mix,
+the company has resolved to maintain its HFC operations in a distinct business
+unit thus making a future disaggregation as recommended by the Vertigan Panel
+feasible if a future Government resolves to do so.  
+  
+I have said that the privatisation of the NBN Co is a priority for Wyatt Roy’s
+second term as Prime Minister - however the 23 year old Member for Longman is
+such a formidable parliamentarian I am not sure that eventuality is as far off
+as many imagine! Nonetheless, while privatisation is, if ever, a long way off,
+it is also important to recognise that decisions made now can lead to huge and
+potentially irreversible costs in the future.  
+  
+Secondly, the company faces a competitive threat in servicing multi-dwelling
+units in metropolitan areas and it is now well advanced in its accelerated
+program, with 10 out of 12 multi dwelling units identified in the first
+limited deployment now ready for service.  
+  
+Those multi dwelling units are in:  
+  
+· Fortitude Valley in Queensland  
+  
+· Haymarket and the Sydney CBD in NSW, and  
+  
+· Docklands and South Melbourne in Victoria.  
+  
+But I have made it clear that the company is to have full flexibility and be
+innovative in its deployment and this is particularly true in areas identified
+as being vulnerable to competitive threat.  
+  
+The company has said that it expects its fibre-to-the-basement product ready
+for widespread deployment in the first quarter of 2015 and this should see the
+continued acceleration of the program.  
+  
+And thirdly, we are working with the NBN Co and consulting with private
+companies in the greenfields sector to ensure that there is a more level
+playing field.  
+  
+We will have a discussion paper out soon on greenfields to canvass potential
+changes because we will not do what the previous Government did in imposing
+huge costs on the industry with very little analysis.  
+  
+However, as I outlined a few weeks ago, while we will not seek full cost
+recovery from developers in the provision of greenfield infrastructure, we
+will continue to work towards a model where more of the NBN’s costs are
+transparent and private providers are not at a competitive disadvantage.  
+  
+Spectrum reform  
+  
+And finally, in terms of the public spectrum, the Government is committed to
+creating a framework that reduces costs to businesses, facilitates innovation,
+and enables businesses to respond quickly to changes in technologies and
+consumer preferences and enter new markets.  
+  
+It is estimated that mobile data will grow by 265 per cent over the four years
+to 2017, increasing from an estimated 22.2 petabytes in 2013 to 81.1 petabytes
+in 2017[6].  
+  
+The growth in wireless data services presents significant economic and social
+benefits to all Australians. For instance, a report commissioned by the ACMA
+found that mobile broadband contributed $33 billion to the economy over a six-
+year period to 2013, largely through productivity gains[7].  
+  
+Australia was one of the first countries to reduce constraints on spectrum use
+through the introduction of market-based mechanisms for the allocation of
+spectrum. This approach enables licensees to determine how they utilise
+spectrum and respond to changing technologies and consumer demand, if certain
+conditions are met.  
+  
+The benefits of a liberalised approach to spectrum management have been
+clearly demonstrated in the Australian mobile telecommunications sector,
+including:  
+  
+In May this year, I announced a review of the Australia’s spectrum policy and
+management framework. The purpose of the review is to modernise and simplify
+the framework to improve its efficiency and flexibility.  
+  
+The Department will be releasing a consultation paper shortly that outlines a
+number of proposals for change, including those I identified in my speech at
+the ACMA’s Radcomms 2014 Conference in September.  
+  
+One of the proposals the review will consider is the introduction of a single
+licensing framework. A single licensing framework will likely increase the
+flexibility of spectrum users to respond to changes in spectrum use and
+facilitate the introduction of more efficient technologies.  
+  
+Stakeholder feedback is encouraging and the introduction of a flexible single
+licensing framework received support at the Radcomms Conference 2014.  
+  
+The review will also consider the creation of a clearer and simplified policy
+framework to ensure transparency and accountability in decision making. This
+would involve Government policy statements being issued to the ACMA as well as
+specific powers of Ministerial intervention to direct major policy
+initiatives, and the ACMA providing an annual work program to the Minister
+identifying key priorities over a 3 to 5 year timeframe.  
+  
+The spectrum review will also consider reforms to television broadcasting to
+increase flexibility, promote efficient use of spectrum and move spectrum to
+its highest value use.  
+  
+Television broadcasters should be able to use spectrum more flexibly and more
+efficiently in providing services. In practice, there are a number of ways in
+which this principle could be implemented.  
+  
+For instance, commercial and national broadcasters should commence their
+transition to MPEG-4 only broadcasting, which uses spectrum much more
+efficiently. To allow for this transition, in the short term, the Government
+will free up the spectrum known as the sixth channel to assist in the testing
+and migration to MPEG-4. The sixth channel remains substantially vacant but is
+currently being used by community television in mainland capitals.  
+  
+The best outcome for community television is that in future it uses the
+internet as its distribution platform which is why the Government is extending
+current licensing arrangements for community television until the end of
+December 2015.  
+  
+Coincident with the spectrum review, the Department of Communications will
+shortly release a discussion paper seeking industry’s views on future
+arrangements for digital television broadcasting.  
+  
+Conclusion  
+  
+So in conclusion, competition is the lifeblood of this dynamic and rapidly
+evolving industry, an industry in which the only real constant is continual
+innovation and change.  
+  
+The reform measures we are working to implement are absolutely essential to
+allow the telecommunications sector to continue to innovate and compete.  
+  
+I thank you for your contributions and efforts to date and look forward to
+continue working together in ensuring this exciting industry continues to
+deliver consumers the widest possible choices and the best service.  
+  
+Thank you

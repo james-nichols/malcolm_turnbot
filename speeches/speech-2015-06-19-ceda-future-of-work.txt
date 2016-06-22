@@ -1,0 +1,341 @@
+'Australia’s Future Workplace'  
+  
+CEDA Conference  
+  
+19 June 2015  
+  
+  
+  
+When Lord Byron travelled to Greece in 1812, he declared:  
+  
+Fair Greece! sad relic of departed worth![1]  
+  
+Immortal, though no more! though fallen, great!  
+  
+In many ways, he wasn’t just talking about Greece’s ‘departed worth’ as
+measured just by its cultural or artistic output, but actual economic output.
+As Angus Maddison’s project to track historic national accounts shows,
+Greece’s per capita income in the age of Byron was only around 20 per cent
+higher than it was in the age of Plutarch [2].  
+  
+For many millennia, economic life was much the same for each successive
+generation.  
+  
+The problem of rapid technological change - and with it, the displacement of
+wide chunks of the labour force - is a relatively new one. Perhaps the first
+social movement protesting against automation and the threat it poses to
+labour was the Luddite movement in the early 19th century; workers protesting
+at Foxconn facilities about being replaced by robots is the latest incarnation
+of this same problem[3].  
+  
+In 1930, John Maynard Keynes wrote of the fantastic and frenetic changes
+occurring around him, with output per head in U.S. factories increasing 40 per
+cent in a period of just five years. “The increase of technical efficiency,”
+he wrote, “has been taking place faster than we can deal with the problem of
+labour absorption”[4]. He predicted that within a century, output per head
+would be four to eight times greater; and that the work week would be reduced
+to around 15 hours, to be replaced by a culture of leisure.  
+  
+He was right in terms of growth - 85 years on and the Australian and U.S.
+output per head has grown by a factor of six[5].  
+  
+And there has also been a huge shift of jobs from traditional sectors. In
+1900, one in four Australians were employed in the agriculture sector[6]. As
+of May, agriculture accounted for slightly more than 2 per cent of total
+jobs[7]. As late as 1970, manufacturing accounted for 28 per cent of the
+workforce; it now accounts for just over 7 per cent of jobs.  
+  
+The short point is that in an open, dynamic, globally competitive market
+economy, jobs lost in relatively declining sectors will be made up for in new
+ones.  
+  
+What Keynes didn’t foresee, however, was just how transformative new
+innovations would be; bringing not just new ways of creating old products, but
+new waves of demand and need for skilled inputs.  
+  
+Economists Claudia Goldin and Lawrence Katz famously wrote about the “race
+between education and technology” and it appears that humans have, for the
+most part, stayed ahead of the curve of technological change by moving up the
+value chain faster than computers[8].  
+  
+A 1965 NASA report sums up our inherent advantage. “Man is the lowest-cost,
+150-pound, nonlinear, all-purpose computer system which can be mass-produced
+by unskilled labor.”[9]  
+  
+But as Hugh Durrant-Whyte and a team of NICTA researchers point out, 40 per
+cent of the workforce - or around 5 million Australian jobs - are at high risk
+of being replaced by computers in the next 10 to 15 years[10].  
+  
+This study largely reinforces a study by Oxford’s Martin School in 2013, which
+found that a slightly larger proportion of U.S. workers - around 47 per cent -
+will have their jobs threatened by computerisation in coming years[11].  
+  
+Part of the answer for Australia’s workers is contained in these two studies -
+we are slightly less prone to automation than U.S. employees because of the
+makeup of our workforce, with relatively fewer workers in the service
+sector[12].  
+  
+What is different about the current wave of disruption - referred to by some
+authors as the new wave of the industrial revolution - is the pace of change,
+driven in large part by a confluence of trends. Each would be significant
+enough to disrupt traditional jobs, industries and business models in their
+own right, but together they’re having an irrevocable impact; not only on the
+way we work, but on just about every aspect of our lives.  
+  
+This is no ordinary disruption  
+  
+The key to our future economic prosperity - our competitiveness and progress -
+is, in large part, contingent on our ability to counter some trends and
+embrace others. They include:  
+  
+As with previous cycles of technological progress, where the application of
+new technologies has lead to greater automation - particularly in agriculture,
+manufacturing and now mining - the current wave of disruption will inevitably
+result in job losses in other areas susceptible to automation and
+standardisation.  
+  
+While the prospect of 5 million jobs being lost to computers is alarming, it
+does not consider the types of jobs that will be created in the future.
+Technology will be leveraged to develop new goods and services, new
+innovations will emerge, and companies most susceptible to disruption will
+reinvent their business models, as many - though not all - are doing today.  
+  
+Take Netflix as an example. In less than a decade they cannibalised their DVD
+by mail business with an on-demand video streaming service. Today Netflix
+accounts for 30 per cent of downstream web traffic in North America, has 60
+million subscribers worldwide and employs 2450 people. Many of those jobs - at
+least at Netflix - would not exist today had they not cannibalised their old
+business model[17].  
+  
+So while many jobs and in some cases entire industries are at risk of being
+replaced by computers, technology can be harnessed to create a net increase in
+employment. Our challenge is to ensure that enough Australians have the skills
+and technological imagination to take advantage of new technologies; to
+approach disruption as an opportunity to invent and create, and not something
+that we seek to prevent.  
+  
+As Hugh Bradlow from Telstra observes in his chapter, “One certainty about the
+economy and employment in the years ahead is they will be shaped and affected
+by new technology.”[18] The reality is, the future is here now so we must be
+prepared to embrace change and uncertainty as our friend, not our foe.  
+  
+Role of government  
+  
+The question therefore is: how, in the face of unprecedented technological and
+demographic change, can we ensure that more jobs are created than are lost?
+And how do we ensure that the jobs created will deliver a higher standard of
+living than they do today?  
+  
+The aim is not, as Labor used to say, "future proofing." That’s neither
+possible nor desirable. It sees the future as a threat not an opportunity. We
+need to ensure we have infrastructure and the skills to embrace the future, to
+make volatility our friend so that we can take advantage of all the
+opportunities rapid change will involve.  
+  
+STEM and ICT skills  
+  
+Let me pick up on education and skills.  
+  
+Improvements in educational attainment and workforce skills enabled Australia
+to respond, and ultimately benefit from, past waves of technological
+disruption. For the most part, wages have increased and so too has
+discretionary spending, creating demand for new goods and services, and
+ultimately improving our standard of living.  
+  
+In terms of formal qualifications, Australia has a highly skilled workforce.
+25 per cent of Australians have a tertiary qualification, and nearly 40 per
+cent of 25-34 year olds have a bachelor degree or higher - this is above both
+the OECD and G20 averages[19].  
+  
+But despite our educational attainment, we must ensure that students are
+graduating from secondary school and university with the skills to succeed in
+a more competitive, globalised world.  
+  
+In a volatile age of rapid disruption, agility and optionality are key assets.
+I always discourage young people from studying law - unless they want to be a
+lawyer. STEM subjects, including computer science; financial subjects, even
+the liberal arts are far better grounding than an arid vocational degree which
+will never be used in the profession.  
+  
+As Catherine Livingstone observed at the National Press Club earlier this
+year, “We need to move urgently from a discussion about protecting the jobs of
+today, to creating the jobs of the future. This includes ensuring that there
+is a workforce skilled in attributes required by business.”[20]  
+  
+We know that advances in computing and software in particular are driving the
+latest wave of disruption, and yet there has been a sharp decline in the
+number of students studying computing at university. A recent report from the
+Australian Computer Society and Deloitte Access Economics found that demand
+for ICT workers in Australia will increase by 100,000 people over the next
+five years[21]. But the number of IT graduates with a bachelor or postgraduate
+qualification almost halved between 2002 and 2013. Despite a marginal increase
+in the number of engineering graduates, there is a clear gap between the
+forecast demand for ICT workers and the current pipeline of supply.  
+  
+This is a clear market failure and something that we must urgently address.
+Business and political leaders - and of course universities and school
+counsellors - have an important role to play in promoting the benefits of
+courses such as computer science. We need to move beyond outdated stereotypes
+of the IT worker as a nerdy guy in a brown cardigan and promote the virtues of
+a computing qualification as an excellent generalist degree - the Arts or Law
+degree of the 21st century. In Australia, almost half of all workers with an
+ICT qualification work in non-ICT fields such as advertising, and 52 per cent
+work in industries outside of ICT itself[22].  
+  
+And while much more needs to be done to increase the pipeline of secondary
+school students that go on to study computing at university, a second and
+equally important point is this: technology is at the heart of just about
+everything we do, so more workers across the economy - regardless of their
+occupation - will require generalist STEM skills if Australia is to remain a
+competitive, prosperous country with a high social welfare safety net.  
+  
+The importance of STEM to the economy should not be underestimated, nor is it
+new. As Australia's Chief Scientist, Professor Ian Chubb, has observed,
+approximately 65 per cent of Australia's economic growth per capita in the 40
+years to 2005 came from improvements in our use of capital, labour and
+technological innovation. And demand will continue to accelerate - 75 per cent
+of the fastest growing occupations now require STEM skills and knowledge[23].  
+  
+Our education system must equip students with the skills to meet this demand.
+Like reading, writing and arithmetic, ICT skills such as coding and
+computational thinking are becoming so critical that they should be embedded
+across the curriculum - from Foundation to Year 10 as part of the digital
+technologies syllabus.  
+  
+While digital literacy is critical, given the rate of technology adoption in
+Australia - even among very young children - it is important that we move
+beyond only teaching students how to consume technology and instead focus on
+technology creation.  
+  
+Last year the UK's ICT curriculum was replaced by a new computing curriculum,
+with students as young as five and six receiving coding lessons. As Michael
+Gove, the former Secretary of State for Education, explained:  
+  
+"ICT used to focus purely on computer literacy - teaching pupils, over and
+over again, how to word-process, how to work a spreadsheet, how to use
+programs already creaking into obsolescence; about as much use as teaching
+children to send a telex or travel in a zeppelin."  
+  
+"Our new curriculum teaches children computer science, information technology
+and digital literacy: teaching them how to code, and how to create their own
+programs; not just how to work a computer, but how a computer works and how to
+make it work for you[24].  
+  
+I strongly support this position and encourage educators in Australia to
+embrace machine languages and computational thinking as skills that are as
+fundamental in the 21st century as reading, writing and arithmetic.  
+  
+Of course education is not the exclusive right of those enrolled in the school
+and university systems. There needs to be a renewed focus on upskilling - or
+reskilling - and career development, particularly in industries most
+susceptible to automation. This could occur through traditional on the job
+training, specialist courses, or vocational education.  
+  
+The Government is investing $3.5 million in a "coding across the curriculum
+programme" to ensure all students gain exposure to coding in primary and
+secondary schools.  
+  
+And we have committed $500,000 to trial a P-TECH style programme in Geelong.
+P-TECH is an education pathways partnership between IBM and the New York
+Education Department where students graduate with an associate degree, along
+with the skills to continue studying or transition directly into an IT job.  
+  
+Conclusion  
+  
+We are living through the most exciting times in human history. The pace of
+change is exhilarating.  
+  
+But we cannot foresee with certainty how the future will unfold.  
+  
+We do however know that the world is being transformed by an unprecedented
+number of technology trends; trends that are reshaping just about every part
+of our lives - not least of which is jobs and the labour force.  
+  
+[1] Byron, Childe Harold’s Pilgrimage  
+  
+[2] See The Maddison-Project, (2013), “Historic National Accounts” available
+at: http://www.ggdc.net/maddison/maddison-project/home.htm. Adjusted to 2000
+US dollars, the per capita income of Greece was $960 in 1830 compared to $800
+in the year 0. As Josiah Ober notes in his excellent new book Rise and Fall of
+Classical Greece, the rate of technical and developmental advancement in
+classical Greece was as great as it was at the start of the modern era.
+Source: Ober, J. (2015) The Rise and Fall of Classical Greece.  
+  
+  
+  
+[3] The Economist, (2011), “Robots Don’t Complain”, online here:
+http://www.economist.com/node/21525432  
+  
+[4] John Maynard Keynes, (1930), “The Economic Possibilities of our Grand
+Children”.  
+  
+[5] In 1931, output per head in Australia was $4,354 in 2000 US dollars; as of
+2010, it was $25,584  
+  
+[6] Connolly, E., & Lewis, C., (2013), “Structural Change in the Australian
+Economy”, RBA bulletin, available at:
+http://www.rba.gov.au/publications/bulletin/2010/sep/pdf/bu-0910-1.pdf; see
+also, ABS, (2001), “A Century of Change in the Australian Labor Market”,
+available at:
+http://www.abs.gov.au/AUSSTATS/abs@.nsf/Previousproducts/1301.0Feature%20Article142001#Endnotes  
+  
+[7] ABS, (2015), “Labor Force, Australia, Detailed”, available at:
+http://www.abs.gov.au/ausstats/abs@.nsf/mf/6291.0.55.003  
+  
+[8] Goldin, C., and Katz, L., (2007), “The Race Between Education and
+Technolgy”, available at: http://www.nber.org/papers/w12984.pdf  
+  
+[9] Quoted in Brynjolfsson, E., and McAfee, A., (2015), “Will Humans go the
+way of Horses”, in Foreign Affairs(July/August), available at:
+https://www.foreignaffairs.com/articles/2015-06-16/will-humans-go-way-horses  
+  
+[10] CEDA (June 2015), Australia’s future workforce? pp.6, 60.  
+  
+[11] Frey, C., & Osborne, M., (2013), “The Future of Employment: How
+Susceptible are Jobs to Computerisation?”, available at:
+http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf  
+  
+[12] CEDA (June 2015), Australia’s future workforce? p60.  
+  
+[13] [email protected]/*  */ Blog, (2014), Moore’s Law and Computer Processing
+Power, available at: http://datascience.berkeley.edu/moores-law-processing-
+power/  
+  
+[14] Global Mobile Statistics, (2014), available at:
+http://mobiforge.com/research-analysis/global-mobile-statistics-2014-part-a-
+mobile-subscribers-handset-market-share-mobile-operators  
+  
+[15] Beta News, (2014), “The Global Supply Chain Behind the iPhone”, available
+online here: http://betanews.com/2014/09/23/the-global-supply-chain-behind-
+the-iphone-6/g  
+  
+[16] Australia Youth Unemployment, (2015), available at:
+http://www.tradingeconomics.com/australia/youth-unemployment-rate  
+  
+[17] Forbes, “Global 2000 List” available at:
+http://www.forbes.com/companies/netflix/ and Smith, C., (2015), “50 Amazing
+Netflix Statistics and State” available at:
+http://expandedramblings.com/index.php/netflix_statistics-facts/  
+  
+[18] Diamandis, P., (2015), “10 Years of Change” available at:
+http://peterdiamandis.tumblr.com/post/118118175825/10-years-of-change  
+  
+[19] OECD (2012), Education at a Glance: OECD Indicators 2012, available at:
+http://www.oecd.org/australia/EAG2012%20-%20Country%20note%20-%20Australia.pdf  
+  
+[20] OECD (2014), Skills and Jobs in the Internet Economy, pp.4–5, available
+at: http://dx.doi.org/10.1787/5jxvbrjm9bns-en  
+  
+[21] Simes, R., & O’Mahony, J., (2015), Australia’s Digital Pulse, available
+at: http://www2.deloitte.com/au/en/pages/economics/articles/australias-
+digital-pulse.html  
+  
+[22] Ibid.  
+  
+[23] Australian Industry Group, (2013), Lifting our Science, Technology,
+Engineering and Maths (STEM) Skills, available at:
+http://www.aigroup.com.au/portal/binary/com.epicentric.contentmanagement.servlet.ContentDeliveryServlet/LIVE_CONTENT/Publications/Reports/2013/Ai_Group_Skills_Survey_2012-STEM_FINAL_PRINTED.pdf  
+  
+[24] Gove, M., (2014), “Michael Gove Speaks about computing and education
+technology”, available at: https://www.gov.uk/government/speeches/michael-
+gove-speaks-about-computing-and-education-technology

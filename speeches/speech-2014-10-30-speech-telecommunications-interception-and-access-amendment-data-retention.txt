@@ -1,0 +1,205 @@
+Mr TURNBULL (Wentworth—Minister for Communications) (09:32): I move:  
+  
+That this bill be now read a second time.  
+  
+The bill contains a package of reforms to prevent the further degradation of
+the investigative capabilities of Australia's law enforcement and national
+security agencies. The bill will require companies providing
+telecommunications services in Australia, carriers and internet service
+providers to keep a limited, prescribed set of telecommunications data for two
+years. The bill amends the Telecommunications Interception and Access Act 1979
+(interception act), and the Telecommunications Act 1997 (telecommunications
+act).  
+  
+  
+  
+  
+  
+Modern communication technologies have revolutionised the abilities of people
+to communicate, collaborate and express themselves. Sadly, however, these same
+technologies are routinely misused and exploited by criminals, including those
+who threaten our national security.  
+  
+Historically, telephone companies have kept call records showing the numbers
+of both the A and B parties, time of call, duration of call and often the
+location of the parties. These records have been kept for long periods and
+were used for billing purposes. Under existing and long-standing legislation,
+a range of law enforcement and other agencies have had the ability to access
+this information without a warrant. These records are regularly subpoenaed in
+civil proceedings, as well.  
+  
+When a device is connected to the internet it is assigned an IP address. This
+is, like a telephone number, a unique address. While many hosts have static or
+permanent IP addresses, in the vast majority of cases IP addresses are
+allocated dynamically by the internet service provider or telco providing the
+communication or the connection to the internet. Telecommunication companies
+have the ability to retain the details of the customer IP address allocated
+and many do so, but for differing periods. The capture and retention of these
+addresses is more straightforward in the fixed line broadband environment than
+in wireless networks. The widespread use of network address translation to
+more efficiently use the limited number of IP version 4 addresses also adds a
+level of complexity.  
+  
+The type of data referred to in the bill as telecommunications data, more
+often described as metadata, is information about a communication but not its
+content. So, in the telephone world, it reveals that one number belonging to a
+particular account was connected to another number at a time and for a
+duration, but does not reveal what they discussed. In the IP world it reveals
+that a particular IP address, which may have been observed to have been
+engaged in some unlawful activity, had been at the relevant time allocated to
+a particular account. In the context of messaging—email, for example—it
+reveals the sender , recipient, time and date, but again not the content.
+Access to content, I stress, requires a warrant.  
+  
+Access to metadata plays a central role in almost every counter-terrorism,
+counterespionage, cybersecurity and organised crime investigation. It is also
+used in almost all serious criminal investigations, including investigations
+into murder, serious sexual assaults, drug trafficking and kidnapping. The use
+of this kind of meta data, therefore, is not new. However, as the business
+models of service providers are changing with technology, they are keeping
+fewer records. And they are keeping those records for shorter periods of time
+because they do not need them any longer, in many cases, for billing. Many of
+the records that are still kept are kept because of legacy systems put in
+place years ago. In June 2013, the Parliamentary Joint Committee on
+Intelligence and Security concluded that this diminution in the retention of
+meta data is harming law enforcement and national security capabilities, and
+that these changes are accelerating.  
+  
+Existing powers and laws are not adequate to respond to this challenge.
+Preservation notices under the interception act can require carriers to 'quick
+freeze' records that they hold, but these notices cannot create records that
+have never been kept, and cannot bring back records that carriers have deleted
+days, weeks or months before a crime is brought to an agency's attention.  
+  
+Simply put, investigations are failing.  
+  
+For example, in a current major child exploitation investigation, the AFP has
+been unable to identify 156 out of 463 potential suspects, because certain
+internet service providers do not retain the necessary IP address allocation
+records to enable the resolution of the IP address—that 32-bit number—to the
+particular account number the person in question was using. These records are
+critical to link criminal activity online back to a real world human being.  
+  
+These impacts are not limited to law enforcement agencies in Australia. I give
+an example provided to us by the Federal Police. During a recent Europol child
+exploitation investigation, child exploitation investigations relied heavily
+on access to telecommunications data as perpetrators primarily shared
+information online, meaning that physical evidence was rarely available. Three
+hundred and seventy-one suspects were believed to be in the United Kingdom.
+Using retained telecommunications data, UK authorities were able to positively
+identify 240 suspects, leading to 121 arrests and convictions. In contrast, of
+the 377 suspects believed to be in Germany, which does not have a data
+retention regime in force, German authorities were only able to identify seven
+and were unable to obtain sufficient evidence to arrest or convict a single
+person.  
+  
+Last year, a major Australian ISP reduced the period for which it keeps IP
+address allocation records from many years to three months. In the 12 months
+prior to that decision, the Australian Security Intelligence Organisation
+(ASIO) obtained these records in relation to at least 10 national security
+investigations, including counter-terrorism and cybersecurity investigations.
+If those investigations took place today, vital intelligence and evidence
+simply may not exist.  
+  
+No responsible government can sit by while those who protect our community
+lose access to the tools they need to do the job. In the current threat
+environment in particular, we cannot let this problem get worse.  
+  
+Data retention  
+  
+As such, this bill will allow regulations to prescribe a consistent, minimum
+set of records that service providers who provide services in Australia must
+keep for two years.  
+  
+A two-year retention period is based on the advice of our law enforcement and
+security agencies, as well as the experience of a number of foreign
+jurisdictions. While many cases are solved within a few months, investigations
+into serious and complex crimes and threats to security often span many years,
+requiring access to older records.  
+  
+The government recognises that data retention raises genuine concerns about
+privacy. We are committed to addressing those concerns.  
+  
+As a starting point, the government will release the draft dataset and refer
+it, along with this bill, to the PJCIS for review and public inquiry. The
+draft dataset is, of course, not final, but it is already strictly limited.
+For example:  
+  
+The government will also carefully consider any recommendations made by the
+PJCIS about the dataset, or the broader regime provided for in the bill.  
+  
+There has also been a great deal of conjecture about how much data retention
+may cost. As I have previously stated, the government is committed to ongoing,
+good faith consultation with industry and expects to make a substantial
+contribution to both the cost of implementation and the operation of this
+scheme.  
+  
+This consultation will continue over the coming weeks, in parallel with the
+PJCIS inquiry, through a joint government-industry working group, headed by
+the Secretary of the Attorney-General's Department and deputy chaired by the
+Director-General of ASIO, Major General Duncan Lewis, Australian Federal
+Police Commissioner Mr Andrew Colvin and the Secretary of the Department of
+Communications. These consultations will focus particularly on settling
+technical aspects of the dataset and the costs of meeting the obligation.  
+  
+What I can say is that, to date, our consultation with industry has been very
+productive. For example, based on industry advice, the bill allows individual
+service providers to develop an implementation plan that provides a pathway to
+compliance over up to 18 months. These plans will allow industry and
+government to prioritise the retention of data that is most critical to
+investigations, while allowing service providers to significantly reduce their
+costs by aligning any systems changes with their internal business cycles.  
+  
+Access arrangements  
+  
+This bill does not provide agencies with new powers to access communications
+data; the bill simply ensures that data will continue to be available to
+agencies as a part of legitimate investigations, subject to the same, strict
+limits that currently apply.  
+  
+In fact, the bill will strictly limit, and indeed reduce, the range of
+enforcement agencies permitted to access telecommunications metadata without a
+warrant.  
+  
+The bill will allow what we might call 'traditional' law enforcement agencies,
+such as the police, Customs, crime commissions and anticorruption bodies, to
+access this information.  
+  
+The bill will also grant the Attorney-General the power to declare, via
+legislative instrument subject to parliamentary oversight, additional
+agencies. Before making such a declaration, the Attorney-General will be
+required to consider a range of strict criteria, including whether the agency
+is subject to a binding privacy scheme.  
+  
+Safeguards  
+  
+The bill will also introduce a range of new and enhanced safeguards. In
+particular, the bill:  
+  
+The government is also considering reforms to strengthen the security and
+integrity of Australia's telecommunication infrastructure by establishing a
+security framework for the telecommunications sector. This will provide better
+protection for information held by industry in accordance with the data
+retention scheme. The government expects this reform will be finalised well
+before the end of the data retention implementation period.  
+  
+Concluding remarks  
+  
+This bill is critical to prevent the capabilities of Australia's law
+enforcement and national security agencies being further degraded. It does not
+expand the range of telecommunications metadata which is currently being
+accessed by law enforcement agencies. It simply ensures that metadata is
+retained for a period of two years. In the IP world, the object of the scheme
+is principally to ensure that dynamically allocated customer IP addresses are
+retained for two years so they can be resolved to an account holder. The bill
+expressly precludes any obligation to retain information relating to web-
+browsing activities. In other words, customer IP addresses will be retained
+for two years but not the details of the IP addresses of the sites to which
+that customer may connect in the course of their internet activity.  
+  
+More broadly, this bill demonstrates the government's commitment to ensuring
+that access to sensitive and personal information by these agencies is
+strictly controlled through robust accountability processes. I commend the
+bill to the House.  
+  
+Debate adjourned.

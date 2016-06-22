@@ -1,0 +1,408 @@
+KEYNOTE ADDRESS  
+  
+ACMA - RadComms 2014 Conference  
+  
+Australian National Maritime Museum, Sydney  
+  
+Wednesday 10 September 2014  
+  
+\------------------------------------------------------------------------------------------  
+  
+Introduction  
+  
+It is hard to go anywhere without being reminded about the history of
+communications. Consider the semaphore flags here at the Maritime Museum - a
+relic of a bygone age for most of us here today. They are derivatives of the
+first system of semaphore communications devised by Parisian engineer, Claude
+Chappe in 1792. At the time they were first used they were considered so
+revolutionary, contemporaries likened them to the compass, the printing press
+and gunpowder[1]. For the first time, it meant the Government could send a
+detailed message from Paris to Bordeaux in less than a day.  
+  
+In my youth I was fairly continuously involved with the broadcasting industry.
+First as a television reporter and then for years as a lawyer representing the
+Packer interests and later as a banker buying, selling and restructuring
+television and other media businesses.  
+  
+My last television transaction was the restructure and later sale of the Ten
+Network after it went into receivership, nearly twenty five years ago.  
+  
+It was back then, in 1992, that the current Radiocommunications framework was
+introduced. It led the world in how it dealt with the complexities of spectrum
+management.  
+  
+But the introduction of the current framework coincided with a revolutionary
+moment in telecommunications. In 1993, Telstra launched its first GSM network
+and Optus and Vodafone followed suit later that year[2]. Like Chappe’s
+semaphore line, GSM was a totally new way to communicate. Rather than sending
+messages using analogue signals, GSM was the first mobile technology to use
+digital transmission.  
+  
+It’s worth thinking about some of the implications of that - because these are
+things that policymakers 20 years ago could not have considered.  
+  
+First, when you’re sending a digital signal everything looks the same -- no
+matter whether you’re transmitting an SMS or a high-definition video stream,
+you’re transmitting a series of 1s and 0s. This means as we move towards a
+fully digital world, there will be less need for Governments to create complex
+spectrum allocation charts to make sure one analogue service does not
+interfere with another. Think about this: Under the current framework, there
+are 200 spectrum regulatory instruments in place and up to a third of these
+describe the different licence types.  
+  
+Secondly, a great attribute of digital signals is that amid all the 1s and 0s,
+you can detect patterns and further compress the amount of information you
+send.  
+  
+Once you have a block of spectrum, advances in compression technologies mean
+you can deliver ever more data over it. In the recent Cost-Benefit Analysis on
+the NBN that I released a fortnight ago, it included a study by Communications
+Chambers in the U.K. that gives some indication of how transformational some
+of these compression technologies have been, with efficiency gains of around
+10 per cent a year[3].  
+  
+This means a chunk of spectrum allocated today could be used for ever more
+services tomorrow. Consider the explosion in the data sent over our mobile
+phone networks; during the two years to 2013 smartphone penetration has
+increased by around 34 per cent, and data downloads by smartphones has
+increased by 453 per cent[4].  
+  
+As FCC chairman Tom Wheeler recently said:  
+  
+“Slavishly sticking to analog age concepts of spectrum allocation can become,
+in the digital age, a government-imposed chokepoint that burdens competition
+and innovation by creating unnecessary and artificial scarcity of this
+essential resource.”[5]  
+  
+Finally, digital transmission means that services can be delivered using
+common infrastructure - such as our mobile, fixed line broadband and cable
+networks - rather than having to build bespoke analogue transmission networks.
+IP over everything and everything over IP. Of course there are other
+contributors to the high cost base of broadcasting such as acquiring access to
+content and control of the advertising market. Nonetheless, this shift has had
+a profound impact on the economics of pretty much every industry that uses
+spectrum, but in particular for our broadcasters.  
+  
+For nearly forty years free to air television licensees had a monopoly on the
+delivery of television to the home. Some described them as a licence to print
+money, but that wasn't always true as TEN proved in 1990 when it went into
+receivership and there was a time when many industry wiseacres argued that
+there was not enough advertising revenue to support more than two commercial
+broadcasters.  
+  
+We proved that wrong. With the help of Cass O'Connor and a great CEO in Gary
+Rice, we restructured TEN with a mean lean cost base that enabled it to be a
+ratings laggard but a profits leader. I recall that restructuring was designed
+on large sheets of butchers paper with every division and cost centre
+carefully itemised and all laid out on our kitchen table in Paddington.  
+  
+And yet, since the introduction of digital television, there are 17 channels
+on five broadcasters -- all of them free to the the around 13.5 million
+Australians who watch each day. And people have more access to content online
+than ever before. As of May 2013 there were 7.9 million people in Australia
+using professional content services over the Internet such as catch-up TV,
+video on demand and IPTV[6].  
+  
+Demand for broadcast radio also remains very high and there is no doubt that
+radio will continue to play a key role in Australia’s media landscape, but it
+is interesting to see the growth in streamed radio over the net - from 4.5 per
+cent in 2009 to 8.1 per cent as at June 2013.  
+  
+And in addition to that of course we have hundreds of pay channels, on Foxtel
+and other services delivered by satellite and increasingly over the Internet -
+over the top. And then there is Youtube!  
+  
+In other words there is more competition, more innovation, more disruptive
+dynamic change than ever before. It means the cost of Government regulation
+has never been greater; both because it inhibits new business models from
+prospering and forces unnecessary costs on the incumbents when their
+profitability is under increasing pressure.  
+  
+For these reasons, the Government is looking hard at how we allocate spectrum
+and how this scarce public resource can be used most efficiently.  
+  
+In May, I launched the first review of the use of public spectrum in Australia
+in more than a decade[7]. Specifically, the review is examining:  
+  
+● How markets that make use of spectrum have developed since the 1992
+Radiocommunications Act was introduced  
+  
+● What elements of the regime have served us well, and what have not, and;  
+  
+● What needs to change so that we have an effective and efficient framework
+for future technologies to flourish.  
+  
+The endpoint of this review is to create a framework that allows spectrum to
+be allocated and used efficiently over the short, medium and long term.  
+  
+If this is achieved then the framework will recognise continued rapid
+technological change; promote investment; accommodate a range of different
+uses and incentivise transformations.  
+  
+Processes  
+  
+As I mentioned there are more than 200 Australian regulatory instruments in
+place that deal with spectrum matters.  
+  
+Converting and reallocating spectrum between licence types is an unnecessarily
+lengthy process and renewal processes for spectrum licences are difficult and
+can lead to uncertainty for users.  
+  
+It took seven years to release the digital dividend and three years to
+conclude the policy elements of the 15 year spectrum licence re-issue process,
+with the ACMA assessment of use and the actual re-issue of licences on top of
+that.  
+  
+Our arrangements need to be simpler and more flexible.  
+  
+Whilst we have commenced work through the Government’s deregulation agenda on
+repealing and winding back various licence conditions, the spectrum review is
+key to improved processes and reduced regulation in the spectrum management
+space.  
+  
+Outcomes  
+  
+The economic benefits to the country of having an efficient spectrum
+management framework are immense. A study commissioned by the ACMA found that
+in the six years to 2013, mobile broadband alone contributed more than $33
+billion to Australia’s GDP[8]. The recent Cost Benefit Analysis into the NBN
+showed how much the public benefits of broadband are the result of low
+bandwidth applications, which are being deployed increasingly over radio
+spectrum[9]. Emergency health care monitoring for instance, requires bandwidth
+of 1 mbps; school of the air needs between 2 and 24 mbps; smart grids require
+1 mbps.  
+  
+An economy wide study on the economic value of radio spectrum in the U.K.
+found that it added AUD$90 billion a year (£52 billion) to their GDP, in
+2011[10].  
+  
+Since 2006, the economic value of public spectrum in the U.K. has seen a real
+increase of 25 per cent. But some sectors use of spectrum has seen higher
+growth than others. The highest growth in value has been in the spectrum used
+by television broadcasters. The use of microwave links has decreased in
+economic value, presumably as telcos have built out their transit networks
+with fibre links.  
+  
+Efficiency in the management of radio spectrum will be enhanced by further use
+of market mechanisms and Australia has been a leader in this area as an early
+adopter of auctions to allocate spectrum and permitting the trading and
+leasing of spectrum and apparatus licences.  
+  
+But there is more that can be done. All users - whether telecommunications
+providers, broadcasters, public sector users and so on - must be given
+incentives to make efficient use of the spectrum, for example through use of
+appropriate pricing.  
+  
+We can drive further efficiency by encouraging greater trading and leasing of
+spectrum, facilitating the movement of spectrum for new uses, and by providing
+the flexibility and incentives for users to upgrade to more efficient
+technologies.  
+  
+There are two important points:  
+  
+● The first is that for markets to work well the people investing need
+certainty about regulatory arrangements and spectrum access terms and
+conditions.  
+  
+● The second is that Government should retain the right to intervene to make
+spectrum available for public and community services and for other uses where
+there is a clear public benefit that would not otherwise be met – this should
+occur in a transparent framework including in relation to value and benefits
+of that spectrum.  
+  
+International developments  
+  
+There are a number of interesting trends and developments in spectrum
+management taking place internationally that can inform the development of a
+new Australian framework.  
+  
+We should be ready to learn from the experience of other jurisdictions where
+they are dealing with common policy challenges in comparable circumstances.  
+  
+In March this year the UK government released its Spectrum Strategy[11]. It
+put forward a number of initiatives with the goal of growing the value of
+spectrum’s contribution to its economy and society including by:  
+  
+● Setting a vision to double spectrum’s annual contribution to the economy by
+2025;  
+  
+● Making the most of globally agreed changes in use such as those supporting
+mobile broadband to ensure harmonisation with other jurisdictions;  
+  
+● Not discriminating against or favouring one sector or another when it comes
+to the use of spectrum; and  
+  
+● Encouraging innovation through sharing arrangements.  
+  
+The OECD also published a paper in May which set out new approaches to
+spectrum management including valuing spectrum’s economic contribution,
+facilitating shared use of spectrum and the use of incentive auctions to
+assist in managing changes of use.  
+  
+The report showed that there is huge value in spectrum harmonisation among
+regional blocs. The OECD pointed out that the ACMA has been leading the way in
+the Asia Pacific with its 700Mhz band plan. The recent digital dividend saw 60
+MHz of spectrum in the 700 MHz band and 140 MHz of spectrum from the 2.5GHz
+band redeployed and sold, for a dividend of almost $2 billion. Spectral
+efficiency and harmonisation have obvious economic benefits. The OECD report
+points out that over 20 countries in the region are now adopting parts of the
+ACMA plan to maximise harmonisation efforts, including New Zealand, Japan,
+Indonesia and India[12].  
+  
+Policy Proposals  
+  
+I am outlining today three areas of potential reform that should be considered
+as part of the spectrum review and related reforms.  
+  
+The first is to create a clearer and simplified policy framework to ensure
+transparency and accountability in decision-making.  
+  
+Throughout the year, I have been in detailed discussions with the industry,
+both informally and through my Ministerial Advisory Council. I know that as
+the demand to deliver ever more services over spectrum increases, supply
+tightens and so does the tension between existing users of spectrum.  
+  
+Most of the industry wants to see a clear division in the way spectrum is
+planned, allocated and managed. Where decisions have significant public policy
+implications, these should remain in the hands of the Minister and the
+parliament. Where there are issues requiring technical, planning and
+enforcement expertise they should be left with the regulator.  
+  
+In response to this I propose that the framework would include Government
+policy statements being issued to the ACMA, as well as specific powers of
+Ministerial intervention to direct major policy initiatives. This should
+improve certainty, streamline processes and reduce costs for all parties.  
+  
+To support the policy process the Minister would be assisted by a requirement
+that the ACMA provide to the Minister an annual work program, to be made
+public, identifying key priorities over a 3-5 year timeframe. This arrangement
+would allow the Minister to indicate which processes are likely to be of
+interest to the Government and to request further information or become
+actively involved where it would be in the public interest.  
+  
+The second proposal I want to explore with industry is moving to a single
+licensing framework where there is flexibility available on licence
+parameters.  
+  
+In effect the current categories of spectrum, apparatus and class licensing
+would be removed and replaced with a single category.  
+  
+Some core conditions may be provided in legislation or communicated to ACMA
+through Government policy statements, such as a maximum licence term and
+renewal arrangements – but the intent is for the licensing framework to be
+more flexible.  
+  
+This has the potential to simplify processes and provide much greater
+flexibility and choice for users, as well as improve efficiency. The
+legislated categories will no longer be an impediment to innovative new use of
+spectrum.  
+  
+Earlier I mentioned the high number of spectrum regulatory instruments,
+particularly in regards to different licence types. Switching between licence
+categories also requires specific instruments. Moving to a single licensing
+framework is likely to remove or significantly reduce the need for such
+regulation.  
+  
+The third proposal relates to television broadcasting  
+  
+Australians enjoy a wide range of free-to-air television services,
+particularly following the switch to digital television. Anti-siphoning rules
+ensure that our most important and iconic sporting events are free for anyone
+to watch, not just those who can afford a pay TV subscription. This is one of
+the great things about living in Australia and it’s available to everyone.  
+  
+So free-to-air television, both commercial and national, remains an important
+part of the Australian media landscape and while change is a constant in the
+world of linear television, the Government considers it important to continue
+to reserve spectrum for these services.  
+  
+But with the completion of the digital switchover, advances in compression
+standards and Australians increasingly accessing content that doesn’t require
+spectrum - such as cable and over-the-top services via the internet - the
+Government considers that it is timely to recast the current broadcasting
+spectrum policy framework to ensure it is fit-for-purpose for the next wave of
+innovation in the media sector.  
+  
+So in line with the spectrum review a future broadcasting spectrum framework
+should consider the following elements:  
+  
+The Government would retain the current restriction on the number of
+commercial television licences that can be allocated for the one licence area.  
+  
+Commercial and national broadcasters would be increasingly permitted to use
+spectrum more flexibly and allow third party access to their spectrum.  
+  
+The Government would not constrain the type of services broadcasters offer
+apart from retaining the restriction on subscription television services.  
+  
+Broadcasters should be free to determine the most appropriate mix of services
+and formats for their audience accordingly the Government would not mandate
+that commercial and national broadcasters provide minimum numbers of multi-
+channels or minimum levels of high definition content.  
+  
+We are also keen to encourage commercial and national broadcasters to commence
+their transition to MPEG-4 only broadcasting, with the aim that every service
+would move to an MPEG-4 standard. The Government expects that a transition
+such as this would be industry managed.  
+  
+MPEG-4 uses spectrum much more efficiently and would allow broadcasters to use
+their existing spectrum to deliver more channels and content including in
+relatively bandwidth hungry formats such as high definition if they choose to
+do so.  
+  
+In the short term, to allow for this transition to MPEG-4, the Government
+intends to free up the spectrum known as the sixth channel to assist in the
+testing and migration to this more efficient technology.  
+  
+The sixth channel remains substantially vacant but is currently being used by
+community television in some state capitals. The Government believes that the
+best outcome for community television is that in future it uses the Internet
+as its distribution platform. To allow for this the Government will extend
+current licensing arrangements until the 31st of December 2015.  
+  
+I have no doubt that this transition is in the best interests of community
+television. It will deliver wider audiences, at less cost on a wider range of
+devices and the ability to do more than linear broadcasting. Some community
+television representatives, acknowledging that the Internet is their ultimate
+home, have nonetheless argued that they should not be "rushed into the new
+media world". The Internet is not new. It is the universal uber-platform to
+which most people in Australia are connected 24/7.  
+  
+The spectrum review will now consider whether the sixth channel spectrum will
+be replanned for alternative non-broadcasting uses, perhaps as the basis for a
+second digital dividend.  
+  
+Finally, following a move to an MPEG-4 standard, in order to continue our
+drive to achieve maximum spectrum efficiency the Government will encourage
+spectrum sharing between television broadcasters. We expect the national
+broadcasters to lead the way in this regard, with the commercials to follow.  
+  
+Conclusion  
+  
+The spectrum management framework has over time developed and shifted to meet
+changing circumstances and has served Australia well.  
+  
+But given the pace of technological change we need to look at a new approach.
+The spectrum review is an opportunity for you all to bring forward proposals
+and be involved in setting the direction for the future.  
+  
+The proposals that I have outlined to you today clearly signal that the
+government is looking for innovative and substantial reforms to our spectrum
+management framework.  
+  
+Given the fundamental role that spectrum will play in the development of an
+innovative and productive digital and networked economy it is vital that all
+stakeholders make the most opportunity that the spectrum review presents.  
+  
+To progress the policy development process my Department will release a
+Spectrum Review Directions paper in October setting out a range of possible
+reform measures and will follow this with a stakeholder workshop before the
+end of the year. The Department will also shortly be releasing a separate
+discussion paper to seek the industry's views on future arrangements for
+television broadcasting spectrum  
+  
+I trust that as an industry and as individual firms that you will take up the
+challenge that the review presents and bring forward proposals to ensure that
+we have a future ready spectrum management framework.  
+  
+Thank you.

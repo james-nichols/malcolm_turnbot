@@ -1,0 +1,149 @@
+Australian art, music, literature, film and television are an integral part of
+our culture and contribute significantly to our economy. These things that we
+value do not exist without creators. These creators need incentives and
+rewards for their endeavours, and a robust copyright framework is needed to
+provide these incentives and rewards.  
+  
+The advent of the internet has enriched society with the ability to access and
+share information and ideas to an unprecedented degree. Digital disruption,
+globalisation, convergence and mass connectivity are upheaving the world
+around us and fundamentally changing the way we work, interact and are
+entertained. To get a sense of the pace, think that just 10 years ago the
+first video was uploaded on YouTube, and Android was a small start-up that
+Google had just acquired. No-one had a smartphone. Today, 300 hours of video
+is uploaded onto YouTube every minute. On the one hand, the internet is a
+platform that innovative businesses have exploited to provide consumers with a
+great variety and choice of content and ways to access copyright; however, on
+the other hand, the rapid growth of the internet has brought significant
+challenges to the protection of copyright due to the ease with which material
+can be digitally copied and shared at little or no cost.  
+  
+Overall, in net terms the internet has been a very positive development, with
+profound social, educational and economic benefits. This is, without any
+doubt, the most exciting time in human history to be alive, and the internet
+is a very, very substantial part of that excitement, of that sense of
+disruption and change and innovation and excitement. But it has also caused
+some people to treat all content online as something that they are entitled to
+access for free, regardless of the views or the rights of the owner. This
+attitude has been extended to creative works produced by artists, actors,
+directors, producers and writers, who rely on copyright protection to make a
+living and to fund the production of new works. Unfortunately, those who wish
+to access infringing-copyright material currently have the means to do so
+easily and freely.  
+  
+There is no silver bullet to deal with internet piracy, but the Copyright
+Amendment (Online Infringement) Bill 2015 provides an important part of the
+solution to the problem of online copyright infringement. It is vital that
+copyright owners have an efficient mechanism to disrupt the steady supply of
+infringing content to Australian internet users from overseas based websites.
+This bill will provide an enhanced, streamlined mechanism that enables
+infringing material to be blocked by a carriage service provider—an internet
+service provider—without the need to establish fault on the part of that
+provider. Specifically, the bill will introduce a new provision that allows a
+carriage service provider to disable access to infringing online locations
+located outside Australia.  
+  
+The bill contains a number of safeguards to ensure that the power does not
+unduly encroach on other important public and private interests. First, the
+provision will only capture online locations where it can be established that
+the primary purpose of the location is to infringe, or facilitate the
+infringement, of copyright. As I made clear in my second reading speech, these
+amendments are designed not to apply to virtual private networks, or VPNs,
+that are promoted or used for legitimate purposes. VPNs have a wide range of
+legitimate purposes, not least of which is the preservation of
+privacy—something which every citizen is entitled to secure for themselves—and
+they have no oversight, control or influence over their customers' activities.  
+  
+I have used the example of an Australian using a VPN to create the impression
+that they were located in the United States so that, when the American site
+saw the IP address, they would see a US IP address. This Australian could
+then—and this is widely done—purchase the content in the normal way with a
+credit card. The owner of the Australian rights to the content so acquired
+might well be quite unhappy about that, but they could take a remedy against
+the American site or the underlying owner of the rights. This bill does not
+apply to a site like this. It is not intended to apply to VPNs.  
+  
+Where someone is using a VPN to access, for example, Netflix from the United
+States to get content in respect of which Netflix does not have an Australian
+licence, this bill would not deal with that, because you could not say that
+Netflix in the United States has as its primary purpose the infringement, or
+facilitation of the infringement, of copyright. This is a very important point
+to make. If Australian rights owners have got issues about American sites
+selling content to Australians in respect of which they do not have Australian
+rights, they should take it up with them. The big boys can sort it out between
+themselves and leave the consumers out of it.  
+  
+The second safeguard is the broad range of factors that reflect competing
+public and private interests that a court can take into consideration, and
+those factors include, for example, the flagrancy of the infringement or its
+facilitation; whether blocking access to the online location is a
+proportionate response in the circumstances; and the overall public interest.  
+  
+The Senate Legal and Constitutional Affairs Legislation Committee has
+recommended that the bill be passed subject to four recommendations for
+improvement. The government thanks the committee for its deliberations and has
+accepted all of these recommendations, which have been addressed by the
+amendments to the bill and the explanatory memorandum that I am tabling today.
+The government has introduced an amendment to the bill which would give the
+Federal Court discretion to take into account specified matters in deciding
+whether to grant an injunction—rather than being required to take these
+matters into account—and what weight to place on these factors. This is
+consistent with the approach normally taken by a court in assessing whether to
+grant an injunction.  
+  
+The government also proposes, in light of the committee's recommendations, two
+amendments to the explanatory memorandum. The first clarifies that appropriate
+orders that the Federal Court may make in granting an injunction could include
+a requirement that parties set up a landing page to which subscribers will be
+diverted if they try to access a disabled online location.  
+  
+The second clarifies that, consistent with case law, carriage service
+providers should not be exposed to legal actions by subscribers as a result of
+acts or omissions in compliance with an order and that the court has
+discretion to make appropriate directions on the costs of implementing an
+order.  
+  
+A further amendment proposed is to clarify the operation of the primary
+purpose test. Specifically, an online location could have the primary purpose
+of copyright infringement even if it operates in such a way that it derives
+profits from advertising revenue.  
+  
+The government has also committed to review the operation of the bill 18
+months after its commencement. I want to stress this point that I made
+earlier: we recognise that we are living in a very dynamic and disruptive
+environment, powered in large measure by the internet. We believe this is a
+very good policy response to this problem of internet piracy. We are comforted
+by the fact that the opposition is supporting the bill, and I want to
+acknowledge the support and constructive collaboration that the Attorney-
+General and I have had from the shadow Attorney-General, the member for
+Isaacs; and the shadow communications minister, the member for Blaxland. If
+this bill does not work as well as we would like, we will look at it again.  
+  
+Both sides of politics have to recognise that the objective is to ensure that
+the creative industries that the member for Griffith was speaking about only a
+moment ago are fairly rewarded for their efforts and that online piracy is
+brought to an end, so we have to be very agile in our approach to this. This
+is a good set of measures. It is the best model we have at the moment, but, if
+it does not achieve its objectives, we have got to be prepared to come back
+and change it. That is why we are committed to reviewing the operation of the
+bill 18 months after its commencement.  
+  
+The bill is not intended to operate in a vacuum. The availability of content
+that is timely and affordable is a key factor in the solution to online
+copyright infringement. When infringing sources of content are disrupted, this
+disruption will be most effective if Australian consumers have legitimate
+sources to turn to that provide content at competitive prices and at the same
+time that it is available overseas. Furthermore, the industry code negotiated
+by internet service providers and rights holders is intended to provide a
+mechanism to inform Australian consumers of legitimate sources of content. The
+industry are in final negotiations around how that code will be paid for and
+implemented, and the ACMA is currently considering whether to register this
+code.  
+  
+In conclusion, the bill provides an effective contribution towards addressing
+the longstanding problem of online copyright infringement and it does so in a
+proportionate and balanced way that takes into account other important public
+and private interests. It was the result of extensive consultation and it
+complements other initiatives by industry. I want to thank all honourable
+members who have contributed to this debate for their contributions, and I
+commend the bill to the House.

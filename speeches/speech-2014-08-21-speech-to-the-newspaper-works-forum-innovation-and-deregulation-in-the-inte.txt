@@ -1,0 +1,516 @@
+### Check Against Delivery ###  
+  
+Good morning and welcome to the Newspaper Works ‘Future Forum’ where the
+publishers are able to come together to discuss industry trends and the future
+of their industry.  
+  
+I would like to welcome in particular:  
+  
+● The chief executive of the Newspaper Works, Mark Hollands ● Yasmin Namini,
+Chief Consumer Officer of The New York Times ● And some of the industry’s key
+chief executives who will be conducting a panel discussion this morning
+including Julian Clarke from News Corp, Greg Hywood from Fairfax, Michael
+Miller from APN and Chris Wharton from Seven West Media WA.  
+  
+The Australian Story and Innovation Among Publishers  
+  
+Our democracy depends on a free press.  
+  
+The work journalists and editors do is just as important to our democracy as
+that done by politicians like me or judges or public servants.  
+  
+  
+  
+Newspapers have been the most important foundations of journalism. They have
+had the scale and the influence to frame and host the big debates on the big
+issues. They have been big and ornery enough to take on powerful vested
+interests (and each other ) and have held governments to account.  
+  
+Before I move onto the economics of the newspaper industry, the subject of
+this conference, let us reflect on the brutal murder of James Foley and the
+very high price that so many of our journalists, your colleagues and
+employees, pay to deliver us the news, pay to ensure our democracy.
+Journalists and journalism arre in the front line of the battle for democracy.  
+  
+I condemn the murderers of James Foley, extend our condolences to his family
+and express the support of our Government to all journalists, including our
+own Peter Greste wrongfully imprisoned in Egypt, who are paying a high and all
+too often cruel price for freedom’s sake.  
+  
+Now we all understand the nature of the challenge. The Internet has created a
+universal uber-platform now accessible from any device anywhere anytime that
+simply offers a more cost effective platform for advertising and especially
+classifieds.  
+  
+A lot of people have criticised newspaper managements over the years for not
+seeing this coming and it is ironic that while the Internet became commercial
+twenty years ago newspaper advertising revenues continued to grow until
+relatively recently.  
+  
+However even if the management of Fairfax which had dominated newspaper
+classifieds, for example, had seized all the obvious-in-hindsight
+opportunities so that they owned all of Seek and other online platforms, while
+their shareholders would be better off, their newspaper business would be
+facing the same challenges of declining revenues and profits and consequently
+shrinking newsrooms.  
+  
+Newspaper advertising revenue in the United States peaked in 2005; Australia’s
+peaked in 2008, the year after the first iPhone was shipped. Compared to 2003,
+the U.S. has seen a decline of print advertising revenues by 60 per cent while
+in Australia the decline has been 28 per cent.  
+  
+Sometimes it is better to be few years behind the US.  
+  
+And yet when it comes to innovation and embracing new online business models,
+arguably Australian publishers have been ahead of the curve. It is barely a
+year since our two major publishers, News Limited and Fairfax introduced
+metered paywalls for their sites1, and the evidence is that our major
+mastheads now have around half a million paid, digital subscriptions. At
+Fairfax there are 140,000 digital-only subscribers to The Age and The Sydney
+Morning Herald while those titles have around another 110,000 subscribers who
+have bundled physical and digital packages2. Both the Sydney Morning Herald
+and The Age have more digital subscribers on Monday to Friday than they have
+subscribers to their physical paper (though less than their total sales)3.
+News Limited has more than 200,000 digital subscribers its titles and plans to
+re-launch its paywalls in the near future, making them simpler and easier to
+use4. The Australian managed to increase the number of digital subscriptions,
+now boasting more than 64,000 digital subscribers, while doubling its weekly
+price to $6 – a sign that there is still an audience for quality journalism.
+Compared to their international peers, Australian publishers have done well.
+This financial year, Fairfax has seen revenue from digital subscriptions rise
+to $24 million, which accounts for around 9 per cent of the digital revenues
+from its metro titles5. By comparison, digital subscription revenues at the
+New York Times company saw digital subscription revenue of around US$41
+million last quarter, which was slightly less than 11 per cent of total
+revenue6. Digital subscriptions were $82 million at the New York Times out of
+$419 mn in total circulation revenue over the last six months..  
+  
+PWC are forecasting industry-wide digital subscription revenue to grow ten-
+fold until 2018, with around 6.1 million Australians paying for a digital
+subscription. Of course each new digital subscriber will bring less revenue
+per user, but the forecast is that there will be almost double the number of
+total paying subscribers once digital is taken into account. Revenue from
+circulation should begin to plateau at around $1.2 billion, down from the $1.3
+billion earned currently7. In other words, if you can collect enough digital
+dimes you may well end up with close to a dollar after all.  
+  
+Clearly paywalls are not a silver bullet. Publishers have to find the correct
+balance between making sure that people pay to read their stuff and at the
+same time maximise the eyeballs on their sites for the sake of advertisers.
+This is nothing new - publishers have had the same debate about cover prices
+since time immemorial. The best model, originally pioneered by the FT I am
+informed by Yasmin Namini, is the freemium model.  
+  
+The Sydney Morning Herald’s paywall, for instance, was introduced allowing 30
+free articles a month8 while the News+ paywall offered people between five and
+15 free articles a month9. Each outlet gets, on average, 10 and 11 sessions
+per month per user respectively10, with a number of page impressions each
+session, but readers are not necessarily going to bump up against the paywall.
+The Industry Responds to Digital Disruption  
+  
+The term ‘digital disruption’ is well known to all of us here today. Jeff
+Bezos, himself now a newspaper proprietor, decided that an ebook should cost
+under $1011; Netflix delivers a platform where people can watch an array of
+content whenever they like; the music industry innovates in the sound quality
+on compact discs and then along comes Spotify.  
+  
+The old models of production and distribution are being changed forever;
+entire supply chains will disappear; customers’ behaviours change and
+eventually too, so must the behaviour of the incumbents if they are to have a
+place in the new environment.  
+  
+The Internet has not just offered new and cheaper platforms for advertising
+and, because of the superior functionality of online search, especially
+classifieds, it has also dramatically lowered the barriers to entry for new
+competitors.  
+  
+Sir Frank Packer sold The Daily Telegraph to Rupert Murdoch in 1972 and
+regretted it. Trevor Kennedy recalls the big old man wheezing with emphysema
+prowling through the cavernous emptiness of what had been the Telegraph’s
+press room and dreaming of making a comeback.  
+  
+His son Kerry came close to getting back into the newspaper business, nearly
+merging with the Herald & Weekly Times shortly before News acquired it and at
+one point proposing a Wapping-like plan to acquire Times Newspapers to the
+Thomsons in 1979.  
+  
+But a perennial interest of Kerry was to return to the Sydney daily newspaper
+market and at different times I worked on business plans to do that. But the
+lock off the incumbents, especially Fairfax, had on the classifieds was too
+strong, the cost of entry too high, the rivers of gold too distant for Kerry
+to realise his dream.  
+  
+In many ways the great metropolitan newspapers were even more protected
+against competition than the television licences - technology started to
+threaten them first with rental videos, then DVDs, then Pay TV, but newspapers
+seemed impregnable.  
+  
+That undoubtedly bred an attitude of complacency among proprietors - and of
+course many opportunities in the new world was missed. The hardest thing for a
+manager of any company to do is to cannibalise an existing revenue stream --
+even as less experienced competitors are lining up to cannibalise it for them.  
+  
+As former Baltimore Sun reporter, David Simon, wrote, most newspapers simply
+weren’t ready for the Internet when it came:  
+  
+“Which, exactly, is the proper epitaph for the generation that entered
+newspapering at the very moment when the big-city dailies — the fat morning
+papers, those that survived the shakeout of afternoon tabloids and other weak
+sisters — seemed impervious, essential and ascendant? Were we the last
+craftsmen prepared for a horse-and-buggy world soon to prostrate itself before
+the god of internal combustion? Or were we assembly-line victims of the inert
+monopolists of early 1970s Detroit, who thought that Pacers and Gremlins and
+Chevy Vegas were response enough to Japanese and European automaking
+superiority?”12  
+  
+But today newsrooms are looking more and more like Silicon Valley start-ups.
+Never have the barriers to entry been so low for competitors and competition
+so intense. Three of the top 10 news sites in Australia according to Nielsen
+were not there three years ago - The Daily Mail, the Guardian and the BBC.
+Competitors like The Huffington Post and Buzzfeed are competing against
+traditional companies with no legacy infrastructure costs or liabilities. Our
+media industry has not been so diverse or susceptible to change.  
+  
+One of the most common things you hear from pessimists about the future of
+‘traditional’ media companies is that consumers are not willing to pay for
+news in an online world. Received wisdom is that media companies were too late
+in putting their paywalls up, that consumers have been trained to expect
+things for free, that the sources of information in the online world are just
+too abundant and that smaller, nimbler operations have targeted niche
+audiences and have outmaneuvered larger, general news organisations. But media
+companies are increasingly using new tools to deliver on their core mission
+which is to inform, to entertain and to tell important stories. Consider, for
+instance, the amazing multimedia package The Australian put together for its
+50th anniversary; Trent Dalton’s series on the remote island Utopia for the
+Weekend Australian combining beautiful writing and multimedia into a single
+package13 or Fairfax’s decision to suspend its paywalls in October to cover
+the NSW bushfires14.  
+  
+I have also enjoyed the Courier Mail’s front pages this year too -- though
+they have not always been kind to the Government. We all talk about innovation
+in journalism and it’s fair to say that perhaps no other profession has taken
+as keenly to the introduction of photoshop - whether it be the Courier Mail
+sending up Jacqui Lambie as Rambo this week, justifying life as a Queenslander
+after the State of Origin loss or Wayne Swan as Eugène Delacroix’s Liberty
+after his warnings that the budget could lead to insurrections similar to the
+French Revolution. I hope it is no mere coincidence that the Mail’s
+circulation figures were the best performing among all metropolitan and
+national newspapers15.  
+  
+All of this has meant that traditional media companies are attracting more
+eyeballs than ever. That is why the Newspaper Works is so important in telling
+the industry’s story, particularly with its Enhanced Media Metrics Australia,
+or EMMA, survey. It shows that people have never read our major publishers’
+journalism more. This year print readership was down by 4 per cent but digital
+readership was up by 11 per cent16. In June, the Sydney Morning Herald had a
+total readership of 5.58 million, which is more than the population of the
+greater Sydney region it notionally serves.  
+  
+Now it is broadly true that there is an unwillingness to pay for online news
+content. Only 11 per cent of consumers surveyed in the U.S. and eight per cent
+of consumers in the U.K. say they have paid for online news content in the
+past year17. Another 11 per cent of consumers in the U.S. said they are
+thinking about paying for online news content in the year ahead. In Australia,
+the story is similar – only 8 per cent of people say they are willing to pay
+for online news18. But then, there has always been an unwillingness to pay for
+newspapers. Readership has always been higher than paid circulation –
+currently each physical newspaper sold in Australia nonetheless passes through
+3.5 sets of hands of people who read it19. People have always expected to read
+the news for free to some extent - whether it be a spare newspaper lying
+around at a cafe or at the office or at an airport. Despite the medium, there
+is always going to be an engagement curve with readers. Some people will
+access news online but never butt up against a paywall; some people will butt
+up against a paywall but pay for access sporadically. Some people will buy
+full digital subscriptions and opt for home delivery on a weekend. The
+important thing is that no one strategy is likely to work, nor can each
+customer be treated the same. There has been a huge amount of innovation when
+it comes to different business models to capture more value out of each
+segment of the market with three key trends standing out: the increasing
+fragmentation and targeting of products; the success of pre-roll video
+advertising and opportunities for mobile in general; and the continuing value
+in print as a ‘premium’ product. Increasingly, the ‘all you can eat’ model for
+paid subscriptions is giving way to smaller, more nimble products in much the
+way that e-books and digital music have had to settle for price points that
+consumers are comfortable with. So for instance, the New York Times has in
+recent weeks launched two new apps, NYT Opinion and NYT Now, which cost just
+$2 a week, which is cheaper than the US$15 a month for iPhone access and US$35
+a month for full digital access.  
+  
+Interestingly, when it comes to willingness-to-pay, it is the digital natives
+who are more likely to shell out for online news. In Australia, people aged
+25-34 years of age are almost four times more likely to pay for online news
+than those aged 45 to 54 years of age20.  
+  
+Even when customers don’t want to pay, publishers are getting better at
+finding value. Companies like The Guardian, through its ‘Known’ project, are
+asking customers to register their personal details21. Publishers are learning
+from Google and others the wisdom of the old adage: “If, in the digital age,
+the product is free, then you are the product”.  
+  
+Another great trend has been the rise of pre-roll video. We may grumble about
+Google eating the world, but one of the upsides of those annoying YouTube ads
+is that consumers are more willing to tolerate pre-roll video advertisements.
+In the U.S., embedded video advertising doubled in the two years to 2013, now
+accounting for $4.14 billion in industry revenue22. In Australia, it has
+become one of the most effective forms of online advertising, with a third of
+consumers saying it will affect their buying decisions23.  
+  
+And finally, it has to be acknowledged that there is still a great value in
+print itself. One of my favourite sources for financial news about the
+newspaper and media industry is Monday Note.  
+  
+Many of you will have heard me refer to an argument that one of the site’s
+writers, Frédéric Filloux put forward that newspapers - and particularly
+weekend newspapers - should seek to drastically raise their cover prices24.
+The experience internationally has been that once you lose the least loyal
+customers, the remaining market is quite inelastic when it comes to prices. I
+take some small pride that as Communications Minister, at least someone in the
+industry is listening to me -- both The Australian and the Sydney Morning
+Herald have raised the cover prices by 30 cents to $3.30 on their weekend
+editions.  
+  
+The fact is that print is still valued as an advertising platform and as a way
+of reading the news. In Mary Meeker’s annual State of the Internet
+presentation, she showed there is still a strong bias to print, with it
+earning 19 per cent of industry revenue despite it taking just five per cent
+of media consumption time25. As News Corporation’s Robert Thomson recently
+said: “Print is a concentrated, intense reading experience with unique
+affinity in our digitally distracted age”26.  
+  
+  
+  
+Implications for Government In our Boost Productivity and Reduce Regulation
+policy we took to the Australian people during the election we set a target
+across government of reducing regulatory costs to the economy by $1 billion
+per annum. The current media, telecommunications and radiocommunications
+regulatory framework is still based in a mid-1990s pre-Internet world of
+relatively stable technologies and business models – a world where governments
+and regulators were more worried that the rivers of gold didn’t converge than
+they were about encouraging a torrent of innovation. The pressures on the
+regulatory arrangements and the negative impact of out-dated regulation on the
+industry will only increase. In May this year, I released a deregulation
+roadmap setting out my deregulatory priorities for the communications sector.
+We have made a positive start, achieving savings in the order of $30 million
+dollars for media and telecommunications businesses during the government’s
+first repeal day. Work is well underway for another layer of regulation to be
+repealed, reduced or made simpler in time for the second repeal day scheduled
+for late October. The roadmap also flagged that the Government recognises that
+industry wants reform in a range of policy areas. These included the current
+media ownership and control rules, the anti-siphoning scheme, retransmission
+of commercial and national free-to-air services, and options for the use of
+unassigned broadcasting spectrum. Many in the industry have asked me to look
+at whether we still need platform specific media ownership rules. . At its
+March 2014 meeting the broadcasting and media representatives on my
+Ministerial Advisory Council were also in broad agreement that reform was
+necessary, particularly where it could improve the economic stability of the
+sector in an increasingly difficult environment. Now I first represented a
+media company on a media regulation inquiry in 1977. So I have seen this film
+before and I know that consensus ends where self-interest kicks in. But I am
+in the process of holding focused discussions with senior executives in the
+industry to test if consensus can be achieved on the various proposals that
+have been put to me. With an agenda that includes rolling out the NBN,
+reforming the public broadcasters and Australia post, e-government and the
+promoting the digital economy I have explained to all the players that
+consensus is always a good place to start from to achieve any change. It’s
+fair to say that change is still on the agenda but it needs to carefully
+balance two competing concerns – the need for diversity in our media industry
+and to ensure that we have enough economically viable media businesses to make
+that diversity possible. But let me remind you that there has been a change of
+Government. I believe in working with the industry not against it. I believe
+that given the massive increase in competition and diversity there should be
+less regulation of the media sector not more and I certainly do not intend to
+break with Australia’s peace time tradition and introduce Government
+regulation of the content of your newspapers as the previous labor Government
+attempted to do.  
+  
+Local News  
+  
+I’ve already stressed the importance of deregulation to this Government and
+when it comes to the debate of media ownership, and the reach rule in
+particular, there is a bit of controversy and ill-informed debate over local
+content. Let me just reiterate that any changes to media ownership will not
+affect the local content requirements that are a part of a radio or television
+license. Everyone, the government included, is concerned that regional
+communities around Australia have access to news, presented and written by
+journalists who understand their area, their people and their issues. In an
+ACMA report on local content 91 per cent of regional Australians said they
+considered local content to be important, and again, 91 per cent of those
+surveyed believed they had access to all the local content they would like. As
+regional broadcasters and newspapers face increasing cost pressures, it’s
+important that regional Australians have access to a variety of sources for
+local news and information. Of those surveyed, 82 per cent said they got
+access to what’s occurring locally by reading their local print newspaper at
+least once a week, a higher usage rate than commercial radio (67 per cent),
+local ABC radio and social media (63 per cent)27. Importantly, over 95 per
+cent of regional Australians reported they would seek out local content, and
+they access different sources for different purposes. For regional Australians
+local newspapers are the preferred source for local sports and information
+about community events, and the second most preferred source after television
+for local news. Demonstrating that local print newspapers have a vital role to
+play in providing Australians access to the information they want to read.
+Local newspapers are not only important sources of local content, they are
+important advocates for regional issues. In 2012 The Border Mail took out two
+Walkley Awards, including the award for excellence in journalism, for their
+‘Ending the Suicide Silence’ campaign. The week-long campaign was comprised of
+features in The Border Mail, stories on mental health issues, and lobbying for
+mental health services in the region, complemented by a Facebook page. The
+innovative approach to this issue was not just about reporting local content,
+but uniting and mobilising a community on an issue of critical importance. I
+think it’s also important to acknowledge the work of another Walkley-winning
+campaign and that is the Newcastle Herald’s ‘Shine the Light’ series on child
+sex abuse in the Catholic Church which led to first a NSW judicial inquiry and
+now a Federal royal commission. Journalist Joanne McCarthy’s commitment in the
+face of threats, complaints and abuse was pivotal in uncovering what had been
+hidden from the community for too long. Walking the fine line between advocacy
+and journalism McCarthy confessed that she was a regional person and only a
+regional paper could have done what the Newcastle Herald did because it went
+well beyond what is normal behaviour for a metro28. Regional newspapers are
+therefore not only an important source of local news and information, but a
+vital part of the media landscape, pushing the boundaries, advocating for
+change, and giving regional Australians a voice.  
+  
+Conclusion  
+  
+Newspapers have been - and still by and large are - the great foundations of
+journalism and our democracy. Nearly all of what we read and see on the
+television and hear on the radio are almost always the result of the original
+journalism of our big publishers and the ABC. It is almost inconceivable to
+think of the recent ICAC inquiries without the tireless work of journalists
+like Kate McClymont; or the Health Services Union scandals without writers
+like Brad Norrington.  
+  
+I gave a speech in 201229 expressing a genuine concern that the very
+foundations of journalism, the most powerful organs of free speech, the great
+newspapers themselves are struggling to survive. Those concerns are still
+valid, but it is clear that in the last two years the industry has responded
+to the challenge in an innovative manner that gives us every cause for
+optimism about your future.  
+  
+The former editor of The Guardian in Australia Kath Viner defined our current
+media age as one in which we’ve seen ‘the rise of the reader’30 putting at the
+very centre of what media organisations do.  
+  
+Our politicians may come and go and in between complain bitterly about how
+outrageously they were treated by our big media organisations; recognising
+that complaining about the media is as useless as complaining about the media.  
+  
+But the truth is that challenges you face are important not just for your
+shareholders and your staff, but for our democracy, our free society. We need
+you to succeed, our freedoms depend on it.  
+  
+  
+  
+Thank you for your time today and good luck for the road ahead.  
+  
+ENDS  
+  
+  
+  
+Footnotes  
+  
+1\. News Limited launched news+ in June 2013 while Fairfax introduced its
+paywall in July 2013. The Australian uses a mixed paywall.  
+  
+2\. Fairfax, (2014), “Annual Results Investor Briefing”, p.7, available online
+at: http://storage.googleapis.com/fxj-corp-docs-public/2014-08-14_Full-
+Year%20Results%20-%20Investor%20Briefing.pdf  
+  
+3\. Audited Media Association of Australia, (2014), “ABC Paid Media Audit,
+June”  
+  
+4\. Robert Thomson, (2014), “Full Year Financial Results: Transcript”,
+available online here.  
+  
+5\. Fairfax, (2014), “Annual Results Investor Briefing”, p.38, available
+online at: http://storage.googleapis.com/fxj-corp-docs-public/2014-08-14_Full-
+Year%20Results%20-%20Investor%20Briefing.pdf  
+  
+6\. New York Times Company, (2014), “Second Quarter Results”, available online
+at: http://investors.nytco.com/investors/investor-news/investor-news-
+details/2014/The-New-York-Times-Company-Reports-2014-Second-Quarter-
+Results/default.aspx  
+  
+7\. PWC, (2014), “Revolution, Not Evolution: The Australian Entertainment and
+Media Outlook 2014-18”.  
+  
+8\. Sydney Morning Herald, (2013), “Sydney Morning Herald Introduces Digital
+Subscription”, available online here: http://www.smh.com.au/national/sydney-
+morning-herald-introduces-digital-subscriptions-20130701-2p6nl.html  
+  
+9\. Davidson, D., (2013), “News Unveils Metered Digital Subscriptions Plan for
+The Daily Telegraph and Herald Sun”, available online here:
+http://www.theaustralian.com.au/media/print/news-unveils-metered-paywall-plan-
+for-daily-telegraph-and-herald-sun/story-
+fn9ymmvo-1226637384084?nk=b3383d18fb488f7dc0595bd28f410ed1  
+  
+10\. Nielsen, (2014), “Nielsen Online Ratings: June”.  
+  
+11\. Coll, S., (2014), “Citizen Bezos”, in the New York Review of Books,
+available online here:
+http://www.nybooks.com/articles/archives/2014/jul/10/citizen-bezos-amazon/  
+  
+12\. Simon, D., (2008), “Does the News Even Matter Any More?” available online
+here: http://davidsimon.com/does-the-news-matter-to-anyone-anymore/  
+  
+13\. Dalton, C., (2014), “Welcome to Utopia”, available online here:
+http://media.news.com.au/nnd/captivate/edenhope/#  
+  
+14\. Fairfax Media, (2013), “The Sydney Morning Herald and the Age Provide
+Community With Free Online Coverage of NSW Bush Fires”, available online here.  
+  
+15\. The Courier Mail’s circulation fell by 2.4 percent in the June quarter
+compared to the June quarter 2013. Source: Audited Media Association of
+Australia, (2014), “ABC Paid Media Audit, June”  
+  
+16\. Newspaper Works, (2014), “EMMA Survey”  
+  
+17\. Reuters Institute, (2014), “Digital News Report”, p.56, available online
+here:
+https://reutersinstitute.politics.ox.ac.uk/sites/default/files/Reuters%20Institute%20Digital%20News%20Report%202014.pdf  
+  
+18\. Deloitte, (2014), “Media Consumer Survey”, available online here:
+http://www.deloitte.com/au/mediaconsumer  
+  
+19\. Newspaper Works, (2014), “EMMA Survey”  
+  
+20\. 15 per cent compared to 4 per cent. Deloitte, (2014), “Media Consumer
+Survey”, available online here: http://www.deloitte.com/au/mediaconsumer.
+Additional information on demographic breakdowns provided by Deloitte.  
+  
+21\. Doctor, K., (2014), “The Newsonomics of The Guardian’s New ‘Known’
+Strategy”, available online here: http://www.niemanlab.org/2014/02/the-
+newsonomics-of-the-guardians-new-known-strategy/  
+  
+22\. Pew Research Center, (2014), “State of the News Media 2014: Paying for
+News: The Revenue Picture for American Journalism and How It Is Changing”,
+p.28, available online here: http://www.journalism.org/files/2014/03/Revnue-
+Picture-for-American-Journalism.pdf  
+  
+23\. Deloitte, (2014), “Media Consumer Survey”, p.19 available online here:
+http://www.deloitte.com/au/mediaconsumer  
+  
+24\. Filloux, F., (2012), “Why Newspapers Must Raise Their Price”, in Monday
+Note available online here: http://www.mondaynote.com/2012/09/02/why-
+newspapers-must-raise-their-price/  
+  
+25\. Meeker, M., (2014), “Internet Trends”, slide 15, available online here:
+http://s3.amazonaws.com/kpcbweb/files/85/Internet_Trends_2014_vFINAL_-_05_28_14-_PDF.pdf?1401286773  
+  
+26\. Robert Thomson, (2014), “Full Year Financial Results: Transcript”,
+available online here.  
+  
+27\. ACMA, (2014), “Regional Commercial Television Local Content Investigation
+Report”, p.20  
+  
+28\. Knott, M., (2013), “Accidental crusader: how a regional reporter prompted
+a royal commission”, published in Crikey, 28 March, available online here:
+http://www.crikey.com.au/2013/03/28/accidental-crusader-how-a-regional-
+reporter-prompted-a-royal-commission/  
+  
+29\. http://www.malcolmturnbull.com.au/media/free-at-last-or-freedom-lost-
+liberty-in-the-digital-age-2012-alfred-deakin  
+  
+30\. Viner, K., (2013), “The Rise of the Reader: Journalism in the Age of the
+Open Web”, available online:
+http://www.theguardian.com/commentisfree/2013/oct/09/the-rise-of-the-reader-
+katharine-viner-an-smith-lecture
