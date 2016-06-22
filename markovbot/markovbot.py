@@ -851,8 +851,6 @@ class MarkovBot():
 							database = u'default'
 							self._message(u'_autoreply', u"There was no database for detected language '%s', nor for 'en', so I defaulted to '%s'." % (lang, database))
 	
-                                        import pdb
-                                        pdb.set_trace()
 					# Separate the words in the tweet
 					tw = tweet[u'text'].split()
 					# Clean up the words in the tweet
