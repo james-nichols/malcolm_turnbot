@@ -1,1 +1,1 @@
-worker: python malcolm_turnbot.py
+worker: python ./malcolm_turnbot.py
