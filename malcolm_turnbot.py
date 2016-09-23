@@ -36,7 +36,7 @@ suffix = '#ausvotes #TurnbotSpeaks'
 maxconvdepth = 5 
 
 tweetbot.twitter_autoreply_start(targetstring, keywords=keywords, prefix=prefix, suffix=suffix, maxconvdepth=maxconvdepth)
-tweetbot.twitter_tweeting_start(days=0, hours=1, minutes=0, keywords=None, prefix=None, suffix='#ausvotes')
+tweetbot.twitter_tweeting_start(days=0, hours=1, minutes=0, keywords=None, prefix=None, suffix='#auspol')
 
 # Now we wait while the threads do their job
 secsinyear = 1 * 365 * 24 * 60 * 60
